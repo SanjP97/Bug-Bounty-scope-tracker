@@ -1,0 +1,75 @@
+name: Paid Bug Bounty Scope Alerts
+
+on:
+  schedule:
+    - cron: "*/30 * * * *"
+  workflow_dispatch:
+
+permissions:
+  contents: write
+
+jobs:
+  scan:
+    runs-on: ubuntu-latest
+
+    env:
+      TELEGRAM_BOT_TOKEN: ${{ secrets.TELEGRAM_BOT_TOKEN }}
+      TELEGRAM_CHAT_ID: ${{ secrets.TELEGRAM_CHAT_ID }}
+
+    steps:
+      - name: Checkout repo
+        uses: actions/checkout@v4
+
+      - name: Install jq
+        run: sudo apt-get update && sudo apt-get install -y jq
+
+      - name: Set git identity
+        run: |
+          git config --global user.name "automation-bot"
+          git config --global user.email "bot@users.noreply.github.com"
+
+      - name: Fetch bounty-targets-data
+        uses: actions/checkout@v4
+        with:
+          repository: arkadiyt/bounty-targets-data
+          path: bounty-targets-data
+          fetch-depth: 1
+
+      - name: Extract paid assets
+        run: |
+          mkdir -p data
+          jq -r '.[] | select(.max_payout > 0) | .targets.in_scope[].target' bounty-targets-data/data/bugcrowd_data.json | grep -v '\*' > data/bugcrowd.txt || :
+          jq -r '.[] | select(.offers_bounties == true) | .targets.in_scope[].asset_identifier' bounty-targets-data/data/hackerone_data.json | grep -v '\*' > data/hackerone.txt || :
+
+      - name: Merge assets
+        run: |
+          cat data/* > assets.out || :
+          sort -u assets.out -o assets.out
+
+      - name: Find new assets
+        run: |
+          if [ -f .previous_assets ]; then
+            grep -Fxvf .previous_assets assets.out > new_added_assets.out || :
+            cat assets.out >> .previous_assets
+            sort -u .previous_assets -o .previous_assets
+          else
+            cp assets.out .previous_assets
+            : > new_added_assets.out
+          fi
+
+      - name: Telegram alert
+        run: |
+          if [ -s new_added_assets.out ]; then
+            while read asset; do
+              curl -s -X POST "https://api.telegram.org/bot${TELEGRAM_BOT_TOKEN}/sendMessage" \
+                -d chat_id="${TELEGRAM_CHAT_ID}" \
+                -d text="🆕 New paid bug bounty scope: ${asset}"
+            done < new_added_assets.out
+          fi
+
+      - name: Commit results
+        run: |
+          git add .
+          git diff --cached --quiet && exit 0
+          git commit -m "Auto update $(date -u)"
+          git push
