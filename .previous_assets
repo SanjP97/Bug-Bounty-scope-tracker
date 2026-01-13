@@ -1322,6 +1322,7 @@ Zendesk Marketplace Apps created by Zendesk
 Zendesk Mobile Applications
 Zendesk Public Repositories
 Zendesk Suite
+[Unico] Liveness Bypass
 _16928ca3f53f40a48a751be40fa24e4c.bitstamp.net
 _domainconnect.bitstamp.net
 a.root-servers.net (DNS service; DNS related)
@@ -1472,6 +1473,7 @@ api.hackerone.com
 api.iciparisxl.be
 api.iciparisxl.lu
 api.iciparisxl.nl
+api.id.unico.app
 api.instacart.com
 api.khealth.com
 api.klarna.com
@@ -1640,6 +1642,7 @@ autocomplete.booking.com
 autodiscover.bitstamp.net
 aw.visa.com
 b5s.hackerone-ext-content.com
+backend-sdk.prod.private.unico.run
 backstage.io
 badoo.com
 badoocdn.com
@@ -4722,8 +4725,10 @@ identity-dev.nba.com
 identity-ng.nba.com
 identity-qa.nba.com
 identity-uat.nba.com
+identity.acesso.io
 identity.nba.com
 identity.yoti.com
+idpay.unico.io
 ifast.marriott.com
 iframe.arkoselabs.com
 imx.community
@@ -5526,6 +5531,7 @@ toolsforhumanity.com
 trade.ripio.com
 training.ui.com
 transact.playstation.com
+transactions.transactional.unico.app
 translate.badoo.com
 travelagents.marriott.com/
 traveler.marriott.com
@@ -5956,7 +5962,10 @@ www10.watsons.com.ph
 www10.watsons.com.sg
 www10.watsons.com.tw
 www10.watsons.vn
+www2.acesso.io
 www20.watsons.co.th
+www3.acesso.io
+www4.acesso.io
 x.com
 x.razorpay.com
 xFi Gateways (e.g., XB3, XB6, XB7)
