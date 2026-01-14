@@ -1308,6 +1308,7 @@ accounts.reddit.com
 accounts.shopify.com
 accounts.snapchat.com
 accounts.stage.evernote.com
+accountshomolog.acesso.io
 aces-dev.wnba.com
 aces-qa.wnba.com
 aces.wnba.com
@@ -1416,7 +1417,6 @@ api.gx.games/gxc
 api.gx.games/profile
 api.gx.games/session
 api.hackerone.com
-api.id.unico.app
 api.instacart.com
 api.khealth.com
 api.klarna.com
@@ -1550,6 +1550,7 @@ autocomplete.booking.com
 autodiscover.bitstamp.net
 aw.visa.com
 b5s.hackerone-ext-content.com
+backend-sdk.uat.private.unico.run
 backstage.io
 badoo.com
 badoocdn.com
@@ -2108,6 +2109,7 @@ create.snapchat.com
 creator.amazon.com
 creatormarketplace.tiktok.com
 creators.basicattentiontoken.org
+crediariohomolog.acesso.io
 crm.nextcloud.com
 cruises.priceline.com
 cs.money
@@ -4591,6 +4593,7 @@ identity-qa.nba.com
 identity-uat.nba.com
 identity.nba.com
 identity.yoti.com
+identityhomolog.acesso.io
 ifast.marriott.com
 iframe.arkoselabs.com
 imx.community
@@ -5198,6 +5201,7 @@ shopify.plus
 shopifyinbox.com
 shoppers.instacart.com
 signature-insights.api.cx.metamask.io
+signhom.acesso.io
 signup.myconnect.com.au
 simperium.com
 simplenote.com
@@ -5360,7 +5364,6 @@ toolsforhumanity.com
 trade.ripio.com
 training.ui.com
 transact.playstation.com
-transactions.transactional.unico.app
 translate.badoo.com
 travelagents.marriott.com/
 traveler.marriott.com
