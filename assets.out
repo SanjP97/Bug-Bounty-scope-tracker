@@ -1,9 +1,7 @@
 	 speedtest-eastburwood.optusnet.com.au
  203.13.125.32/27
  Finicity Connect
- Fortress.HongKong.IOS
  UniFi OS Server
- Watsons.TaiWan.Android
  com.citymapper.app.release
  https://github.com/0xPolygon/proof-generation-api
  mix.monash.edu 
@@ -681,10 +679,6 @@ Direct Contracts
 Discovered Leaked Credentials
 Dreamweaver
 Drivers
-Drogas.Latvia.Android
-Drogas.Latvia.iOS
-Drogas.Lietuva.Android
-Drogas.Lietuva.iOS
 Dynatrace ActiveGate
 Dynatrace MobileAgent
 Dynatrace OneAgent
@@ -748,7 +742,6 @@ FortniteLauncher-Win64-Shipping.exe
 FortniteLauncher-Win64-Shipping_BE.exe
 FortniteLauncher-Win64-Shipping_EAC.exe
 FortniteLauncher.exe
-Fortress.HongKong.Android
 Framemaker
 Freshcaller-iOS-App
 Freshchat-iOS-App
@@ -824,8 +817,6 @@ HubSpot iOS Mobile App
 Hyperdrive
 HyprUnlock.exe
 IBC Go Relayer
-ICIParisXL.App.Android
-ICIParisXL.App.IOS
 Ibotta App Data & Memory
 Id1406825640
 Illustrator
@@ -859,10 +850,6 @@ Kong Gateway Enterprise
 Kong Gateway OSS
 Kong Gateway Plugins (Kong-Supported Only)
 Kong Mesh
-Kruidvat.Belgium.Android
-Kruidvat.Belgium.iOS
-Kruidvat.Netherlands.Android
-Kruidvat.Netherlands.iOS
 LaunchDarkly Open Source SDKs
 Leaked Credentials
 Leaked Credentials and Secrets (Canva Employee/Contractor)
@@ -881,9 +868,6 @@ Logitech Mice & Keyboards
 Logitech Options PC/MAC
 Logitech Sync
 Logstash
-Look at Me PH (subdomains)
-Lookatme.Philippines.Android
-Lookatme.Philippines.IOS
 Loomi.tv
 Low impact, individually exposed Google Docs with no common root cause (see “Publicly accessible Google Document or Drive Links” in the “Corporate Targets” section)
 Luna
@@ -908,16 +892,6 @@ Malwarebytes Windows Firewall Control
 Malwarebytes for Mac
 Malwarebytes for Teams
 Malwarebytes for Windows
-Marionnaud.Austria.Android
-Marionnaud.Austria.iOS
-Marionnaud.France.Android
-Marionnaud.France.iOS
-Marionnaud.Italy.Android
-Marionnaud.Italy.iOS
-Marionnaud.Romania.Android
-Marionnaud.Romania.iOS
-Marionnaud.Switzerland.Android
-Marionnaud.Switzerland.iOS
 Media Encoder
 Megaphone
 Merchant Portal
@@ -934,8 +908,6 @@ Mi TV
 Mi TV Box
 Mi/Redmi Phone
 Microsites
-MoneyBack.HongKong.Android
-MoneyBack.HongKong.iOS
 MongoDB Assistant
 MongoDB Atlas
 MongoDB Community Server
@@ -1028,8 +1000,6 @@ Other Semrush Related Asset
 Other Spotify websites
 Other assets
 Other non-production infrastructure
-PNS.HongKong.Android
-PNS.HongKong.iOS
 PTaaS Reference
 Packet Forward Middleware
 Passkey Wallet
@@ -1169,9 +1139,6 @@ Stripe for Visual Studio Code
 Subdomain Takeover (SDTO)
 Subdomain Takeover - konghq.com
 Substance 3D
-Superdrug.App.Android
-Superdrug.App.IOS
-Superdrug.Healthera.App.Android
 Superhuman Go
 T&P Servers
 TV - Xfinity hardware and services
@@ -1181,8 +1148,6 @@ Tap to Pay (iOS)
 Tesla Energy hardware you own
 Tesla vehicle hardware that you own
 Texts
-ThePerfumeShop.App.Android
-ThePerfumeShop.App.iOS
 Third Party Application
 Third Party Marketplace Apps
 Third Party Snaps
@@ -1262,21 +1227,6 @@ WHOOP 4.0 STRAP
 WHOOP 5.0/MG STRAP
 WP-CLI
 Waiting Room
-Watsons.HongKong.Android
-Watsons.HongKong.IOS
-Watsons.Indonesia.Android
-Watsons.Indonesia.IOS
-Watsons.Malaysia.Android
-Watsons.Malaysia.IOS
-Watsons.Philippines.Android
-Watsons.Philippines.IOS
-Watsons.Singapore.Android
-Watsons.Singapore.IOS
-Watsons.TaiWan.IOS
-Watsons.Thailand.Android
-Watsons.Thailand.IOS
-Watsons.Turkey.Android
-Watsons.Turkey.iOS
 Web Playback SDK
 Web3 Smart Contracts
 Wickr Me Android
@@ -1428,8 +1378,6 @@ api.dashlane.com
 api.deriv.com
 api.direct.playstation.com
 api.doppler.com
-api.drogas.lt
-api.drogas.lv
 api.dyson.at
 api.dyson.be
 api.dyson.ch
@@ -1453,7 +1401,6 @@ api.faraday.ai
 api.fi.dyson.com
 api.figma.com
 api.foliofn.com
-api.fortress.com.hk
 api.geneva-staging.com
 api.github.com
 api.grabpay.com
@@ -1465,9 +1412,6 @@ api.gx.games/gxc
 api.gx.games/profile
 api.gx.games/session
 api.hackerone.com
-api.iciparisxl.be
-api.iciparisxl.lu
-api.iciparisxl.nl
 api.id.unico.app
 api.instacart.com
 api.khealth.com
@@ -1478,17 +1422,12 @@ api.linkedin.com
 api.loanbuilder.com
 api.localizestaging.com
 api.mapbox.com
-api.marionnaud.at
-api.marionnaud.ch
-api.marionnaud.fr
-api.marionnaud.it
 api.mercadolibre.com
 api.mercadopago.com
 api.mergify.com
 api.moonpay.com
 api.netlify.com
 api.ort-one-pingone.com
-api.pns.hk
 api.prd.commerce.simplisafe.com
 api.prod.whoop.com
 api.profiler.firefox.com
@@ -1511,11 +1450,9 @@ api.stage.evernote.com
 api.steampowered.com
 api.stg.inspectorio.com
 api.stripe.com
-api.superdrug.com
 api.swiftfinancial.com
 api.syfe.com
 api.taxjar.com
-api.theperfumeshop.com
 api.tidal.com
 api.tideplatform.in
 api.trello.com
@@ -1524,14 +1461,6 @@ api.upwork.com/graphql
 api.vault.chiatest.net
 api.vhx.tv
 api.vimeo.com
-api.watsons.co.id
-api.watsons.co.th
-api.watsons.com.hk
-api.watsons.com.my
-api.watsons.com.ph
-api.watsons.com.sg
-api.watsons.com.tw
-api.watsons.vn
 api.wisdomtreeprimeapp.com
 api.wordpress.org
 api.yoti.com
@@ -1543,8 +1472,6 @@ app.blueskytravelvietnam.com
 app.circle.com
 app.dashlane.com
 app.deriv.com
-app.drogas.lt
-app.drogas.lv
 app.dynamic-preprod.xyz
 app.dynamic.xyz
 app.faraday.ai
@@ -1554,27 +1481,14 @@ app.geneva-staging.chat
 app.geneva-staging.com
 app.grammarly.com
 app.greenhouse.io
-app.iciparisxl.be
-app.iciparisxl.lu
-app.iciparisxl.nl
 app.interseller.io
 app.khealth.com
 app.klarna.com
 app.koho.ca
 app.krisp.ai
-app.kruidvat.be
-app.kruidvat.nl
 app.larksuite.com
 app.launchdarkly.com
 app.localizestaging.com
-app.marionnaud.at
-app.marionnaud.ch
-app.marionnaud.cz
-app.marionnaud.fr
-app.marionnaud.hu
-app.marionnaud.it
-app.marionnaud.ro
-app.marionnaud.sk
 app.moderntreasury.com
 app.mona.co
 app.moonpay.com
@@ -1588,11 +1502,8 @@ app.smtp2go.com
 app.snapchat.com
 app.starbucks.com
 app.stg.inspectorio.com
-app.superdrug.com
 app.taxjar.com
-app.theperfumeshop.com
 app.uma.money
-app.watsons.com.tr
 app.whoop.com
 app3.rewire.to
 applause1.magisto.com
@@ -1675,7 +1586,6 @@ blog.malwarebytes.com
 blog.playcanvas.com
 blog.remitly.com
 blog.ui.com
-blog.watsons.com.tr
 blox.link
 blueprints.amazon.com
 blueskytours.globalbookingsolutions.com
@@ -4422,10 +4332,6 @@ https://www.dashlane.com/fr/directdownload-v2?os=OS_X_10_12_6&platform=website&t
 https://www.dashlane.com/fr/directdownload-v2?os=none&platform=website&target=archive_win
 https://www.demandforced3.com/
 https://www.designify.com
-https://www.drogas.lt/blog
-https://www.drogas.lv/blog/
-https://www.drogas.lv/lv/blog
-https://www.drogas.lv/ru/blog
 https://www.enjoyselfish.com
 https://www.epam.com/
 https://www.etsy.com
@@ -4444,9 +4350,6 @@ https://www.governmentjobs.com
 https://www.homesupport.irobot.com
 https://www.hostgator.com.br/
 https://www.hostgator.com/
-https://www.iciparisxl.be/blog/
-https://www.iciparisxl.lu/blog/
-https://www.iciparisxl.nl/blog/
 https://www.ifood.com.br
 https://www.illamasqua.com/
 https://www.intercom.com/
@@ -4469,10 +4372,6 @@ https://www.kaleido.ai
 https://www.keepersecurity.com/download.html
 https://www.kohls.com
 https://www.kohls.com/feature/app.jsp
-https://www.kruidvat.be/blog/
-https://www.kruidvat.nl/blog/
-https://www.kruidvat.nl/fotoservice
-https://www.kruidvat.nl/persoonlijk
 https://www.ladbrokes.com
 https://www.ladbrokes.com/en/games
 https://www.lastpass.com
@@ -4494,19 +4393,6 @@ https://www.magicplanetmena.com/
 https://www.malloftheemirates.com
 https://www.mankind.co.uk/
 https://www.mapbox.com/mapbox-gl-js/
-https://www.marionnaud.at/blog/
-https://www.marionnaud.at/m-life/
-https://www.marionnaud.ch/blog/
-https://www.marionnaud.ch/m-life/
-https://www.marionnaud.cz/blog/
-https://www.marionnaud.cz/m-life/
-https://www.marionnaud.hu/blog/
-https://www.marionnaud.hu/m-life/
-https://www.marionnaud.it/m-life/
-https://www.marionnaud.ro/blog/
-https://www.marionnaud.ro/m-life/
-https://www.marionnaud.sk/blog/
-https://www.marionnaud.sk/m-life/
 https://www.mastercard.ch/de-ch.html
 https://www.mastercard.ch/fr-ch.html
 https://www.mastercard.com.au/en-au.html
@@ -4585,13 +4471,10 @@ https://www.staging.jobstreet.com.ph
 https://www.staging.jobstreet.com.sg
 https://www.staples.com/services/printing
 https://www.staples.com/services/printing/oms/basket
-https://www.superdrug.com/blog/
 https://www.tagesanzeiger.ch
 https://www.thecurrent.com
 https://www.thefork.com
 https://www.theforkmanager.com
-https://www.theperfumeshop.com/blog/
-https://www.theperfumeshop.com/ie/blog/
 https://www.thetradedesk.com
 https://www.thuisbezorgd.nl/
 https://www.thumbzilla.com/
@@ -4822,7 +4705,6 @@ logs.dashlane.com
 logs.nextcloud.com
 logstash-props.devicecloud.acceptance.forescoutcloud.net
 lol.onevone
-lookatme.com.ph
 lookup.nextcloud.com
 lrc20.lightspark.com
 lynx-dev.wnba.com
@@ -4852,7 +4734,6 @@ manage-uat.nba.com
 manage.grab.co
 manage.nba.com
 map.snapchat.com
-mapi.moneyback.com.hk
 mark8.syfe.com
 marketing.fareharbor.com
 marketplace.gamemaker.io
@@ -4874,31 +4755,10 @@ mcdalerts-qa.nba.com
 mcdalerts-uat.nba.com
 mcdalerts.nba.com
 mds.marriott.com
-media.drogas.lt
-media.drogas.lv
-media.iciparisxl.be
-media.iciparisxl.lu
-media.iciparisxl.nl
 media.indrive.com
-media.marionnaud.at
-media.marionnaud.ch
-media.marionnaud.fr
-media.marionnaud.it
 media.remitly.io
 media.simplisafe.com
-media.superdrug.com
-media.theperfumeshop.com
 mediacenter.23andme.com
-medias.fortress.com.hk
-medias.pns.hk
-medias.watsons.co.id
-medias.watsons.co.th
-medias.watsons.com.hk
-medias.watsons.com.my
-medias.watsons.com.ph
-medias.watsons.com.sg
-medias.watsons.com.tw
-medias.watsons.vn
 medical.23andme.com
 meechum.netflix.com
 meetings.hyatt.com
@@ -5658,8 +5518,6 @@ www.ddfcontent.com
 www.dolap.com
 www.doordash.com
 www.dota2.com
-www.drogas.lt
-www.drogas.lv
 www.dyson.ae
 www.dyson.at
 www.dyson.be
@@ -5716,7 +5574,6 @@ www.firefox.com
 www.fitvermogen.nl
 www.flights.com
 www.forescout.com
-www.fortress.com.hk
 www.fraedom.com
 www.funjet.com
 www.fuzemeeting.com
@@ -5739,17 +5596,12 @@ www.hotwirepartnercentral.com
 www.hyatt.com
 www.hyattconnect.com
 www.hyattinclusivecollection.com
-www.iciparisxl.be
-www.iciparisxl.lu
-www.iciparisxl.nl
 www.instacart.com
 www.jaybirdsport.com
 www.kayak.com
 www.kiwi.com
 www.koho.ca
 www.kpharmacyllc.com
-www.kruidvat.be
-www.kruidvat.nl
 www.lastminute.co.nz
 www.lastminute.com.au
 www.linkedin.com
@@ -5764,14 +5616,6 @@ www.logitechg.com
 www.logitechstore.com.br
 www.malwarebytes.com
 www.mapbox.com
-www.marionnaud.at
-www.marionnaud.ch
-www.marionnaud.cz
-www.marionnaud.fr
-www.marionnaud.hu
-www.marionnaud.it
-www.marionnaud.ro
-www.marionnaud.sk
 www.marriott.com
 www.members.marriott.com
 www.mercadolibre.co.cr
@@ -5787,7 +5631,6 @@ www.mercadolibre.com.sv
 www.mercadolivre.com
 www.mercadopago.com.ec
 www.momondo.com
-www.moneyback.com.hk
 www.mozilla.org
 www.mrjet.se
 www.mundi.com.br
@@ -5796,7 +5639,6 @@ www.netflix.com
 www.orbitz.com
 www.pangleglobal.com
 www.pixiv.net
-www.pns.hk
 www.pornbox.com
 www.pornworld.com
 www.practicalbusinessskills.org
@@ -5821,7 +5663,6 @@ www.starbucks.com.cn/
 www.starbucksreserve.com
 www.stayz.com.au
 www.stripe.partners
-www.superdrug.com
 www.supernovas.indrive.com
 www.swiftcapital.com
 www.swiftfinancial.com
@@ -5830,13 +5671,11 @@ www.syfe.com
 www.teamfortress.com
 www.temu.com
 www.tgoyemek.com
-www.theperfumeshop.com
 www.tink.com
 www.tradepmr.com
 www.travel-brilliantly.marriott.com
 www.travelocity.ca
 www.travelocity.com
-www.trekpleister.nl
 www.trendyol-milla.com
 www.trendyol.com
 www.triseptapi.com
@@ -5886,15 +5725,6 @@ www.visa.fr
 www.visainfinite.ca
 www.visamiddleeast.com
 www.vrbo.com
-www.watsons.co.id
-www.watsons.co.th
-www.watsons.com.hk
-www.watsons.com.my
-www.watsons.com.ph
-www.watsons.com.sg
-www.watsons.com.tr
-www.watsons.com.tw
-www.watsons.vn
 www.wearehackerone.com
 www.wickr.com
 www.wnba.com
@@ -5909,17 +5739,6 @@ www.yotisign.com
 www.zooplus.co.uk
 www.zooplus.com
 www.zooplus.de
-www10.fortress.com.hk
-www10.pns.hk
-www10.watsons.co.id
-www10.watsons.co.th
-www10.watsons.com.hk
-www10.watsons.com.my
-www10.watsons.com.ph
-www10.watsons.com.sg
-www10.watsons.com.tw
-www10.watsons.vn
-www20.watsons.co.th
 x.com
 x.razorpay.com
 xFi Gateways (e.g., XB3, XB6, XB7)
