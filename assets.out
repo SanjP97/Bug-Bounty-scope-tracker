@@ -1330,7 +1330,6 @@ ads.tiktok.com
 advisories.gitlab.com
 aebddc74953f248bc8455665b0f7d47b-78af959a11e5d0c1.elb.us-east-1.amazonaws.com
 affiliate-id.tokopedia.com
-aggregator.etoro.com
 ai.kanghealth
 ai.portswigger.net
 ai.x.GrokApp
@@ -1399,7 +1398,6 @@ api.dyson.no
 api.dyson.pt
 api.dyson.se
 api.dysoncanada.ca
-api.etoro.com
 api.evernote.com
 api.excalls.mobi
 api.faraday.ai
@@ -1571,8 +1569,6 @@ beacon.netflix.com
 bestfiends.com
 beta-cloud.acronis.com
 bigcommerce-adapter.judge.me
-billing-pci.etoro.com
-billing.etoro.com
 billingsupport.chaturbate.com
 bilt.marriott.com
 biolibre.ar
@@ -1619,7 +1615,6 @@ bugcrowd-pam-###.oktapreview.com
 bugcrowd-pam-###.pam.oktapreview.com
 bugzilla.mozilla.org
 builder.hostinger.com
-bullsheet.me
 business-resources.truecaller.com
 business.kayak.com
 business.linkedin.com
@@ -1638,8 +1633,6 @@ cache.marriott.com
 caldav.larksuite.com
 calendar.notion.so
 callbacks.airbnb.com
-candle-src.etoro.com
-candle.etoro.com
 capturingreality.com
 cardpayments.remitly.io
 cards.remitly.io
@@ -1653,9 +1646,7 @@ cares.nba.com
 cargo.indrive.com
 cars.booking.com
 cart.starbucks.co.jp
-cashier-src.etoro.com
 cashier.deriv.com
-cashier.etoro.com
 cashier.robinhood.com
 ccardseu1.badoo.com
 ccardsus1.badoo.com
@@ -1671,7 +1662,6 @@ chain.link
 chainabuse-staging.com
 channel-portal.homes-and-villas.marriott.com
 channelstore.roku.com/details/48061/vhx
-charts.etoro.com
 chat.booking.com
 chat.x.com
 chatdate.app
@@ -1822,8 +1812,6 @@ com.ebookers
 com.eero.android
 com.einnovation.temu
 com.enjin.mobile.wallet
-com.etoro.openbook
-com.etoro.wallet
 com.eufylife.EufyHome
 com.evernote
 com.exness.android.pa
@@ -2154,7 +2142,6 @@ deeplinks.geneva-staging.chat
 deeplinks.geneva-staging.com
 defi.ripio.com
 delivery-webview.indrive.com
-delta.app
 demo.arkoselabs.com
 demo.dynamic.xyz
 demo.fareharbor.com
@@ -2233,8 +2220,6 @@ enterpriseregistration.bitstamp.net
 epptool-ctld.verisign-grs.com (EPP service; DNS related)
 errors.hackerone.net
 esupplier.marriott.com
-etorologsapi.etoro.com
-etoropartners.com
 eu.cloud.com
 eu.remix.com
 eu1.badoo.com
@@ -2358,7 +2343,6 @@ help.redoxengine.com
 help.sketchfab.com
 help.steampowered.com
 help.ui.com
-helpers.bullsheet.me
 hey-mail
 hg.mozilla.org
 hilton.com
@@ -4620,8 +4604,6 @@ invisionu.education
 invoices.razorpay.com
 io.coda
 io.coda.codaapp
-io.getdelta.android
-io.getdelta.ios
 io.metamask
 io.metamask.Metamask
 ir.bookingholdings.com
@@ -4668,8 +4650,6 @@ kronor.io
 kubernetes-csi.github.io
 kubernetes.io
 kyc-onboarding.booking.com
-kyc-src.etoro.com
-kyc.etoro.com
 lando.services.mozilla.com
 lark-frontier.byteoversea.com
 larksuite.com
@@ -4974,7 +4954,6 @@ partner.steampowered.com
 partner.swiftfinancial.com
 partner.tiktokshop.com
 partners.deriv.com
-partners.etoro.com
 partners.shopify.com
 passport.larksuite.com
 passwordchallenge.marriott.com
@@ -5066,24 +5045,13 @@ psp.marriott.com
 psychobunny.me
 public.hyatt.com
 publicsafety.ring.com
-push-d-gw.cloud.etoro.com
-push-d-hap.cloud.etoro.com
-push-demo-hk-lightstreamer.cloud.etoro.com
-push-demo-lightstreamer.cloud.etoro.com
-push-dn-hap.cloud.etoro.com
-push-hap.cloud.etoro.com
-push-lightstreamer.cloud.etoro.com
-push-n-hap.cloud.etoro.com
 push-notifications.nextcloud.com
-push-real-hk-lightstreamer.cloud.etoro.com
 push.opera.com
 push.services.mozilla.com
 pushfeed.nextcloud.com
 pwapi.ex2b.com
 py.pl
-r.etoro.com
 rafflee.co.uk
-rankings.etoro.com
 ras1.optus.com.au 
 rates.rewire.com
 rea-group.com
@@ -5301,8 +5269,6 @@ streaming-api.iris.production.forescoutcloud.net
 streaming-gw.iris.production.forescoutcloud.net
 streaming.iris.acceptance.forescoutcloud.net
 streaming.iris.production.forescoutcloud.net
-streams.etoro.com
-sts.etoro.com
 sun-dev.wnba.com
 sun-qa.wnba.com
 sun.wnba.com
@@ -5334,8 +5300,6 @@ t.co
 t.umblr.com
 tableau.fareharbor.engineering
 talk.brave.com
-tapi-demo.etoro.com
-tapi-real.etoro.com
 tax.audible.com
 tax.crypto.com
 taxi.booking.com
@@ -5376,7 +5340,6 @@ tucarro.com.co
 tumoto.com
 tunnistus.s-ryhma.fi
 twinmotion.unrealengine.com
-uapi-front.etoro.com
 uat-bugbounty.nonprod.syfe.com
 uber.com
 uber.marriott.com
@@ -5435,12 +5398,10 @@ vpn01.syd.optusnet.com.au
 vroid.com
 vth.nba.com
 waf.cumulusfire.net
-wallet.etoro.com
 wallet.tg
 walletbot.me
 wallets.api.playstation.com
 watchdocs.indriverapp.com
-watchlistapi.etoro.com
 weather.opera-api.com
 web-message-high.lime.bike
 web-message.lime.bike
@@ -5569,7 +5530,6 @@ www.dysoncanada.ca
 www.ebookers.com
 www.ebookers.fi
 www.elastic.co
-www.etoro.com
 www.evernote.com
 www.expedia-aarp.com
 www.expedia.com
