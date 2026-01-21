@@ -1507,6 +1507,8 @@ api.reddit.com
 api.remitly.io
 api.robinhood.com
 api.s-kaupat.fi
+api.segment.io
+api.sendgrid.com
 api.services.simplisafe.com (App Endpoints)
 api.services.simplisafe.com (HSP Endpoints)
 api.simplisafe.com (App Endpoints)
@@ -1529,6 +1531,7 @@ api.tidal.com
 api.tideplatform.in
 api.trello.com
 api.tumblr.com
+api.twilio.com
 api.upwork.com/graphql
 api.vault.chiatest.net
 api.vhx.tv
@@ -1593,6 +1596,8 @@ app.pullrequest.com
 app.recordedfuture.com
 app.rewire.to
 app.sandbox.directly.com
+app.segment.com
+app.sendgrid.com
 app.slack.com
 app.smtp2go.com
 app.snapchat.com
@@ -2530,6 +2535,7 @@ http://flightdeck.staples.com/#/login
 http://github.com/circlefin/noble-cctp
 http://github.com/cloudflare
 http://greenchannel.payoneer.com.cn/gcportal
+http://help.twilio.com
 http://ibotta.com
 http://ims-na1.adobelogin.com
 http://it.mydirtyhobby.com/
@@ -2565,6 +2571,8 @@ http://skumapper-splus.pnimedia.com/
 http://staking.consensys.io
 http://testnet.bybit.eu
 http://transangels.com/
+http://tsock.us1.twilio.com
+http://twilio.com/blog
 http://urc-auth-uefn.live.ucs.on.epicgames.com/
 http://urc-uefn.live.ucs.on.epicgames.com
 http://vimeo.com/api
@@ -4153,6 +4161,7 @@ https://securemail.usaa.com
 https://securesignin.neogov.com
 https://securesignin.powerdms.com/
 https://seekcdn.com
+https://segment.com/docs/connections/sources/
 https://segment.com/docs/sources/
 https://selector.viator.com
 https://send2.co/
@@ -4424,6 +4433,7 @@ https://www.atlassian.com/software/jira/service-management
 https://www.atlassian.com/software/jira/work-management
 https://www.atlassian.com/software/rovo
 https://www.atlassian.com/software/rovo-dev
+https://www.authy.com/download/
 https://www.binance.com/
 https://www.binance.us/
 https://www.bitdefender.com/business/smb-products/business-security.html?cid=ppc|b|google|smb&s_kwcid=AL!6076!3!514235572261!p!!g!!bitdefender%20business&utm_term=bitdefender%20business&utm_campaign=USA+SMB+Branded+30&utm_source=adwords&utm_medium=ppc&hsa_acc=8155205354&hsa_cam=7848657822&hsa_grp=124745713150&hsa_ad=514235572261&hsa_src=g&hsa_tgt=kwd-308396066873&hsa_kw=bitdefender%20business&hsa_mt=p&hsa_net=adwords&hsa_ver=3&gclid=CjwKCAjwqIiFBhAHEiwANg9szk-Rr3iSn4mrwsvAUOn-pzrO12ufWDmyCLopWigaLQW0t_xtlBE65RoCr6kQAvD_BwE
@@ -4640,7 +4650,10 @@ https://www.twilio.com/blog/get-started-webrtc
 https://www.twilio.com/console
 https://www.twilio.com/docs/authy/api
 https://www.twilio.com/docs/libraries
+https://www.twilio.com/docs/verify/api
 https://www.twilio.com/docs/verify/api 
+https://www.twilio.com/en-us/blog/get-started-webrtc
+https://www.twilio.com/login?g=%2fconsole%3f&t=2b1c98334b25c1a785ef15b6556396290e3c704a9b57fc40687cbccd79c46a8c
 https://www.underarmour.cn
 https://www.underarmour.co.uk
 https://www.underarmour.com
@@ -4910,6 +4923,7 @@ marriottfranchisetransactions.marriott.com
 marrtool.com
 matomo.cloud
 matrix.redditspace.com
+mc.sendgrid.com
 mcd-dev.nba.com
 mcd-devint.nba.com
 mcd-perf.nba.com
@@ -5370,6 +5384,7 @@ sell.moonpay.com
 seller-id.tokopedia.com
 seller.temu.com
 sellerportal.newegg.com
+sendgrid.com
 sensei.pixiv.net
 service.tvg.com
 settings.superhuman.com
@@ -5391,6 +5406,7 @@ shoppers.instacart.com
 signature-insights.api.cx.metamask.io
 signhom.acesso.io
 signup.myconnect.com.au
+signup.sendgrid.com
 simperium.com
 simplenote.com
 siorc.xfinity.com
@@ -6013,8 +6029,11 @@ zelleservice.my.site.com
 zerobounce.net
 zooplus.net
 ███████████
+████████████
+█████████████
 ██████████████
 ███████████████
+████████████████
 █████████████████
 ██████████████████
 ███████████████████
@@ -6027,6 +6046,7 @@ zooplus.net
 ████████████████████████████
 █████████████████████████████
 ██████████████████████████████
+█████████████████████████████████
 ██████████████████████████████████
 ███████████████████████████████████
 ██████████████████████████████████████
@@ -6035,6 +6055,7 @@ zooplus.net
 ██████████████████████████████████████████████████████████
 ███████████████████████████████████████████████████████████
 █████████████████████████████████████████████████████████████████
+███████████████████████████████████████████████████████████████████████████████████████
 ███████████████████████████████████████████████████████████████████████████████████████████████████
 ████████████████████████████████████████████████████████████████████████████████████████████████████
 ██████████████████████████████████████████████████████████████████████████████████████████████████████

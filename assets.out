@@ -1441,6 +1441,8 @@ api.reddit.com
 api.remitly.io
 api.robinhood.com
 api.s-kaupat.fi
+api.segment.io
+api.sendgrid.com
 api.services.simplisafe.com (App Endpoints)
 api.services.simplisafe.com (HSP Endpoints)
 api.simplisafe.com (App Endpoints)
@@ -1461,6 +1463,7 @@ api.tidal.com
 api.tideplatform.in
 api.trello.com
 api.tumblr.com
+api.twilio.com
 api.upwork.com/graphql
 api.vault.chiatest.net
 api.vhx.tv
@@ -1501,6 +1504,8 @@ app.nordpass.com
 app.pullrequest.com
 app.rewire.to
 app.sandbox.directly.com
+app.segment.com
+app.sendgrid.com
 app.slack.com
 app.smtp2go.com
 app.snapchat.com
@@ -2411,6 +2416,7 @@ http://flightdeck.staples.com/#/login
 http://github.com/circlefin/noble-cctp
 http://github.com/cloudflare
 http://greenchannel.payoneer.com.cn/gcportal
+http://help.twilio.com
 http://ibotta.com
 http://ims-na1.adobelogin.com
 http://it.mydirtyhobby.com/
@@ -2446,6 +2452,8 @@ http://skumapper-splus.pnimedia.com/
 http://staking.consensys.io
 http://testnet.bybit.eu
 http://transangels.com/
+http://tsock.us1.twilio.com
+http://twilio.com/blog
 http://urc-auth-uefn.live.ucs.on.epicgames.com/
 http://urc-uefn.live.ucs.on.epicgames.com
 http://vimeo.com/api
@@ -2556,8 +2564,6 @@ https://api.rec.net
 https://api.rx.originenergy.com.au/v1/gateway/schema/graphql
 https://api.rx.originenergy.com.au/v1/gateway/schema/kraken/graphql
 https://api.rx.originenergy.com.au/v1/lpg/graphql
-https://api.segment.io/
-https://api.sendgrid.com
 https://api.shop.ua.com/graphql
 https://api.simnext.bullish-test.com
 https://api.staging.luno.com/
@@ -2569,7 +2575,6 @@ https://api.thesecurityteam.rocks
 https://api.thetradedesk.com
 https://api.thousandeyes.com/
 https://api.tripadvisor.com
-https://api.twilio.com
 https://api.unity.com
 https://api.us1.fga.dev/
 https://api.usaa.com/
@@ -2600,8 +2605,6 @@ https://app.opsgenie.com
 https://app.optimizely.com/
 https://app.ripio.com
 https://app.saltlabs.com/
-https://app.segment.com/
-https://app.sendgrid.com/
 https://app.staging.luno.com/
 https://app.staging.saltlabs.com/
 https://app.thousandeyes.com/
@@ -2746,7 +2749,6 @@ https://auth.seek.com
 https://auth.thetradedesk.com
 https://auth.wyze.com
 https://authn.usaa.com/
-https://authy.com/download/
 https://autoupdate.geo.opera.com
 https://b2bapi-a.usaa.com
 https://b2bapi.usaa.com
@@ -3248,7 +3250,6 @@ https://help.okta.com/asa/en-us/Content/Topics/Adv_Server_Access/docs/client.htm
 https://help.okta.com/en/prod/Content/Topics/Adv_Server_Access/docs/sftd-windows.htm
 https://help.okta.com/en/prod/Content/Topics/Settings/download-browser-plugin.htm
 https://help.supplier.viator.com/en
-https://help.twilio.com
 https://hipaa.staging.gearset.com/
 https://hk.employer.staging.seek.com
 https://hk.staging.jobsdb.com
@@ -3695,7 +3696,6 @@ https://marketplace.ifood.com.br
 https://master.servicecentre-nz.digitalservicing-np.lfscnp.com/	
 https://master.servicecentre.digitalservicing-np.lfscnp.com/
 https://mattermost.com/apps/
-https://mc.sendgrid.com/
 https://mcp-server.zomato.com/mcp
 https://mcp.atlassian.com
 https://mcp.opensea.io
@@ -4023,12 +4023,11 @@ https://securemail.usaa.com
 https://securesignin.neogov.com
 https://securesignin.powerdms.com/
 https://seekcdn.com
-https://segment.com/docs/sources/
+https://segment.com/docs/connections/sources/
 https://selector.viator.com
 https://send2.co/
 https://sendbird.com
 https://sendbird.com/docs
-https://sendgrid.com
 https://service.platform.tripadvisor.com
 https://services.chipotle.com
 https://sfleet.cortexpowered.com
@@ -4039,7 +4038,6 @@ https://shop.monash.edu/
 https://sign.originzero.com.au
 https://signal.pulsepoint.com/hcp365/#/dashboard/advertiser/6603/overview
 https://signal.pulsepoint.com/hcpexplorer/#/dashboard/eventsExplorer
-https://signup.sendgrid.com/
 https://simnext.bullish-test.com
 https://simplisafe.co.uk
 https://simplisafe.com
@@ -4195,8 +4193,6 @@ https://trello.com/power-ups/5c2462c384ab8949b1724a20/list-limits
 https://trello.com/power-ups/5e3886cd2ae34410748d0d5b/jira-align-
 https://trello.com/power-ups/6048e897c73d032a983e2a7c/dashcards
 https://trello.com/power-ups/6052d130068a8c0de7b022b4
-https://tsock.us1.twilio.com
-https://twilio.com/blog
 https://u.oppomobile.com/
 https://uae.voxcinemas.com/
 https://ui.com/distributors/
@@ -4294,6 +4290,7 @@ https://www.atlassian.com/software/jira/service-management
 https://www.atlassian.com/software/jira/work-management
 https://www.atlassian.com/software/rovo
 https://www.atlassian.com/software/rovo-dev
+https://www.authy.com/download/
 https://www.binance.com/
 https://www.binance.us/
 https://www.bitdefender.com/business/smb-products/business-security.html?cid=ppc|b|google|smb&s_kwcid=AL!6076!3!514235572261!p!!g!!bitdefender%20business&utm_term=bitdefender%20business&utm_campaign=USA+SMB+Branded+30&utm_source=adwords&utm_medium=ppc&hsa_acc=8155205354&hsa_cam=7848657822&hsa_grp=124745713150&hsa_ad=514235572261&hsa_src=g&hsa_tgt=kwd-308396066873&hsa_kw=bitdefender%20business&hsa_mt=p&hsa_net=adwords&hsa_ver=3&gclid=CjwKCAjwqIiFBhAHEiwANg9szk-Rr3iSn4mrwsvAUOn-pzrO12ufWDmyCLopWigaLQW0t_xtlBE65RoCr6kQAvD_BwE
@@ -4479,11 +4476,11 @@ https://www.toursgds.com/
 https://www.toursgds.com/SupplierService?wsdl
 https://www.toursgds.com/ToursGdsService?wsdl
 https://www.tripadvisor.com
-https://www.twilio.com/blog/get-started-webrtc
-https://www.twilio.com/console
 https://www.twilio.com/docs/authy/api
 https://www.twilio.com/docs/libraries
-https://www.twilio.com/docs/verify/api 
+https://www.twilio.com/docs/verify/api
+https://www.twilio.com/en-us/blog/get-started-webrtc
+https://www.twilio.com/login?g=%2fconsole%3f&t=2b1c98334b25c1a785ef15b6556396290e3c704a9b57fc40687cbccd79c46a8c
 https://www.underarmour.cn
 https://www.underarmour.co.uk
 https://www.underarmour.com
@@ -4738,6 +4735,7 @@ marriottfranchisetransactions.marriott.com
 marrtool.com
 matomo.cloud
 matrix.redditspace.com
+mc.sendgrid.com
 mcd-dev.nba.com
 mcd-devint.nba.com
 mcd-perf.nba.com
@@ -5161,6 +5159,7 @@ sell.moonpay.com
 seller-id.tokopedia.com
 seller.temu.com
 sellerportal.newegg.com
+sendgrid.com
 sensei.pixiv.net
 settings.superhuman.com
 sh.reddit.com
@@ -5180,6 +5179,7 @@ shopifyinbox.com
 shoppers.instacart.com
 signature-insights.api.cx.metamask.io
 signup.myconnect.com.au
+signup.sendgrid.com
 simperium.com
 simplenote.com
 siorc.xfinity.com
@@ -5743,8 +5743,11 @@ zelleservice.my.site.com
 zerobounce.net
 zooplus.net
 ███████████
+████████████
+█████████████
 ██████████████
 ███████████████
+████████████████
 █████████████████
 ██████████████████
 ███████████████████
@@ -5756,6 +5759,7 @@ zooplus.net
 ███████████████████████████
 ████████████████████████████
 ██████████████████████████████
+█████████████████████████████████
 ██████████████████████████████████
 ███████████████████████████████████
 ██████████████████████████████████████
@@ -5764,6 +5768,7 @@ zooplus.net
 ██████████████████████████████████████████████████████████
 ███████████████████████████████████████████████████████████
 █████████████████████████████████████████████████████████████████
+███████████████████████████████████████████████████████████████████████████████████████
 ███████████████████████████████████████████████████████████████████████████████████████████████████
 ████████████████████████████████████████████████████████████████████████████████████████████████████
 ██████████████████████████████████████████████████████████████████████████████████████████████████████
