@@ -1425,6 +1425,7 @@ api.larksuite.com
 api.linkedin.com
 api.loanbuilder.com
 api.localizestaging.com
+api.magic.link
 api.mapbox.com
 api.mercadolibre.com
 api.mercadopago.com
@@ -1541,6 +1542,7 @@ auth-identity-uat.nba.com
 auth-identity.nba.com
 auth.23andme.com
 auth.hhc247.org
+auth.magic.link
 auth.moonpay.com
 auth.nextcloud.com
 auth.ort-one-pingone.com
@@ -2125,6 +2127,7 @@ daita/files_fulltextsearch_tesseract
 dash.cloudflare.com
 dashboard.algolia.com
 dashboard.doppler.com
+dashboard.magic.link
 dashboard.mergify.com
 dashboard.plaid.com
 dashboard.privy.io
@@ -4659,11 +4662,13 @@ kyc-onboarding.booking.com
 lando.services.mozilla.com
 lark-frontier.byteoversea.com
 larksuite.com
+larksuite.us
 launch.playcanvas.com
 launchpad.37signals.com
 lawmanager.marriott.com
 learningmanagerstage4.adobe.com
 lego.me
+lemon8-api.tiktokv.us
 liberty-dev.wnba.com
 liberty-qa.wnba.com
 liberty.wnba.com
@@ -4955,6 +4960,7 @@ owa.marriott.com
 oymyakon.indriver.io
 p.grabtaxi.com
 pangea.cloud
+pangle-mediation-ttp.tiktokpangle.us
 partner-webhook.remitly.io
 partner.logitech.com
 partner.steamgames.com
@@ -4997,6 +5003,7 @@ platform.8x8.com
 platform.8x8pilot.com
 platform.enjin.io
 platform.remix.com
+platform.tiktokpangle.us
 play.google.com/store/apps/details?id=com.crowdstrike.falconmobile
 playartifact.com
 playcanv.as
@@ -5249,6 +5256,7 @@ staging.kidswebservices.com
 staging.magisto.com
 staking-api.polygon.technology
 staking.polygon.technology
+starling-ttp.lemon8-app.us
 start.khealth.com
 static.apps.nextcloud.com
 stats-trafficcop-prod.nba.com
@@ -5333,6 +5341,7 @@ testnet.immutable.com
 thebrowser.company
 therapeutics.23andme.com
 tiktok.com
+tiktokdata-us-open.tiktokw.us
 toolsforhumanity.com
 trade.ripio.com
 training.ui.com
@@ -5637,6 +5646,7 @@ www.sa.dyson.com
 www.sheer.com
 www.six-group.com
 www.sokos.fi
+www.soundonw.us
 www.starbucks.ca
 www.starbucks.co.jp
 www.starbucks.com
