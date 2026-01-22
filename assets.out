@@ -1303,6 +1303,7 @@ accounts.cloud.databricks.com
 accounts.creditkarma.com
 accounts.evernote.com
 accounts.firefox.com
+accounts.insightly.com
 accounts.khealth.com
 accounts.logi.com
 accounts.pixiv.net
@@ -1514,6 +1515,7 @@ app.starbucks.com
 app.stg.inspectorio.com
 app.taxjar.com
 app.uma.money
+app.unbounce.com
 app.whoop.com
 app3.rewire.to
 applause1.magisto.com
@@ -2105,6 +2107,7 @@ create.snapchat.com
 creator.amazon.com
 creatormarketplace.tiktok.com
 creators.basicattentiontoken.org
+crm.na1.insightly.com
 crm.nextcloud.com
 cruises.priceline.com
 cs.money
@@ -2376,9 +2379,11 @@ http1mustdie.com
 http://--your-own-1password-account--.1password.com
 http://activitylog.io/
 http://analytics.prosus.com
+http://api.insightly.com/v3.1/
 http://api.koho.ca/1.0
 http://api.koho.ca/partner
 http://api.lightspark.com
+http://api.na1.insightly.com/v3.1/
 http://app-qa.chime.com/users/sign_in
 http://app.lightspark.com
 http://app.scaleft.com/
@@ -2561,6 +2566,7 @@ https://api.openai.com
 https://api.optimizely.com/
 https://api.pinterest.com
 https://api.planethoster.net
+https://api.pornhub.com/
 https://api.production.cde.tamg.cloud
 https://api.rec.net
 https://api.rx.originenergy.com.au/v1/gateway/schema/graphql
@@ -3718,6 +3724,7 @@ https://mids.monash.edu/
 https://mintmobile.com
 https://mlivetickets.monash.edu
 https://mobile.monash/ 
+https://mobile.pornhub.com/
 https://mobile.usaa.com
 https://mobileapi.afterpay.com
 https://mobileapi.clearpay.com
@@ -3952,6 +3959,7 @@ https://playlist.link
 https://plugins.matomo.org/developer/innocraft
 https://plugins.matomo.org/developer/matomo-org
 https://pods.link
+https://pornhub.mainhub.com
 https://portal-api.anz.kinergysolutions.com
 https://portal.3cx.com
 https://portal.afterpay.com
@@ -4434,10 +4442,14 @@ https://www.partypoker.com
 https://www.pexels.com/
 https://www.pixpay.fr/
 https://www.planethoster.com
+https://www.pornhub.com/
+https://www.pornhubpremium.com/
 https://www.premogiftcards.com
 https://www.priceline.com/pwd/v0/pcln-graphql/
 https://www.probiller.com
 https://www.realcommercial.com.au/
+https://www.redtube.com/
+https://www.redtubepremium.com/
 https://www.remove.bg
 https://www.restaurant-information.com
 https://www.sdx.com/
@@ -4466,6 +4478,7 @@ https://www.theforkmanager.com
 https://www.thetradedesk.com
 https://www.thousandeyes.com/
 https://www.thuisbezorgd.nl/
+https://www.thumbzilla.com/
 https://www.tickets.mgm.mo/
 https://www.toursgds.com/
 https://www.toursgds.com/SupplierService?wsdl
@@ -4520,6 +4533,8 @@ https://www.xbox.com/en-us/games/store/rec-room/9pgpqk0xthrz
 https://www.xfinity.com/apps
 https://www.xvideos.net/app/
 https://www.ynab.com/
+https://www.youporn.com/
+https://www.youpornpremium.com/
 https://www.zabbix.com/download_sources
 https://www.zoop.com.br
 https://www.zoop.ws
@@ -4681,6 +4696,7 @@ lockervision.nba.com
 logilife.logitech.com
 login-4ngbets.us.betfair.com
 login-4njbets.us.betfair.com
+login.insightly.com
 login.playcanvas.com
 login.rei.com
 login.starbucks.co.jp
@@ -4724,6 +4740,7 @@ manage.nba.com
 map.snapchat.com
 mark8.syfe.com
 marketing.fareharbor.com
+marketing.na1.insightly.com
 marketplace.gamemaker.io
 marquee.gs.com
 marriottfranchisetransactions.marriott.com
@@ -4785,7 +4802,9 @@ mgs.marriott.com
 minerva.robinhood.com
 mipartnerprivileges.marriott.com
 mobile.s-pankki.fi
+mobileapi.insightly.com
 mobileapi.lystit.com
+mobileapi.na1.insightly.com
 mobileapp.hyatt.com
 mod.reddit.com
 moments.marriott.com
@@ -4945,6 +4964,7 @@ org.toshi.distribution
 org.vom8x8.sipua
 outage.logitech.com
 outagehistory.logitech.com
+outlook.insightly.com
 ovo.id
 owa.marriott.com
 oymyakon.indriver.io
