@@ -421,6 +421,7 @@
 <Your own 1Password account> —> Latest stable, beta, or nightly Browser Extension (Chrome, Brave, Firefox, Edge, and Safari)
 <Your own 1Password account> —> Latest stable, beta, or nightly Command Line Interface (CLI)
 <locale>.trip.com
+@privy-io controlled namespace dependencies
 A16k
 A76
 A96
@@ -1501,6 +1502,7 @@ api.netlify.com
 api.ort-one-pingone.com
 api.pns.hk
 api.prd.commerce.simplisafe.com
+api.privy.io
 api.prod.whoop.com
 api.profiler.firefox.com
 api.rapyd.net
@@ -2484,6 +2486,7 @@ hilton.io
 hiltonbusinessonline.com
 hiltonlocalbiz.com
 hmxservices.com
+home.privy.io
 homeloans.wellsfargo.com
 homes-and-villas.marriott.com
 horizonchase.com
@@ -4582,7 +4585,12 @@ https://www.networksolutions.com
 https://www.nintendo.com/us/store/products/rec-room-switch/
 https://www.npmjs.com/package/@8x8/pui-partner-comm
 https://www.npmjs.com/package/@forge/cli	
+https://www.npmjs.com/package/@privy-io/cross-app-connect
+https://www.npmjs.com/package/@privy-io/cross-app-provider
+https://www.npmjs.com/package/@privy-io/expo
+https://www.npmjs.com/package/@privy-io/js-sdk-core
 https://www.npmjs.com/package/@privy-io/react-auth
+https://www.npmjs.com/package/@privy-io/wagmi
 https://www.nuinvest.com.br/
 https://www.nutaku.com
 https://www.nutaku.net
@@ -5324,6 +5332,7 @@ realme P3 Lite 5G
 realme P4 5G
 realme P4 Pro 5G
 reastatic.net
+recovery.privy.io
 redditforbusiness.com
 registry.gitlab.com
 rei.com
