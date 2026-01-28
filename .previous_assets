@@ -1511,6 +1511,7 @@ api.recordedfuture.com
 api.reddit.com
 api.remitly.io
 api.robinhood.com
+api.ryadom.kz
 api.s-kaupat.fi
 api.segment.io
 api.sendgrid.com
@@ -4821,6 +4822,7 @@ j.root-servers.net (DNS service; DNS related)
 jira.grab.com
 jira.hyattdev.com
 jira.logitech.com
+job.ryadom.kz
 jobs.kiwi.com
 jobs.marriott.com
 join.marriott.com
@@ -4854,6 +4856,7 @@ kubernetes.io
 kyc-onboarding.booking.com
 kyc-src.etoro.com
 kyc.etoro.com
+landing.ryadom.kz
 lando.services.mozilla.com
 lark-frontier.byteoversea.com
 larksuite.com
@@ -5376,6 +5379,7 @@ roominglist.hyatt.com
 router.geneva-staging.com
 rt.playcanvas.com
 rubygems.org
+ryadom.kz
 s3://faraday-secret
 s3://faraday-uploads
 safe.tumblr.com
@@ -5495,6 +5499,7 @@ sso.8x8.com
 sso.8x8pilot.com
 sso.marriott.com
 sso.oft.hyatt.com
+sso.ryadom.kz
 ssu.myconnect.com.au/signup/get-connected 
 stage.taskcluster.nonprod.cloudops.mozgcp.net
 staging-app.bany.dev
@@ -5689,6 +5694,7 @@ web.crypto.com
 web.geneva-staging.com
 web.grindr.com
 web.koho.ca
+web.ryadom.kz
 web.snapchat.com
 web.truecaller.com
 web3.moonpay.com
