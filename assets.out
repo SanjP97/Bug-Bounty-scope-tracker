@@ -1075,7 +1075,6 @@ SOPHOS/Secureworks : Redcloak
 SOPHOS/Secureworks : Taegis
 SRC integration on https://masterpassteststore.com/. Only the Masterpass checkout functionality is in scope
 SSL/TLS
-SSO_Saml_connector
 Saily - Android
 Saily - iOS
 Sandboxes
@@ -1107,7 +1106,6 @@ Spotify desktop application (Windows and Mac)
 Square Register
 Square Terminal
 Staging, QA, Dev, and Test Environments
-Standalone Chrome extension
 Starbucks China Android
 Starbucks China iOS
 Starbucks Japan Android
@@ -1385,7 +1383,6 @@ api.coinbase.com
 api.coinmarketcap.com
 api.creditkarma.com
 api.custody.coinbase.com
-api.dashlane.com
 api.deriv.com
 api.direct.playstation.com
 api.doppler.com
@@ -1485,7 +1482,6 @@ apix.vodafone.om
 app-insiders.marriott.com
 app.blueskytravelvietnam.com
 app.circle.com
-app.dashlane.com
 app.deriv.com
 app.dynamic-preprod.xyz
 app.dynamic.xyz
@@ -1816,8 +1812,6 @@ com.coloros.wallet
 com.compass.compass
 com.creditkarma.mobile
 com.creditkarma.mobile.international
-com.dashlane
-com.dashlane.dashlanephonefinal
 com.dd.doordash
 com.defi.wallet
 com.deribit
@@ -2066,7 +2060,6 @@ connect-sandbox.gocardless.com
 connect.8x8.com
 connect.secure.wellsfargo.com
 console.circle.com
-console.dashlane.com
 console.ort-one-pingone.com
 console.tink.com
 content-api-dev.nba.com
@@ -2302,7 +2295,6 @@ gateway.geneva-staging.chat
 gateway.geneva-staging.com
 gateway.reddit.com
 gateway.superhuman.com
-gehmmocbbkpblljhkekmfhjpfbkclbph
 geneva-staging.chat
 geofilters.snapchat.com
 getworldcoin.com
@@ -4284,8 +4276,6 @@ https://www.crateandbarrel.me
 https://www.creditkarma.com/reviews/
 https://www.creditkarma.com/savings
 https://www.cultbeauty.co.uk/
-https://www.dashlane.com/fr/directdownload-v2?os=OS_X_10_12_6&platform=website&target=launcher_macosx
-https://www.dashlane.com/fr/directdownload-v2?os=none&platform=website&target=archive_win
 https://www.demandforced3.com/
 https://www.designify.com
 https://www.enjoyselfish.com
@@ -4665,7 +4655,6 @@ logistica.redelcom.cl
 logitech.zendesk.com
 logitechg.com.cn
 logitechgchallenge.com
-logs.dashlane.com
 logs.nextcloud.com
 logstash-props.devicecloud.acceptance.forescoutcloud.net
 lol.onevone
@@ -5440,7 +5429,6 @@ world.org
 worldcoin.org
 ws.blockchain.info
 ws.sorare.com
-ws1.dashlane.com
 wss://socket.bitpanda.com
 www-dev.nba.com
 www-dev.wnba.com
@@ -5483,7 +5471,6 @@ www.crowdstrike.com
 www.crowdstrike.org
 www.currencycloud.com
 www.cybersource.com
-www.dashlane.com
 www.ddfcontent.com
 www.dolap.com
 www.doordash.com
