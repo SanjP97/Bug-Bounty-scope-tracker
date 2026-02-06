@@ -2127,7 +2127,6 @@ cweb-ott-qa.nba.com
 cweb-ott-uat-uc.nba.com
 cweb-ott-uc.nba.com
 cweb-ott.nba.com
-daita/files_fulltextsearch_tesseract
 dash.cloudflare.com
 dashboard.algolia.com
 dashboard.doppler.com
@@ -4836,6 +4835,7 @@ nextcloud/files_accesscontrol
 nextcloud/files_antivirus
 nextcloud/files_automatedtagging
 nextcloud/files_fulltextsearch
+nextcloud/files_fulltextsearch_tesseract
 nextcloud/files_lock
 nextcloud/files_pdfviewer
 nextcloud/files_retention
