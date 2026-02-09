@@ -1797,7 +1797,6 @@ com.bykea.pk.partner
 com.cheaptickets
 com.clay.ios
 com.coinbase.android
-com.coinbase.ios
 com.coinbase.wallite
 com.coinhako
 com.coinhako.app
@@ -2001,6 +2000,7 @@ com.urbanclap.provider
 com.urbanclap.urbanclap
 com.valvesoftware.Steam
 com.venmo
+com.vilcsak.bitcoin2
 com.vimeo.android.videoapp
 com.vimeocreate.videoeditor.moviemaker
 com.vodafone.mpesa.drc
