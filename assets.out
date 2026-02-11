@@ -56,6 +56,7 @@
 1452166623
 1454725763
 1456293789
+1457958492
 146.109.1.0/24
 146.109.140.0/24
 146.109.141.0/24
@@ -1325,6 +1326,7 @@ adm.cloud.com
 admin.8x8.com
 admin.booking.com
 admin.instacart.com
+admin.meeshosupply.com
 admin.shopify.com
 admin.wickr.com
 admintool.lime.bike
@@ -1336,6 +1338,7 @@ ads.tiktok.com
 advisories.gitlab.com
 aebddc74953f248bc8455665b0f7d47b-78af959a11e5d0c1.elb.us-east-1.amazonaws.com
 affiliate-id.tokopedia.com
+affiliate.meesho.com
 ai.kanghealth
 ai.portswigger.net
 ai.x.GrokApp
@@ -1899,6 +1902,7 @@ com.marcus.android
 com.marcus.android.uk
 com.marcus.ios-uk
 com.marcus.ios-us
+com.meesho.supply
 com.mercadoenvios.crowdsourcing
 com.mercadoenvios.driver
 com.mercadoenvios.logistics
@@ -1999,6 +2003,7 @@ com.ubnt.ucrm
 com.ubnt.umobile
 com.urbanclap.provider
 com.urbanclap.urbanclap
+com.valmo.valmo
 com.valvesoftware.Steam
 com.venmo
 com.vilcsak.bitcoin2
@@ -4988,6 +4993,7 @@ pro-api.coinmarketcap.com
 pro.coinbase.com
 pro.coinmarketcap.com
 prod-mipaasiaasservices.marriott.com
+prod.meeshoapi.com
 prod.ros.rockstargames.com
 production.plaid.com
 profile-api.eu-east-1.indriverapp.com
@@ -5235,7 +5241,9 @@ sun.wnba.com
 super6.skysports.com
 superbet.bet.br
 superhuman.com
+superstoreapp.meesho.com
 supplier.auth.toag.booking.com
+supplier.meesho.com
 supply-xml.booking.com
 support-api.airbnb.com
 support-portal.8x8.com
@@ -5553,6 +5561,7 @@ www.logitechstore.com.br
 www.malwarebytes.com
 www.mapbox.com
 www.marriott.com
+www.meesho.com
 www.members.marriott.com
 www.mercadolibre.co.cr
 www.mercadolibre.com.bo
@@ -5626,6 +5635,7 @@ www.universalorlandovacations.com
 www.upwork.com/api 
 www.urbanclap.com
 www.urbancompany.com
+www.valmo.in
 www.valvesoftware.com
 www.vimeo.com
 www.visa.co.ao
