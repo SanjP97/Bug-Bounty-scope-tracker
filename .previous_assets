@@ -1424,6 +1424,7 @@ analytics.krisp.ai
 ap-s.cloud.com
 apcgateway.marriott.com
 api-dashboard.search.brave.com
+api-dashboard.web3auth.io
 api-eu.floqast.app
 api-gateway.polygon.technology
 api-partner.spotify.com
@@ -1431,6 +1432,7 @@ api-polygon-tokens.polygon.technology/
 api-sandbox.gocardless.com
 api-staging.airtable.com
 api-uat-bugbounty.nonprod.syfe.com
+api-wallet.web3auth.io
 api.23andme.com
 api.8x8.com
 api.adm.cloud.com
@@ -2267,6 +2269,7 @@ dashboard.plaid.com
 dashboard.privy.io
 dashboard.qa.ai.8x8.com
 dashboard.razorpay.com
+dashboard.web3auth.io
 databricks.com
 datapod-1-100-druid-ingest.development.forescoutcloud.net
 datapod-1-100-druid-ingest.testing.forescoutcloud.net
@@ -3183,6 +3186,7 @@ https://github.com/Hacker0x01/react-datepicker
 https://github.com/Nginx
 https://github.com/OctopusDeploy
 https://github.com/ProjectOpenSea/seaport#deployments
+https://github.com/Web3Auth/web3auth-web
 https://github.com/afterpay/sdk-android
 https://github.com/afterpay/sdk-ios
 https://github.com/apache/airflow
@@ -5724,6 +5728,7 @@ vth.nba.com
 waf.cumulusfire.net
 wallet.etoro.com
 wallet.tg
+wallet.web3auth.io
 walletbot.me
 wallets.api.playstation.com
 wallettg.com
