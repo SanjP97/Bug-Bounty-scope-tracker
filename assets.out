@@ -2521,6 +2521,9 @@ https://api-portal.originzero.com.au
 https://api-prod.retailsso.com
 https://api-prod.thatconceptstore.com/
 https://api-skipthedishes.skipthedishes.com
+https://api-{app-id}.calls.sendbird.com
+https://api-{app-id}.notifications.sendbird.com
+https://api-{app-id}.sendbird.com
 https://api.20min.ch/
 https://api.aiven.io/login
 https://api.anytask.com/
@@ -2858,6 +2861,7 @@ https://dashboard-101.moengage.com
 https://dashboard.fga.dev/
 https://dashboard.pantheon.io
 https://dashboard.rapyd.net/
+https://dashboard.sendbird.com/
 https://data.limeinternal.com
 https://data.prosus.com/
 https://dataportal.originenergy.com.au
@@ -2868,6 +2872,7 @@ https://dealflow.prosus.com
 https://dealflowapi.prosus.com
 https://demo.adstruc.com
 https://demo.priceless.com/
+https://desk-api-{region}.sendbird.com
 https://desk.thetradedesk.com
 https://dev.tutoring.classdojo.com
 https://devedge.t-mobile.com
@@ -2978,6 +2983,7 @@ https://form.asana.com
 https://formative.eassessment.monash.edu/
 https://forms.apps.monash.edu/
 https://forum.newrelic.com
+https://gate.sendbird.com
 https://gateway-api.nutaku.net
 https://gateway.optus.com.au/api/ai-search/search/v1
 https://gatewaydsapdev2.marriott.com/
@@ -3996,6 +4002,8 @@ https://seekcdn.com
 https://segment.com/docs/connections/sources/
 https://selector.viator.com
 https://send2.co/
+https://sendbird.com
+https://sendbird.com/docs
 https://service.platform.tripadvisor.com
 https://services.chipotle.com
 https://sfleet.cortexpowered.com
@@ -4174,6 +4182,8 @@ https://wiki.xenproject.org/wiki/Xen_Project_Repositories
 https://wise.com
 https://world.planethoster.net
 https://wowjobs.ca
+https://ws-{app-id}.calls.sendbird.com
+https://ws-{app-id}.sendbird.com
 https://ws.multiplayer.classdojo.com/
 https://ws.usaa.com
 https://wsloja.ifood.com.br
