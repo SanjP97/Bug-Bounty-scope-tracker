@@ -3,7 +3,6 @@
  Finicity Connect
  UniFi OS Server
  com.citymapper.app.release
- https://github.com/0xPolygon/proof-generation-api
  mix.monash.edu 
 1.1.1.1 Resolver
 1013961111
@@ -1563,7 +1562,6 @@ bal-dev.nba.com
 bal-qa.nba.com
 bal-uat.nba.com
 bal.nba.com
-balance-api.polygon.technology/
 ballistic.com
 ballistic.com.br
 bankaccountdata.gocardless.com
@@ -2996,10 +2994,6 @@ https://geocode-beta.bykea.net
 https://gestordepedidos.ifood.com.br
 https://get.geo.opera.com
 https://git.libssh.org/
-https://github.com/0xPolygon/auto-claim-service
-https://github.com/0xPolygon/chain-indexer-framework 
-https://github.com/0xPolygon/lxly.js
-https://github.com/0xPolygon/static
 https://github.com/Aiven
 https://github.com/Aiven-Open
 https://github.com/Chia-Network/chia-blockchain
