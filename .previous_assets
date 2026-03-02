@@ -1670,6 +1670,7 @@ auth.skypicker.com
 auth0.com	
 auth0.gocardless.com
 auth0.net
+authentication.clearme.com
 autocomplete.booking.com
 autodiscover.bitstamp.net
 aw.visa.com
@@ -1817,6 +1818,8 @@ circolocorecords.com/
 cl.nba.com
 classroom.github.com
 clay.earth
+clearme.atlassian.net
+clearme.com
 client-api.arkoselabs.com
 cloud.coinbase.com
 cloud.elastic.co
@@ -1928,6 +1931,8 @@ com.bykea.pk
 com.bykea.pk.partner
 com.cheaptickets
 com.clay.ios
+com.clearme.Clear
+com.clearme.clearapp
 com.coinbase.android
 com.coinbase.ios
 com.coinbase.wallite
@@ -2196,6 +2201,7 @@ community.ui.com
 company.thebrowser.arc
 compass.fareharbor.com
 competitive.fortnite.com
+concierge.clearme.com
 config.cic-bug-bounty.auth0app.com
 confluence.hyattdev.com
 connect-sandbox.gocardless.com
@@ -2370,6 +2376,7 @@ em4296.team.bitstamp.net
 em9457.team.bitstamp.net
 embed.tumblr.com
 embed.vhx.tv
+enroll.clearme.com
 enterpriseenrollment.bitstamp.net
 enterpriseregistration.bitstamp.net
 epptool-ctld.verisign-grs.com (EPP service; DNS related)
@@ -2612,6 +2619,7 @@ http://tsock.us1.twilio.com
 http://twilio.com/blog
 http://urc-auth-uefn.live.ucs.on.epicgames.com/
 http://urc-uefn.live.ucs.on.epicgames.com
+http://verified.clearme.com/dashboard
 http://vimeo.com/api
 http://vimeo.com/create
 http://vimeo.com/ondemand
@@ -4830,6 +4838,7 @@ identity-ng.nba.com
 identity-qa.nba.com
 identity-uat.nba.com
 identity.acesso.io
+identity.clearme.com
 identity.nba.com
 identity.yoti.com
 identityhomolog.acesso.io
@@ -4867,6 +4876,7 @@ io.getdelta.ios
 io.metamask
 io.metamask.Metamask
 ir.bookingholdings.com
+ir.clearme.com
 ir.remitly.com
 ir.ui.com
 irclogs.wordpress.org
@@ -5082,6 +5092,7 @@ mgs.marriott.com
 minerva.robinhood.com
 mipartnerprivileges.marriott.com
 mobile-prod.tvg.com
+mobile.clearme.com
 mobile.s-pankki.fi
 mobileapi.insightly.com
 mobileapi.lystit.com
@@ -5103,6 +5114,7 @@ msg.playcanvas.com
 mta-sts.wearehackerone.com
 mus1.badoo.com
 my.account.sony.com
+my.clearme.com
 my.exness.com
 my.loanbuilder.com
 my.malwarebytes.com
@@ -5457,6 +5469,7 @@ sandbox.authorize.net
 sandbox.braintreegateway.com
 sandbox.secure.checkout.visa.com
 sandbox.securegateway.com
+scan.clearme.com
 scan.nextcloud.com
 scan.snapchat.com
 scapegoat.hyatt.com
@@ -5725,6 +5738,8 @@ valkyries.wnba.com
 vap.8x8.com
 vault2.faraday.ai
 vcc-ce.8x8.com
+verified.clearme.com
+verified.clearme.com/v1/verification_sessions
 verify.arkoselabs.com
 verify.rapyd.net
 vfo01.vodafone.om
@@ -5761,6 +5776,7 @@ wallettg.net
 watchdocs.indriverapp.com
 watchlistapi.etoro.com
 weather.opera-api.com
+web-edge.clearme.com
 web-message-high.lime.bike
 web-message.lime.bike
 web-production.lime.bike
@@ -5835,6 +5851,7 @@ www.cheapcaribbean.com
 www.cheapflights.com
 www.cheaptickets.com
 www.checkfelix.com
+www.clearme.com
 www.coinhako.com
 www.coinspot.com.au
 www.compass.com
