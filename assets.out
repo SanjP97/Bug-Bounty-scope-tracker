@@ -647,7 +647,7 @@ Core Backstage source code
 Corporate Assets
 CosmWasm
 Cosmos SDK
-CounterAct 8.4
+CounterAct 9.x
 CrowdStrike public infrastructure
 Crowdsignal
 Crypto
@@ -1269,7 +1269,6 @@ Zendesk Suite
 _16928ca3f53f40a48a751be40fa24e4c.bitstamp.net
 _domainconnect.bitstamp.net
 a.root-servers.net (DNS service; DNS related)
-a360f0bcc63ca11ea92550aeac091f3d-1101372245.us-east-1.elb.amazonaws.com
 a4k.amazon.com
 a5s.hackerone-ext-content.com
 ab-platform-api.eu-east-1.indriverapp.com
@@ -2175,6 +2174,7 @@ developers.tiktok.com
 device.marriott.com
 diabrowser.com
 dic.pixiv.net
+dicey.com
 dif.tech.plata
 digili.s-cloud.fi
 direct-demo.currencycloud.com
