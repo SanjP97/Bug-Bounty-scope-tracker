@@ -690,6 +690,10 @@ Elastic Maps Server
 Elastic Package Registry
 Elastic Synthetics Monitoring
 Elasticsearch
+Enjin - Ethereum ERC-1155 Contract
+Enjin Blockchain
+Enjin Coin - Ethereum ERC-20 Contract
+Enjin Indexer
 Eno® Browser Extension
 Enterprise Edition Products and Tools
 EpicGamesLauncher.exe    
@@ -1813,6 +1817,7 @@ com.dyson.mobile.android
 com.ebookers
 com.eero.android
 com.einnovation.temu
+com.enjin.mobile.wallet
 com.eufylife.EufyHome
 com.evernote
 com.exness.android.pa
@@ -4820,6 +4825,7 @@ nextcloud/user_saml
 nextcloud/viewer
 nextcloud/workflow_script
 nft.coinbase.com
+nft.io
 niantic.kidswebservices.com
 nmtracking.netflix.com
 notion.id
