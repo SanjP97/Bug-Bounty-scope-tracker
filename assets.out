@@ -372,8 +372,6 @@
 719525810
 737216887
 740514933
-7671800.bitstamp.net
-7671800.team.bitstamp.net
 77.111.244.0/22
 794141485
 82.145.208.0/20
@@ -1266,8 +1264,6 @@ Zendesk Mobile Applications
 Zendesk Public Repositories
 Zendesk Suite
 [Unico] Liveness Bypass
-_16928ca3f53f40a48a751be40fa24e4c.bitstamp.net
-_domainconnect.bitstamp.net
 a.root-servers.net (DNS service; DNS related)
 a4k.amazon.com
 a5s.hackerone-ext-content.com
@@ -1547,7 +1543,6 @@ auth0.gocardless.com
 auth0.net
 authentication.clearme.com
 autocomplete.booking.com
-autodiscover.bitstamp.net
 aw.visa.com
 b5s.hackerone-ext-content.com
 backend-sdk.uat.private.unico.run
@@ -1606,7 +1601,6 @@ booking.cheapcaribbean.com
 booking.com
 bookingholdings-coe.com
 booth.pm
-bounces.bitstamp.net
 bpa2.marriott.com
 bq.visa.com
 br.nba.com
@@ -2213,14 +2207,9 @@ eidhelp.marriott.com
 elastic.co credentials
 eligibility.khealth.com
 elm.nba.com
-em1198.bitstamp.net
-em4296.team.bitstamp.net
-em9457.team.bitstamp.net
 embed.tumblr.com
 embed.vhx.tv
 enroll.clearme.com
-enterpriseenrollment.bitstamp.net
-enterpriseregistration.bitstamp.net
 epptool-ctld.verisign-grs.com (EPP service; DNS related)
 errors.hackerone.net
 esupplier.marriott.com
@@ -5177,7 +5166,6 @@ stats.gleague.nba.com
 stats.nba.com
 stats.nextcloud.com
 stats.wnba.com
-status.bitstamp.net
 status.larksuite.com
 steamcommunity.com
 stock.adobe.com
@@ -5289,7 +5277,6 @@ updates.nextcloud.com
 upld.krisp.ai
 upsell.hyatt.com
 url-checker.indrive.com
-url6884.team.bitstamp.net
 us.cloud.com
 us.forescout.cloud
 us1.badoo.com
