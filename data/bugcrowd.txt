@@ -1726,7 +1726,6 @@ https://tracker.naspers.com/
 https://cfc.naspers.com/
 https://peopleview.naspers.com
 http://nav.naspers.com/
-https://proprietario.quintoandar.com.br
 https://itunes.apple.com/us/app/quizlet-flashcards/id546473125
 https://play.google.com/store/apps/details?id=com.quizlet.quizletandroid
 3.0 API
