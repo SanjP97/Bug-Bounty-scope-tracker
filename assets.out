@@ -10,6 +10,7 @@
 102.23.96.0/22
 1023499075
 103.83.120.0/22
+1032480595
 1057338687
 107.167.96.0/19
 1080248000
@@ -396,6 +397,7 @@
 975035622
 978342143
 978516833
+982922982
 983980808
 987675995
 988788863
@@ -1990,6 +1992,8 @@ com.ubnt.discovery.app
 com.ubnt.easyunifi
 com.ubnt.ucrm
 com.ubnt.umobile
+com.urbanclap.provider
+com.urbanclap.urbanclap
 com.valmo.valmo
 com.valvesoftware.Steam
 com.venmo
@@ -5487,7 +5491,6 @@ www.fi.dyson.com
 www.figma.com
 www.files.com
 www.firefox.com
-www.fitvermogen.nl
 www.flights.com
 www.forescout.com
 www.fraedom.com
@@ -5605,6 +5608,8 @@ www.udemy.com
 www.ultimateears.com
 www.universalorlandovacations.com
 www.upwork.com/api 
+www.urbanclap.com
+www.urbancompany.com
 www.valmo.in
 www.valvesoftware.com
 www.vimeo.com
