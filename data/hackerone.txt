@@ -2785,15 +2785,9 @@ com.quora.android
 com.quora.app.mobile
 http://poe.com
 Brave Browser Desktop
-account.brave.com
-api-dashboard.search.brave.com
-basicattentiontoken.org
-brave.com
+Brave websites
 com.brave.browser
 com.brave.ios.browser
-creators.basicattentiontoken.org
-search.brave.com
-talk.brave.com
 Burp Collaborator
 Burp Suite DAST
 Burp Suite Extension (BApps)
