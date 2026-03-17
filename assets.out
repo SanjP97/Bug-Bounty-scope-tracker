@@ -731,12 +731,6 @@ FortniteLauncher-Win64-Shipping_BE.exe
 FortniteLauncher-Win64-Shipping_EAC.exe
 FortniteLauncher.exe
 Framemaker
-Freshcaller-iOS-App
-Freshchat-iOS-App
-Freshdesk-iOS-App
-Freshservice Discovery Agent and Probe
-Freshservice-Intune-iOS-App
-Freshservice-iOS-App
 Front for Mac
 Front for Windows
 G Hub
@@ -951,7 +945,6 @@ OKX Wallet Core Open Source
 OKX Wallet Edge Add-ons
 OKX Wallet Safari Extension
 OKX iOS APP
-ONCE: Campfire
 Observability - APM Agents
 Observability - APM Server
 Official WordPress plugins
@@ -1814,11 +1807,6 @@ com.finshell.finance
 com.finshell.wallet
 com.foxnextgames.m3
 com.frame.FrameIO
-com.freshchat.agent.android
-com.freshdesk.helpdesk
-com.freshservice.helpdesk
-com.freshservice.helpdesk.intune
-com.freshworks.freshcaller
 com.frontapp.mobile
 com.genevachat.staging
 com.goodrx
@@ -2993,6 +2981,8 @@ https://github.com/auth0/nextjs-auth0
 https://github.com/auth0/passport-wsfed-saml2
 https://github.com/auth0/react-native-auth0
 https://github.com/backstage/backstage
+https://github.com/basecamp/once-campfire
+https://github.com/basecamp/writebook
 https://github.com/buildonspark/spark
 https://github.com/cashapp/cash-app-pay-android-sdk
 https://github.com/cashapp/cash-app-pay-ios-sdk
@@ -4451,7 +4441,6 @@ id.nba.com
 id.oppo.com
 id.stg.inspectorio.com
 id.superhuman.com
-id.worldcoin.org
 id1427744264
 id1520720139
 id1534920947
@@ -5652,12 +5641,6 @@ you.23andme.com
 your-assigned-subdomain.files.com
 your-store.myshopify.com
 yourcompany.udemy.com
-yourdomain.freshcaller.com
-yourdomain.freshchat.com
-yourdomain.freshdesk.com
-yourdomain.freshrelease.com
-yourdomain.freshservice.com
-yourdomain.myfreshworks.com
 zelleservice.my.salesforce.com
 zelleservice.my.site.com
 zooplus.net
@@ -5665,7 +5648,6 @@ zooplus.net
 ████
 ███████
 ████████
-███████████
 ████████████
 █████████████
 ██████████████
