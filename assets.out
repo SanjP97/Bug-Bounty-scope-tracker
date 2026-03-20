@@ -597,13 +597,12 @@ Circle Cameras
 Cisco Campus Gateways
 Cisco Catalyst 9200L Series Switches (Cloud-Managed)
 Cisco Meraki Dashboard Mobile Application (iOS and Android)
+Cisco Meraki MG Fixed Wireless Access Devices
 Cisco Meraki MR Access Points
 Cisco Meraki MS Switches
-Cisco Meraki MV Security Cameras
-Cisco Meraki MX Security Appliances
+Cisco Meraki MV Smart Cameras
+Cisco Meraki MX & Z Series Security Appliances (Including vMX)
 Cisco Meraki Systems Manager
-Cisco Meraki Virtual Security Appliances
-Cisco Meraki Z Series (Z1,Z3(C))
 Citrix End Point Analysis (EPA) client for Linux
 Citrix End Point Analysis (EPA) client for Windows
 Citrix Secure Access client for Android
@@ -2533,6 +2532,7 @@ https://api.optimizely.com/
 https://api.pinterest.com
 https://api.planethoster.net
 https://api.production.cde.tamg.cloud
+https://api.recordedfuture.com
 https://api.rx.originenergy.com.au/v1/gateway/schema/graphql
 https://api.rx.originenergy.com.au/v1/gateway/schema/kraken/graphql
 https://api.rx.originenergy.com.au/v1/lpg/graphql
@@ -2576,6 +2576,7 @@ https://app.intercom.io/
 https://app.latitudepayapps.com/
 https://app.opsgenie.com
 https://app.optimizely.com/
+https://app.recordedfuture.com
 https://app.ripio.com
 https://app.saltlabs.com/
 https://app.staging.luno.com/
@@ -2673,6 +2674,7 @@ https://apps.apple.com/us/app/opensea-nft-marketplace/id1582861796
 https://apps.apple.com/us/app/pinterest/id429047995
 https://apps.apple.com/us/app/pulse-for-booking-com-partners/id992795726
 https://apps.apple.com/us/app/quip-docs-chat-sheets/id647922896
+https://apps.apple.com/us/app/recorded-future/id1435597894
 https://apps.apple.com/us/app/roomba-home/id6504274697
 https://apps.apple.com/us/app/salt-work-and-get-rewarded/id1668462142
 https://apps.apple.com/us/app/save-to-pinterest/id6473649042
@@ -2740,6 +2742,7 @@ https://base.org
 https://bb1.simplisafe.com
 https://bb2.simplisafe.com
 https://beta.arlo.com
+https://bgpview.io
 https://binance.tr
 https://bistro.sk
 https://bitbucket.org
@@ -3000,6 +3003,7 @@ https://gatewaydsaptst2.marriott.com/
 https://gcsm.oppoit.com/
 https://gemcreditline.co.nz
 https://gemfinance.co.nz
+https://geminiadvisory.io
 https://gemvisa.com.au
 https://geocode-beta.bykea.net
 https://gestordepedidos.ifood.com.br
@@ -3251,6 +3255,7 @@ https://gwapi1.tripadvisor.com
 https://gwapi2.tripadvisor.com
 https://gx.games
 https://gx.opera-api.com
+https://hatching.io
 https://help.etsy.com
 https://help.okta.com/asa/en-us/Content/Topics/Adv_Server_Access/docs/client.htm
 https://help.okta.com/en/prod/Content/Topics/Adv_Server_Access/docs/sftd-windows.htm
@@ -3269,6 +3274,7 @@ https://i18n.api.just-eat.io
 https://ibconnect.internetbrands.com
 https://id.atlassian.com/login
 https://id.employer.staging.seek.com
+https://id.recordedfuture.com
 https://id.unity.com
 https://identity.bugcrowd.com/
 https://identity.majidalfuttaim.com
@@ -3970,6 +3976,7 @@ https://play.google.com/store/apps/details?id=com.pinterest&hl=en_US&gl=US
 https://play.google.com/store/apps/details?id=com.pinterest.shuffles
 https://play.google.com/store/apps/details?id=com.pinterest.twa&hl=en_US&gl=US
 https://play.google.com/store/apps/details?id=com.quizlet.quizletandroid
+https://play.google.com/store/apps/details?id=com.recordedfuture.mobile&hl=en_US
 https://play.google.com/store/apps/details?id=com.saltlabs.app
 https://play.google.com/store/apps/details?id=com.scu.bsafe
 https://play.google.com/store/apps/details?id=com.sixgroup.debixplus
@@ -4235,6 +4242,7 @@ https://trello.com/power-ups/5c2462c384ab8949b1724a20/list-limits
 https://trello.com/power-ups/5e3886cd2ae34410748d0d5b/jira-align-
 https://trello.com/power-ups/6048e897c73d032a983e2a7c/dashcards
 https://trello.com/power-ups/6052d130068a8c0de7b022b4
+https://tria.ge
 https://u.oppomobile.com/
 https://uae.voxcinemas.com/
 https://ui.com/distributors/
@@ -4461,6 +4469,7 @@ https://www.planethoster.com
 https://www.premogiftcards.com
 https://www.priceline.com/pwd/v0/pcln-graphql/
 https://www.realcommercial.com.au/
+https://www.recordedfuture.com
 https://www.remove.bg
 https://www.restaurant-information.com
 https://www.sdx.com/
