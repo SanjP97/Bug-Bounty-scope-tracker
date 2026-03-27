@@ -2520,7 +2520,6 @@ https://api-{app-id}.notifications.sendbird.com
 https://api-{app-id}.sendbird.com
 https://api.20min.ch/
 https://api.aiven.io/login
-https://api.anytask.com/
 https://api.anytask.thesecurityteam.rocks
 https://api.bitpanda.com
 https://api.bugcrowd.com
@@ -2648,7 +2647,6 @@ https://apps.apple.com/sg/app/syfe-stay-invested/id1497156434
 https://apps.apple.com/us/app/%E5%B1%A5%E6%AD%B4%E6%9B%B8%E4%BD%9C%E6%88%90-%E3%82%A4%E3%83%B3%E3%83%87%E3%82%A3%E3%83%BC%E3%83%89/id1484451230
 https://apps.apple.com/us/app/3cx/id992045982
 https://apps.apple.com/us/app/acorns-invest-spare-change/id883324671
-https://apps.apple.com/us/app/anytask-com/id6741158899
 https://apps.apple.com/us/app/asana-mobile/id489969512
 https://apps.apple.com/us/app/auth0-guardian/id1093447833
 https://apps.apple.com/us/app/backblaze/id628638330
@@ -3733,7 +3731,7 @@ https://marketplace.atlassian.com/apps/1235463/?tab=overview&hosting=cloud
 https://marketplace.atlassian.com/apps/1235488/confluence-widget-for-figma-beta?hosting=cloud
 https://marketplace.atlassian.com/apps/1235496/jira-board-buddy?hosting=cloud
 https://marketplace.atlassian.com/apps/1236260/?tab=overview&hosting=cloud
-https://marketplace.atlassian.com/apps/1236742/advanced-content-status-labels-for-confluence
+https://marketplace.atlassian.com/apps/1236742/advanced-content-status-labels-for-confluence?hosting=cloud
 https://marketplace.atlassian.com/apps/1237512/latex-math-for-confluence?hosting=cloud
 https://marketplace.atlassian.com/apps/1237517/captionizer-ai-image-analyzer
 https://marketplace.atlassian.com/apps/1237729/checklist-for-jira-cloud-smart-todo-lists?hosting=cloud
@@ -3918,7 +3916,6 @@ https://play.google.com/store/apps/details?id=br.com.movilepay.banking.applicati
 https://play.google.com/store/apps/details?id=com.acorns.android&hl=en_US&gl=US
 https://play.google.com/store/apps/details?id=com.afterpaymobile.uk
 https://play.google.com/store/apps/details?id=com.afterpaymobile.us&hl=en_US&gl=US
-https://play.google.com/store/apps/details?id=com.anytask.mobile&hl=en_US
 https://play.google.com/store/apps/details?id=com.asana.app&hl=en
 https://play.google.com/store/apps/details?id=com.aswat.carrefouruae
 https://play.google.com/store/apps/details?id=com.atlassian.android.confluence.core&hl=en_US&gl=US
@@ -4314,7 +4311,6 @@ https://www.20min.ch
 https://www.adsrvr.org
 https://www.akhwien.at
 https://www.allsaints.me/
-https://www.anytask.com/
 https://www.arlo.com
 https://www.arrowfilms.com
 https://www.assurancewireless.com
