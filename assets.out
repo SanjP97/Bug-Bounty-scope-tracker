@@ -1331,6 +1331,7 @@ advisories.gitlab.com
 aebddc74953f248bc8455665b0f7d47b-78af959a11e5d0c1.elb.us-east-1.amazonaws.com
 affiliate-id.tokopedia.com
 affiliate.meesho.com
+agents.hostinger.com
 ai.kanghealth
 ai.portswigger.net
 ai.x.GrokApp
@@ -3097,7 +3098,6 @@ https://github.com/innocraft/
 https://github.com/iqlusioninc/crates/tree/main/signatory
 https://github.com/iqlusioninc/tmkms
 https://github.com/iqlusioninc/yubihsm.rs
-https://github.com/jitsi
 https://github.com/justeattakeaway
 https://github.com/kubernetes-client
 https://github.com/kubernetes-incubator
@@ -4124,6 +4124,7 @@ https://sprint.com
 https://square.online
 https://squareup.com/
 https://src.mastercard.com/profile/enroll
+https://ssu.staging.myconnect.com.au/get-connected
 https://stadtwien-my.sharepoint.com/
 https://staff.monash
 https://staging-api.bany.dev/
@@ -5198,7 +5199,6 @@ shopify.plus
 shopifyinbox.com
 shoppers.instacart.com
 signature-insights.api.cx.metamask.io
-signup.myconnect.com.au
 signup.sendgrid.com
 simperium.com
 simplenote.com
@@ -5261,7 +5261,6 @@ sso.8x8pilot.com
 sso.marriott.com
 sso.oft.hyatt.com
 sso.ryadom.kz
-ssu.myconnect.com.au/signup/get-connected 
 stage.taskcluster.nonprod.cloudops.mozgcp.net
 staging-app.bany.dev
 staging.airtable.com
