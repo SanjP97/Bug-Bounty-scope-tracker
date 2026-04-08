@@ -1053,24 +1053,23 @@ SAP Business Network for Logistics
 SAP BusinessObjects Business Intelligence platform
 SAP BusinessOne
 SAP Cloud ALM
-SAP Concur TMC Clarity
 SAP Continuous Integration and Delivery
 SAP Customer Data Cloud portfolio from Gigya
 SAP Customer Data Platform
 SAP Decentralized Identity Verification
 SAP Enable Now
-SAP HANA Cloud
 SAP Integrated Business Planning for Supply Chain
-SAP Omnichannel Promotion Pricing
-SAP Order Management for Sourcing and Availability
 SAP Order Management foundation
 SAP Order and Delivery Scheduling
 SAP Risk and Assurance Management
 SAP S/4HANA Cloud Private Edition
 SAP S/4HANA Cloud Public Edition
 SAP S/4HANA migration cockpit
-SAP Signavio
-SAP SuccessFactors
+SAP Signavio Process Intelligence
+SAP Signavio Process Management
+SAP SuccessFactors Employee Central
+SAP SuccessFactors Recruiting Marketing
+SAP WalkMe
 SAP Watch List Screening
 SOPHOS/Secureworks : Redcloak
 SOPHOS/Secureworks : Taegis
@@ -4146,6 +4145,8 @@ https://staff.monash
 https://staging-api.bany.dev/
 https://staging-login.vistarmedia.com
 https://staging-trafficking.vistarmedia.com
+https://staging.claytonapp.com
+https://staging.claytonapp.com/api
 https://staging.gearset.com/
 https://staging.luno.com.ng
 https://staging.luno.com/

@@ -1138,7 +1138,12 @@ SAP S/4HANA Cloud Private Edition
 SAP S/4HANA Cloud Public Edition
 SAP S/4HANA migration cockpit
 SAP Signavio
+SAP Signavio Process Intelligence
+SAP Signavio Process Management
 SAP SuccessFactors
+SAP SuccessFactors Employee Central
+SAP SuccessFactors Recruiting Marketing
+SAP WalkMe
 SAP Watch List Screening
 SOPHOS/Secureworks : Redcloak
 SOPHOS/Secureworks : Taegis
@@ -4578,6 +4583,8 @@ https://staging-api.bany.dev/
 https://staging-login.vistarmedia.com
 https://staging-prime.navan.com
 https://staging-trafficking.vistarmedia.com
+https://staging.claytonapp.com
+https://staging.claytonapp.com/api
 https://staging.gearset.com/
 https://staging.luno.com.ng
 https://staging.luno.com/
