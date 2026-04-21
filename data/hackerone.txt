@@ -2549,7 +2549,6 @@ AdwCleaner
 Any other Malwarebytes asset
 BrowserGuard (Firefox/Chrome/Safari browser extension)
 Malwarebytes Anti-Exploit
-Malwarebytes Device Control
 Malwarebytes Privacy (VPN)
 Malwarebytes Remediation for CrowdStrike
 Malwarebytes Support Tool (MBST)
@@ -2559,10 +2558,11 @@ Malwarebytes for Mac
 Malwarebytes for Teams
 Malwarebytes for Windows
 ThreatDown Browser Phishing Protection
+ThreatDown Device Control
 ThreatDown Endpoint Detection & Response (EDR)
 ThreatDown Endpoint Protection
+ThreatDown Patch Management
 USB Flash Drive Control
-Vulnerability & Patch Management
 blog.malwarebytes.com
 cloud.malwarebytes.com
 com.malwarebytes.Malwarebytes
