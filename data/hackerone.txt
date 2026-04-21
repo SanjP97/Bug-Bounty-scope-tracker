@@ -2546,7 +2546,7 @@ v1staging.kidswebservices.com
 wonderboxapi.com
 wonderboxdev.com
 AdwCleaner
-Any other Malwarebytes asset
+Any other Malwarebytes and ThreatDown asset
 BrowserGuard (Firefox/Chrome/Safari browser extension)
 Malwarebytes Anti-Exploit
 Malwarebytes Privacy (VPN)
@@ -2565,6 +2565,7 @@ ThreatDown Patch Management
 USB Flash Drive Control
 blog.malwarebytes.com
 cloud.malwarebytes.com
+cloud.threatdown.com
 com.malwarebytes.Malwarebytes
 forums.malwarebytes.com
 https://oneview.threatdownstage.com

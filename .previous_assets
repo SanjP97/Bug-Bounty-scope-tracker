@@ -518,6 +518,7 @@ Any host verified to be owned by Tesla Motors Inc. (domains/IP space/etc.)
 Any host/web property verified to be owned by Twilio et al.
 Any host/web property/mobile app verified to be owned by Indeed
 Any other Epic games owned asset not listed in the out of scope section
+Any other Malwarebytes and ThreatDown asset
 Any other Malwarebytes asset
 Any public (Internet-facing) infrastructure owned and operated by Palantir.
 Any public cloud (e.g. Amazon AWS, Microsoft Azure) resource or infrastructure operated and managed by Palantir.
@@ -1871,6 +1872,7 @@ cloud.coinbase.com
 cloud.elastic.co
 cloud.forescout.com
 cloud.malwarebytes.com
+cloud.threatdown.com
 cloud8.8x8.com
 cloudflareworkers.com
 cms.nba.com
