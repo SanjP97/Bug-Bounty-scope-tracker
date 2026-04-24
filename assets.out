@@ -670,7 +670,6 @@ Database Tools
 Databricks Free Edition
 Dependabot
 Deposit/Withdraw
-Desktop Client
 Desktop MFA for Windows
 Desktop MFA for macOS
 Dia Assistant
@@ -878,7 +877,6 @@ Magic Firewall
 Magic Transit
 Magic WAN
 Main corporate site
-Malicious or compromised gem
 Malwarebytes Anti-Exploit
 Malwarebytes Privacy (VPN)
 Malwarebytes Remediation for CrowdStrike
@@ -1516,7 +1514,6 @@ app3.rewire.to
 applause1.magisto.com
 apps.8x8.com
 apps.apple.com/us/app/crowdstrike-falcon/id1458815656
-apps.nextcloud.com
 apps.ort-one-pingone.com
 aqtooling.com
 aquiris.com.br
@@ -1541,7 +1538,6 @@ auth.23andme.com
 auth.hhc247.org
 auth.magic.link
 auth.moonpay.com
-auth.nextcloud.com
 auth.ort-one-pingone.com
 auth.privy.io
 auth.remitly.com
@@ -1931,9 +1927,6 @@ com.nbaimd.gametime.universal
 com.nearme.gamecenter
 com.netease.my.nearme.gamecenter
 com.newegg.app
-com.nextcloud.Talk
-com.nextcloud.client
-com.nextcloud.talk2
 com.nordpass.android.app.password.manager
 com.nordvpn.android
 com.oceanwing.FDMPrint
@@ -1954,7 +1947,6 @@ com.pacificinteractive.HouseOfFun
 com.paypal.android.p2pmobile
 com.paypal.merchant
 com.paypal.merchant.client
-com.peterandlinda.iOCNotes
 com.pieyel.scrabble
 com.playtika.caesarscasino
 com.playtika.wsop.gp
@@ -2120,7 +2112,6 @@ create.snapchat.com
 creator.amazon.com
 creatormarketplace.tiktok.com
 crm.na1.insightly.com
-crm.nextcloud.com
 cruises.priceline.com
 cs.money
 csp-pci.prod.codebig2.net
@@ -2130,7 +2121,6 @@ custody.coinbase.com
 customer-sessions.arkoselabs.com
 customerevents.netflix.com
 customers.gitlab.com
-customerupdates.nextcloud.com
 cw.visa.com
 cweb-ott-dev.nba.com
 cweb-ott-devint.nba.com
@@ -2206,7 +2196,6 @@ dns1.optus.net.au
 doaction.org
 docs.gitlab.com
 docs.launchdarkly.com
-docs.nextcloud.com
 docs.redoxengine.com
 docuflow.stg.inspectorio.com
 donations.livestream.com
@@ -2214,7 +2203,6 @@ doordash.DoorDashConsumer
 doppler
 doppler.team
 download.krisp.ai
-download.nextcloud.com
 dream-dev.wnba.com
 dream-qa.wnba.com
 dream.wnba.com
@@ -2359,7 +2347,6 @@ help.krisp.ai
 help.lime.bike
 help.marriott.com
 help.netflix.com
-help.nextcloud.com
 help.redoxengine.com
 help.sketchfab.com
 help.steampowered.com
@@ -3097,7 +3084,6 @@ https://github.com/cosmos/gaia
 https://github.com/cosmos/iavl
 https://github.com/cosmos/ics23
 https://github.com/cosmos/ledger-cosmos
-https://github.com/curl/curl
 https://github.com/discourse/discourse
 https://github.com/electroneum/electroneum-sc/
 https://github.com/electroneum/electroneum/
@@ -3202,9 +3188,6 @@ https://github.com/mattermost/mattermost-plugin-msteams-meetings
 https://github.com/mattermost/mattermost-plugin-playbooks
 https://github.com/mattermost/mattermost-plugin-zoom
 https://github.com/moonpay
-https://github.com/nextcloud/collectives
-https://github.com/nextcloud/files_confidential
-https://github.com/nextcloud/tables
 https://github.com/nitrojs/nitro
 https://github.com/nodejs/node
 https://github.com/nuxt/nuxt
@@ -3215,9 +3198,7 @@ https://github.com/plaid/plaid-link-ios
 https://github.com/plaid/plaid-ruby
 https://github.com/plaid/react-native-plaid-link-sdk
 https://github.com/plaid/react-plaid-link
-https://github.com/roundcube/roundcubemail
 https://github.com/ruby/ruby
-https://github.com/rubygems/rubygems
 https://github.com/slackhq/nebula
 https://github.com/smartcontractkit/chainlink
 https://github.com/smartcontractkit/chainlink-evm/tree/develop/contracts
@@ -4657,8 +4638,6 @@ irclogs.wordpress.org
 iris-testing-us-east-1-nlb-4df4bbde6f6e2bbb.elb.us-east-1.amazonaws.com
 ispdesign.ui.com
 issuer.idpay-uat.unico.io
-it.niedermann.owncloud.notes
-it.twsweb.Nextcloud
 itv7.itv.com
 j.root-servers.net (DNS service; DNS related)
 jira.grab.com
@@ -4688,7 +4667,6 @@ kit.snapchat.com
 klarna.com
 klarna.net
 klarnacdn.net
-knowledge.nextcloud.com
 knox.beta.blendlabs.com
 konghq.com
 krisp.ai
@@ -4720,7 +4698,6 @@ links.geneva-staging.chat
 links.geneva-staging.com
 links.portswigger.net
 list-v2--netlify-plugins.netlify.app
-lists.nextcloud.com
 lists.wordpress.org
 live-backstage.tiktok.com
 live-service.whatnot.com
@@ -4739,10 +4716,8 @@ logistica.redelcom.cl
 logitech.zendesk.com
 logitechg.com.cn
 logitechgchallenge.com
-logs.nextcloud.com
 logstash-props.devicecloud.acceptance.forescoutcloud.net
 lol.onevone
-lookup.nextcloud.com
 lynx-dev.wnba.com
 lynx-qa.wnba.com
 lynx.wnba.com
@@ -4894,69 +4869,8 @@ new.express.adobe.com
 new.reddit.com
 new.www.vaxvacationaccess.com
 news.remitly.com
-newsletter.nextcloud.com
 newsroom.images.hyatt.com
 next.airbnb.com
-nextcloud.com
-nextcloud/3rdparty
-nextcloud/activity
-nextcloud/approval
-nextcloud/bruteforcesettings
-nextcloud/calendar
-nextcloud/calendar_resource_management
-nextcloud/circles
-nextcloud/contacts
-nextcloud/data_request
-nextcloud/deck
-nextcloud/end_to_end_encryption
-nextcloud/external
-nextcloud/files_accesscontrol
-nextcloud/files_antivirus
-nextcloud/files_automatedtagging
-nextcloud/files_fulltextsearch
-nextcloud/files_fulltextsearch_tesseract
-nextcloud/files_lock
-nextcloud/files_pdfviewer
-nextcloud/files_retention
-nextcloud/files_rightclick
-nextcloud/files_texteditor
-nextcloud/firstrunwizard
-nextcloud/flow_notifications
-nextcloud/fulltextsearch
-nextcloud/fulltextsearch_elasticsearch
-nextcloud/globalsiteselector
-nextcloud/groupfolders
-nextcloud/guests
-nextcloud/logreader
-nextcloud/mail
-nextcloud/nextcloud_announcements
-nextcloud/notes
-nextcloud/notifications
-nextcloud/notify_push
-nextcloud/password_policy
-nextcloud/photos
-nextcloud/preferred_providers
-nextcloud/privacy
-nextcloud/recommendations
-nextcloud/related_resources
-nextcloud/richdocuments
-nextcloud/server
-nextcloud/serverinfo
-nextcloud/sharepoint
-nextcloud/socialsharing
-nextcloud/spreed
-nextcloud/survey_client
-nextcloud/suspicious_login
-nextcloud/terms_of_service
-nextcloud/text
-nextcloud/twofactor_totp
-nextcloud/twofactor_webauthn
-nextcloud/updater
-nextcloud/user_migration
-nextcloud/user_oidc
-nextcloud/user_saml
-nextcloud/viewer
-nextcloud/workflow_script
 nft.coinbase.com
 nft.io
 niantic.kidswebservices.com
@@ -5069,7 +4983,6 @@ portal.arkoselabs.com
 portal.au.frontegg.com
 portal.myconnect.com.au
 portal.myconnect.com.au/new-connection
-portal.nextcloud.com
 portal.openbanking.playground.klarna.com
 portal.polygon.technology
 portal.taxi.booking.com
@@ -5102,7 +5015,6 @@ profile-api.eu-east-1.indriverapp.com
 profile-photos-us-east-2.hackerone-user-content.com
 profile-photos.hackerone-user-content.com
 profiler.firefox.com
-projects.nextcloud.com
 prow.k8s.io
 proxy-production.lime.bike
 ps5.np.playstation.net
@@ -5110,10 +5022,8 @@ psp.marriott.com
 psychobunny.me
 public.hyatt.com
 publicsafety.ring.com
-push-notifications.nextcloud.com
 push.opera.com
 push.services.mozilla.com
-pushfeed.nextcloud.com
 pwapi.ex2b.com
 py.pl
 rafflee.co.uk
@@ -5185,7 +5095,6 @@ rpc.drpc.testnet.arc.network
 rpc.quicknode.testnet.arc.network
 rpc.testnet.arc.network
 rt.playcanvas.com
-rubygems.org
 ryadom.kz
 s3://faraday-secret
 s3://faraday-uploads
@@ -5201,7 +5110,6 @@ sandbox.braintreegateway.com
 sandbox.secure.checkout.visa.com
 sandbox.securegateway.com
 scan.clearme.com
-scan.nextcloud.com
 scan.snapchat.com
 scapegoat.hyatt.com
 screenshot-proxy.netlify.app
@@ -5227,7 +5135,6 @@ settings.superhuman.com
 sh.reddit.com
 share.doppler.com
 share.portswigger.net
-shipit.rubygems.org
 shop-id.tokopedia.com
 shop.app
 shop.dyson.co.za
@@ -5311,11 +5218,9 @@ staking-api.polygon.technology
 staking.polygon.technology
 starling-ttp.lemon8-app.us
 start.khealth.com
-static.apps.nextcloud.com
 stats-trafficcop-prod.nba.com
 stats.gleague.nba.com
 stats.nba.com
-stats.nextcloud.com
 stats.wnba.com
 status.larksuite.com
 steamcommunity.com
@@ -5358,11 +5263,9 @@ support.greenhouse.io
 support.logi.com
 support.malwarebytes.com
 support.mozilla.org
-support.nextcloud.com
 support.rockstargames.com
 support.steampowered.com
 supportal.netlify.app
-surveyserver.nextcloud.com
 sustentabilidadmercadolibre.com/
 swiftcapital.com
 swiftfinancial.com
@@ -5426,7 +5329,6 @@ unifi.ui.com
 university.marriott.com
 unreal-agents.8x8pilot.com
 updates.forescout.com
-updates.nextcloud.com
 upld.krisp.ai
 upsell.hyatt.com
 url-checker.indrive.com
@@ -5436,7 +5338,6 @@ us1.badoo.com
 usa.visa.com
 user-profile-staging.8x8.com
 user-profile.8x8.com
-usercontent.apps.nextcloud.com
 usercontent.koho.ca
 v1. kidswebservices.com
 v1staging.kidswebservices.com 
