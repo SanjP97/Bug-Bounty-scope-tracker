@@ -1427,6 +1427,7 @@ api.netlify.com
 api.ort-one-pingone.com
 api.prd.commerce.simplisafe.com
 api.privy.io
+api.prod.innovexperiments.com
 api.prod.whoop.com
 api.profiler.firefox.com
 api.rapyd.net
@@ -1473,6 +1474,7 @@ apix.vodafone.om
 app-insiders.marriott.com
 app.blueskytravelvietnam.com
 app.circle.com
+app.demand.cybersource.com
 app.deriv.com
 app.dynamic-preprod.xyz
 app.dynamic.xyz
@@ -1631,6 +1633,7 @@ calendar.notion.so
 callbacks.airbnb.com
 callroute.com
 callroute.io
+capability.prod.innovexperiments.com
 capturingreality.com
 cardpayments.remitly.io
 cards.remitly.io
@@ -2132,6 +2135,7 @@ cweb-ott-qa.nba.com
 cweb-ott-uat-uc.nba.com
 cweb-ott-uc.nba.com
 cweb-ott.nba.com
+cybersourcebouncebacks.visa.com
 dash.cloudflare.com
 dashboard.doppler.com
 dashboard.magic.link
@@ -2244,6 +2248,7 @@ exchange.opera.com
 exness.com
 exnessaffiliates.com
 exodus-movement.exodus
+experience.prod.innovexperiments.com
 experiences.booking.com
 explore.redoxengine.com
 external-api.lime.bike
@@ -2282,6 +2287,7 @@ flourish-user-templates.com
 flyiin.com
 fm.anchor.android
 fonts.adobe.com
+forms.cybersource.com
 fortnite.com
 forum.playcanvas.com
 forum.sketchfab.com
@@ -2296,6 +2302,7 @@ fw-update.ubnt.com
 gamenotes.nba.com
 gaming.logicool.co.jp
 gamma.grab.co
+garp.visa.com
 gasstation.polygon.technology/
 gateway.geneva-staging.chat
 gateway.geneva-staging.com
@@ -4619,12 +4626,15 @@ identityhomolog.acesso.io
 idpay-uat.unico.io
 ifast.marriott.com
 iframe.arkoselabs.com
+images.demand.cybersource.com
 imx.community
 in.amazon.mShop.android.business.shopping
 in.amazon.mShop.android.shopping
 indicative-pricing.taxi.booking.com
 indrive.com
 infinite.visa.fr
+info.authorize.net
+info.cybersource.com
 ingest.clairvoyance.indrive.tech
 innersloth.kidswebservices.com
 insights.deribit.com
@@ -4807,6 +4817,8 @@ mercantile.wordpress.org
 merch.23andme.com
 merchandise.opera-api.com
 merchant.crypto.com
+merchantsignage.visa.com
+merchantsignageeu.visa.com
 mercury-dev.wnba.com
 mercury-qa.wnba.com
 mercury.wnba.com
@@ -5368,6 +5380,7 @@ valkyries.wnba.com
 vap.8x8.com
 vault2.faraday.ai
 vcc-ce.8x8.com
+vdam.visa.com
 verified.clearme.com
 verified.clearme.com/v1/verification_sessions
 verify.arkoselabs.com
@@ -5395,6 +5408,7 @@ vpn.mozilla.org
 vpn01.syd.optusnet.com.au
 vroid.com
 vth.nba.com
+vwcm.visa.com
 waf.cumulusfire.net
 wallet.tg
 wallet.web3auth.io
@@ -5651,6 +5665,7 @@ www.travelocity.ca
 www.travelocity.com
 www.trendyol-milla.com
 www.trendyol.com
+www.trialpay.com
 www.triseptapi.com
 www.triseptdemo.com
 www.triseptsolutions.com
@@ -5773,7 +5788,6 @@ zooplus.net
 ██████████████████████████████████████████████████████████
 ███████████████████████████████████████████████████████████
 ███████████████████████████████████████████████████████████████
-█████████████████████████████████████████████████████████████████
 ███████████████████████████████████████████████████████████████████
 ███████████████████████████████████████████████████████████████████████████████████████████████████
 ████████████████████████████████████████████████████████████████████████████████████████████████████
