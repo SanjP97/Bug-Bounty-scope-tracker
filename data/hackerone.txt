@@ -1099,6 +1099,7 @@ MongoDB Toolchain
 Relational Migrator
 University Platform
 VS Code Plugin
+Web3 - Smart Contracts Scope
 com.ripio.android
 com.ripio.ios
 defi.ripio.com
