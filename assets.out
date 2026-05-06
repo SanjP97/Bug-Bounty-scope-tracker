@@ -1055,6 +1055,8 @@ SOPHOS/Secureworks : Redcloak
 SOPHOS/Secureworks : Taegis
 SRC integration on https://masterpassteststore.com/. Only the Masterpass checkout functionality is in scope
 SSL/TLS
+SUPERAPP (AOS)
+SUPERAPP (IOS)
 Saily - Android
 Saily - iOS
 Sandboxes
@@ -1310,6 +1312,7 @@ admin.wickr.com
 admintool.lime.bike
 adobe.fresco.ios
 adobeid-na1.services.adobe.com
+ads-partners.tw.coupang.com
 ads.reddit.com
 ads.snapchat.com
 ads.tiktok.com
@@ -1647,7 +1650,10 @@ careers.ui.com
 cares.nba.com
 cargo.indrive.com
 cars.booking.com
+cart-front-api.tw.coupang.com
 cart.starbucks.co.jp
+cart.tw.coupang.com
+cash.tw.coupang.com
 cashier.deriv.com
 cashier.robinhood.com
 ccardseu1.badoo.com
@@ -1671,6 +1677,7 @@ chaturbate.com
 checkout.playstation.com
 checkout.rapyd.net
 checkout.razorpay.com
+checkout.tw.coupang.com
 checkout.vimeo.com
 ci-propertyconversionportal.marriott.com
 circle.logi.com
@@ -1688,6 +1695,7 @@ cloud.malwarebytes.com
 cloud.threatdown.com
 cloud8.8x8.com
 cloudflareworkers.com
+cmapi.tw.coupang.com
 cms.nba.com
 co.mona.android
 coaching.supernovas.indrive.com
@@ -2161,6 +2169,7 @@ datapod-1-query.production.forescoutcloud.net
 datapod-2-druid-ingest.production.forescoutcloud.net
 datapod-2-ingest.acceptance.forescoutcloud.net
 datapod-2-query.acceptance.forescoutcloud.net
+dco.tw.coupang.com
 de.forescout.cloud
 debug.8x8.com
 debug.clairvoyance.indrive.tech
@@ -2196,6 +2205,7 @@ developer.worldcoin.org
 developers.pismo.io
 developers.reddit.com
 developers.tiktok.com
+developers.tw.coupangcorp.com
 device.marriott.com
 diabrowser.com
 dic.pixiv.net
@@ -2269,6 +2279,7 @@ fareharborsites.com
 fashion4less.me
 faucet-api.polygon.technology/
 faucet.polygon.technology
+feed-web.tw.coupang.com
 feedback.logitech.com
 fetlife.com
 fetlifemail.com
@@ -2282,6 +2293,9 @@ fi.spankki
 file-storage-front.eu-east-1.indriverapp.com
 file.larksuite.com
 files-stg.inspectorio.com
+fileupload-video.tw.coupang.com
+fileupload.tw.coupang.com
+fintech-aml-kyc-tw.coupang.com
 fire-dev.wnba.com
 fire-qa.wnba.com
 fire.wnba.com
@@ -2336,6 +2350,7 @@ global-api.citymapper.com
 globaldesign.marriott.com
 gnip.com
 gnocchi-www.buffalo-ggn.net
+go-cms.tw.coupang.com
 go.geneva-staging.com
 go.stripchat.com
 goldmansachsindices.com
@@ -2370,6 +2385,8 @@ help.sketchfab.com
 help.steampowered.com
 help.ui.com
 help.uisp.com
+helpcenter-tw.coupangcorp.com
+helpseller.tw.coupangcorp.com
 hey-mail
 hg.mozilla.org
 hilton.com
@@ -4631,6 +4648,7 @@ id.nba.com
 id.oppo.com
 id.stg.inspectorio.com
 id.superhuman.com
+id.tw.coupang.com
 id1427744264
 id1520720139
 id1534920947
@@ -4658,6 +4676,7 @@ in.amazon.mShop.android.shopping
 indicative-pricing.taxi.booking.com
 indrive.com
 infinite.visa.fr
+influencers.tw.coupang.com
 info.authorize.net
 info.cybersource.com
 ingest.clairvoyance.indrive.tech
@@ -4744,6 +4763,7 @@ lightsparkdev/js-sdk
 lightsparkdev/kotlin-sdk
 lightsparkdev/lightspark-crypto-uniffi
 lightsparkdev/swift-wallet-sdk
+link.tw.coupang.com
 linkpop.com
 links.geneva-staging.chat
 links.geneva-staging.com
@@ -4752,6 +4772,8 @@ list-v2--netlify-plugins.netlify.app
 lists.wordpress.org
 live-backstage.tiktok.com
 live-service.whatnot.com
+ljc-test.tw.coupang.com
+ljc.tw.coupang.com
 loanbuilder.com
 lockervision.nba.com
 logilife.logitech.com
@@ -4768,8 +4790,10 @@ logistica.redelcom.cl
 logitech.zendesk.com
 logitechg.com.cn
 logitechgchallenge.com
+logs-partners.tw.coupang.com
 logstash-props.devicecloud.acceptance.forescoutcloud.net
 lol.onevone
+loyalty.tw.coupang.com
 lynx-dev.wnba.com
 lynx-qa.wnba.com
 lynx.wnba.com
@@ -4779,6 +4803,7 @@ m.badoo.com
 m.chaturbate.com
 m.reddit.com
 m.trendyol.com
+m.tw.coupang.com
 mUSD Stablecoin
 magento.com
 magiceden.io
@@ -4801,12 +4826,15 @@ mark8.syfe.com
 marketing.fareharbor.com
 marketing.na1.insightly.com
 marketplace.gamemaker.io
+marketplace.tw.coupangcorp.com
 marquee.gs.com
 marriottfranchisetransactions.marriott.com
 marrtool.com
 matomo.cloud
 matrix.redditspace.com
+mauth.tw.coupang.com
 mc.sendgrid.com
+mc.tw.coupang.com
 mcd-dev.nba.com
 mcd-devint.nba.com
 mcd-perf.nba.com
@@ -4832,6 +4860,7 @@ meetmarriottbonvoy.marriott.com
 meliplay.com.ar
 meliplay.com.pe
 meliplay.com.uy
+member.tw.coupang.com
 mercadolibreexperience.cl
 mercadolivreexperience.com.br/
 mercadoplay.co
@@ -4901,11 +4930,13 @@ my.pressable.com
 my.sheer.com
 my.snapchat.com
 my.swiftfinancial.com
+my.tw.coupang.com
 my.visa.fr
 myaccount-cn.payoneer.com
 myaccount-hardening.dynatracelabs.com
 myaccount.payoneer.com
 myconnect.com.au
+myself.tw.coupang.com
 mystics-dev.wnba.com
 mystics-qa.wnba.com
 mystics.wnba.com
@@ -4934,6 +4965,7 @@ nft.coinbase.com
 nft.io
 niantic.kidswebservices.com
 nmtracking.netflix.com
+notification-front-web.tw.coupang.com
 notion.id
 novel.pixiv.net
 npm CLI
@@ -4983,6 +5015,7 @@ owa.marriott.com
 oymyakon.indriver.io
 p.grabtaxi.com
 p2p.walletbot.me
+pages.tw.coupang.com
 pangea.cloud
 pangle-mediation-ttp.tiktokpangle.us
 parse.ly
@@ -4994,6 +5027,7 @@ partner.swiftfinancial.com
 partner.tiktokshop.com
 partners.deriv.com
 partners.shopify.com
+partners.tw.coupang.com
 passport.larksuite.com
 passwordchallenge.marriott.com
 pastela.app
@@ -5001,10 +5035,12 @@ pay-sandbox.gocardless.com
 pay.8x8.com
 pay.ibex.exchange
 pay.tokopediax.com
+pay.tw.coupang.com
 pay.wallet.tg
 paybridge.booking.com
 payer-details-sandbox.gocardless.com
 payment.pixiv.net
+payment.tw.coupang.com
 paymentcomponent.booking.com
 payments.geneva-staging.chat
 payments.geneva-staging.com
@@ -5075,6 +5111,7 @@ profile-api.eu-east-1.indriverapp.com
 profile-photos-us-east-2.hackerone-user-content.com
 profile-photos.hackerone-user-content.com
 profiler.firefox.com
+promo.tw.coupang.com
 prow.k8s.io
 proxy-production.lime.bike
 ps5.np.playstation.net
@@ -5109,6 +5146,7 @@ realme P3 Lite 5G
 realme P4 5G
 realme P4 Pro 5G
 reastatic.net
+reco.tw.coupang.com
 recovery.privy.io
 redditforbusiness.com
 refer.23andme.com
@@ -5136,6 +5174,7 @@ research.gs.com
 reservations.all-inclusive.marriott.com
 reservations.wynnvacations.com
 resources.krisp.ai
+review.tw.coupang.com
 reviewer.pullrequest.com
 rewire.com
 rezagent.triseptsolutions.com
@@ -5153,6 +5192,7 @@ rpc.blockdaemon.testnet.arc.network
 rpc.drpc.testnet.arc.network
 rpc.quicknode.testnet.arc.network
 rpc.testnet.arc.network
+rs-open-api.tw.coupang.com
 rt.playcanvas.com
 ryadom.kz
 s3://faraday-secret
@@ -5201,6 +5241,7 @@ shop.dyson.co.za
 shop.dyson.tw
 shop.judge.me
 shop.tiktok.com
+shop.tw.coupang.com
 shop.whoop.com
 shop.wyndhamvacationownership.trisept.travel
 shopify.plus
@@ -5285,6 +5326,7 @@ stats.wnba.com
 status.larksuite.com
 steamcommunity.com
 stock.adobe.com
+store-display.tw.coupang.com
 store.23andme.com
 store.playcanvas.com
 store.playstation.com
@@ -5332,6 +5374,7 @@ swiftfinancial.com
 sync.logitech.com
 sync.services.mozilla.com
 syndication.nba.com
+syndication.tw.coupang.com
 t.co
 t.umblr.com
 tableau.fareharbor.engineering
@@ -5378,6 +5421,9 @@ tucarro.com
 tucarro.com.co
 tumoto.com
 tunnistus.s-ryhma.fi
+tw.coupang.com
+tw.coupangcorp.com
+tw.coupangls.com
 twinmotion.unrealengine.com
 uat-bugbounty.nonprod.syfe.com
 uber.com
@@ -5708,6 +5754,7 @@ www.triseptdemo.com
 www.triseptsolutions.com
 www.truecaller.com
 www.tumblr.com
+www.tw.coupang.com
 www.udemy.com
 www.ultimateears.com
 www.universalorlandovacations.com
