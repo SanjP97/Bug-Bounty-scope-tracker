@@ -433,6 +433,7 @@ A76
 A96
 AI Gateway
 AMP Real URL
+API & SDKs
 API Shield
 API calls going to disco-api from https://www.tagesanzeiger.ch 
 AS16314
@@ -639,6 +640,9 @@ Citrix Secure Access client for Linux
 Citrix Secure Access client for Windows
 Citrix Secure Access client for iOS
 Citrix Secure Access client for macOS
+Claude Code
+Claude Desktop Extensions and Claude.ai MCP servers
+Claude in Chrome
 ClickHouse Cloud environment hosted by ClickHouse
 Cloud Misconfigurations
 Cloudflare Access
@@ -871,6 +875,7 @@ In Scope - Points only
 InCopy
 InDesign
 Indoor Cam
+Infrastructure & Internal Apps/Services
 Insight Android App
 Insight Managed Smart Cloud Wireless Access Point
 Insight iOS App
@@ -904,6 +909,7 @@ LaunchDarkly Open Source SDKs
 Leaked Credentials
 Leaked Credentials and Secrets (Canva Employee/Contractor)
 Leaked Credentials and Secrets (Canva User)
+Leaked Employee API Keys
 Leaked/Сompromised Employee accounts
 Lens Studio
 Lightroom "Edit suggestions" Tech Preview
@@ -1037,6 +1043,7 @@ OKX iOS APP
 ONCE: Campfire
 Observability - APM Agents
 Observability - APM Server
+Official Clients
 Official WordPress plugins
 Okta
 Okta On-Prem Agents ( AD, LDAP, RDP, IWA )
@@ -1475,6 +1482,7 @@ amazon.speech.sim
 amazonpayinsurance.in
 amp.reddit.com
 analytics.krisp.ai
+anthropic.atlassian.com
 ap-s.cloud.com
 apcgateway.marriott.com
 api-dashboard.search.brave.com
@@ -1491,6 +1499,7 @@ api.23andme.com
 api.8x8.com
 api.adm.cloud.com
 api.airbnb.com
+api.anthropic.com
 api.au.frontegg.com
 api.binance.com
 api.blockchain.info
@@ -1892,6 +1901,7 @@ circle.logi.com
 circolocorecords.com/
 cl.nba.com
 classroom.github.com
+claude.ai
 clay.earth
 clearme.atlassian.net
 clearme.com
@@ -2320,6 +2330,7 @@ confluence.hyattdev.com
 connect-sandbox.gocardless.com
 connect.8x8.com
 connect.secure.wellsfargo.com
+console.anthropic.com
 console.circle.com
 console.dashlane.com
 console.ort-one-pingone.com
@@ -2483,6 +2494,7 @@ dns.watch
 dns0.optus.net.au
 dns1.optus.net.au
 doaction.org
+docs.anthropic.com
 docs.gitlab.com
 docs.launchdarkly.com
 docs.nextcloud.com
@@ -2619,6 +2631,7 @@ gifts.grab.com
 gifts.marriott.com
 gist.github.com
 github.com
+github.com/anthropics
 github.com/binary-com
 github.com/deriv-com
 github.com/kubernetes-csi
@@ -6222,6 +6235,7 @@ supplier.meesho.com
 supply-xml.booking.com
 support-api.airbnb.com
 support-portal.8x8.com
+support.anthropic.com
 support.creditkarma.ca
 support.cs.money
 support.greenhouse.io
