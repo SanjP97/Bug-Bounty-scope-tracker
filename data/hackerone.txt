@@ -1504,6 +1504,7 @@ api.taxjar.com
 app.taxjar.com
 com.stripe.android.dashboard
 js.stripe.com
+mcp.stripe.com
 www.stripe.partners
 Freshcaller-iOS-App
 Freshchat-iOS-App
