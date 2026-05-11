@@ -2606,7 +2606,6 @@ https://api.fstr.rocks
 https://api.ibops.net
 https://api.ibops.net/ad-management
 https://api.ibotta.com
-https://api.immutable.com
 https://api.int.ibops.net
 https://api.int.ibops.net/customer-loyalty-service
 https://api.intercom.com
@@ -2641,7 +2640,6 @@ https://api.vistarmedia.com
 https://api.vistarmedia.eu
 https://api.welcomesoftware.com/
 https://api.wyzecam.com
-https://api.x.immutable.com/
 https://apis.indeed.com/graphql
 https://app-staging.getmoneytree.com
 https://app.agency360.com
@@ -2814,7 +2812,6 @@ https://audiencelogos.blis.com
 https://audio.20min.ch/
 https://aus.api.just-eat.io/
 https://auth-adx.op-mobile.opera.com
-https://auth.immutable.com
 https://auth.lastpass.com
 https://auth.myopenpass.com
 https://auth.opera.com
@@ -3000,7 +2997,6 @@ https://dimensions.cloudinary.com
 https://docker-staging.adstruc.com
 https://docs.bugcrowd.com/
 https://docs.eazybi.com/
-https://docs.immutable.com/
 https://docs.keeper.io/en/keeperpam
 https://docs.keeper.io/en/keeperpam/commander-cli/overview
 https://docs.keeper.io/en/keeperpam/privileged-access-manager/getting-started/gateways
@@ -3195,7 +3191,6 @@ https://github.com/fireblocks/mpc-lib
 https://github.com/freedomofpress/securedrop
 https://github.com/freedomofpress/securedrop-client
 https://github.com/freedomofpress/securedrop-workstation
-https://github.com/immutable/ts-immutable-sdk/tree/main/packages/passport/
 https://github.com/innocraft/
 https://github.com/iqlusioninc/crates/tree/main/signatory
 https://github.com/iqlusioninc/tmkms
@@ -3371,7 +3366,6 @@ https://home.xfinity.com
 https://hq.breadcrumb.com/hq/restaurants/bounty-cafe-2/
 https://hr.neogov.com
 https://hr.prosus.com/
-https://hub.immutable.com/
 https://i18n.api.just-eat.io
 https://ibconnect.internetbrands.com
 https://id.atlassian.com/login
@@ -3448,7 +3442,6 @@ https://life.pulsepoint.com/EngagementAudience/#/dashboard
 https://life.pulsepoint.com/MediaPlanner/#/dashboard/targetview
 https://lifeapi.pulsepoint.com
 https://link.uma.me
-https://link.x.immutable.com/
 https://linktr.ee
 https://linktree.app.link/LinktreeWebsite?utm_medium=Linktree_Footer
 https://linktree.com
@@ -3472,7 +3465,6 @@ https://mapi.usaa.com/
 https://maps.bykea.net
 https://maps.vistarmedia.com
 https://market.android.com/details?id=com.myfitnesspal.android&rdid=com.myfitnesspal.android
-https://market.immutable.com/
 https://marketplace.atlassian.com
 https://marketplace.atlassian.com/apps/1210722/confluence-source-editor?hosting=server
 https://marketplace.atlassian.com/apps/1210725/data-generator-for-jira?hosting=server
@@ -3999,7 +3991,6 @@ https://partnerhelp.viator.com/
 https://partners.etoro.com
 https://partners.usaa.com
 https://partners.viator.com
-https://passport.immutable.com/
 https://pay.payzippy.com
 https://pay.unity.com
 https://payment-connectors.vendhq.com/
@@ -4138,7 +4129,6 @@ https://play.google.com/store/search?q=chipotle+mexican+grill&c=apps
 https://play.google.com/store/search?q=mattermost&c=apps
 https://play.google.com/store/search?q=plann&c=apps
 https://play.google.com/store/search?q=simplisafe&c=apps
-https://play.immutable.com
 https://playlist.link
 https://plugins.matomo.org/developer/innocraft
 https://plugins.matomo.org/developer/matomo-org
@@ -4741,7 +4731,6 @@ idpay-uat.unico.io
 ifast.marriott.com
 iframe.arkoselabs.com
 images.demand.cybersource.com
-imx.community
 in.amazon.mShop.android.business.shopping
 in.amazon.mShop.android.shopping
 indicative-pricing.taxi.booking.com
@@ -5536,7 +5525,6 @@ testapi.redoxengine.com
 testapp.redoxengine.com
 testbank.xs2a.com
 testnet.bitmex.com
-testnet.immutable.com
 thebrowser.company
 tiktok.com
 tiktokdata-us-open.tiktokw.us
@@ -5983,6 +5971,8 @@ zooplus.net
 █████
 ██████
 ███████
+███████████
+████████████
 █████████████
 ██████████████
 ███████████████
@@ -5999,8 +5989,10 @@ zooplus.net
 ██████████████████████████
 ███████████████████████████
 ████████████████████████████
+█████████████████████████████
 ██████████████████████████████
 ████████████████████████████████
+█████████████████████████████████
 ██████████████████████████████████
 ███████████████████████████████████
 ████████████████████████████████████
