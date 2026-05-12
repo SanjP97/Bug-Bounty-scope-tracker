@@ -814,7 +814,6 @@ HubSpot Sales Office 365 add-in
 HubSpot iOS Mobile App
 Hyperdrive
 HyprUnlock.exe
-IBC Go Relayer
 Ibotta App Data & Memory
 Id1406825640
 Illustrator
@@ -989,7 +988,6 @@ Other assets
 Other non-production infrastructure
 Other related e-commerce services
 PTaaS Reference
-Packet Forward Middleware
 Passkey Wallet
 Password Sync for macOS
 PayPal SDK
@@ -3180,9 +3178,6 @@ https://github.com/freedomofpress/securedrop
 https://github.com/freedomofpress/securedrop-client
 https://github.com/freedomofpress/securedrop-workstation
 https://github.com/innocraft/
-https://github.com/iqlusioninc/crates/tree/main/signatory
-https://github.com/iqlusioninc/tmkms
-https://github.com/iqlusioninc/yubihsm.rs
 https://github.com/jitsi
 https://github.com/justeattakeaway
 https://github.com/kubernetes-client
