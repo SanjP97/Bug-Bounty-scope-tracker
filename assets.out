@@ -299,6 +299,7 @@
 3CX SBC
 3d.cs.money
 3rd-Party Provider Vulnerability
+3rdparty-apis.coinmarketcap.com
 403546234
 403684733
 406056744
@@ -493,7 +494,6 @@ Anker
 Any FIS asset is in scope
 Any Other Sophos Product or Service
 Any Verified Dell-Controlled Endpoint (domains/IP space/etc.)	
-Any host verified to be owned by Tesla Motors Inc. (domains/IP space/etc.)
 Any host/web property verified to be owned by Twilio et al.
 Any host/web property/mobile app verified to be owned by Indeed
 Any other Epic games owned asset not listed in the out of scope section
@@ -555,6 +555,10 @@ Beats - Packetbeat
 Beats - Winlogbeat
 Beeper
 Behance Freelance Job creation
+Binance Desktop Application
+Binance Mobile Application for Android
+Binance Mobile Application for iOS
+Binance macOS Application
 Bitdefender Antimalware Engines
 Bitdefender BOX v2
 Bitdefender Total Security
@@ -630,6 +634,8 @@ Cloudkey
 Cluster-To-Cluster sync
 Coda Chrome Extension
 Codex Desktop
+CoinMarketCap Android app
+CoinMarketCap iOS app
 Coinbase WaaS (Wallet as a Service)
 ColdFusion
 ColorOS
@@ -1129,8 +1135,6 @@ TV - Xfinity hardware and services
 Tablets
 Tap to Pay (Android)
 Tap to Pay (iOS)
-Tesla Energy hardware you own
-Tesla vehicle hardware that you own
 Texts
 Third Party Application
 Third Party Marketplace Apps
@@ -1161,6 +1165,9 @@ Trello Desktop Client
 Trello Mobile App for Android
 Trello Mobile App for iOS
 Trello Third Party Powerups
+Trustwallet Android App
+Trustwallet Chrome Extension
+Trustwallet iOS App
 Turnstile
 Twilio APIs
 UCRM
@@ -1356,11 +1363,13 @@ api.adm.cloud.com
 api.airbnb.com
 api.anthropic.com
 api.au.frontegg.com
+api.binance.com
 api.blockchain.info
 api.chainabuse-staging.com
 api.circle.com
 api.cloudflare.com
 api.coinbase.com
+api.coinmarketcap.com
 api.creditkarma.com
 api.custody.coinbase.com
 api.deriv.com
@@ -1710,6 +1719,7 @@ code.yoti.com
 codeofconduct.visa.com
 codex.wordpress.org,codex.bbpress.org,codex.buddypress.org
 coinbase.com
+coinmarketcap.com
 collections.portswigger.net
 com.3mosquitos.MercadoLibre
 com.Hyatt
@@ -2752,7 +2762,6 @@ https://apps.apple.com/us/app/syncup-kids/id1503394062
 https://apps.apple.com/us/app/syncup-tracker/id1526380335
 https://apps.apple.com/us/app/t-life-t-mobile-tuesdays/id1111876388
 https://apps.apple.com/us/app/t-mobile/id561625752
-https://apps.apple.com/us/app/tesla/id582007913
 https://apps.apple.com/us/app/tripadvisor-plan-book-trips/id284876795
 https://apps.apple.com/us/app/under-armour/id1092704571
 https://apps.apple.com/us/app/usaa-mobile/id312325565
@@ -2807,6 +2816,7 @@ https://bb2.simplisafe.com
 https://beta.arlo.com
 https://billing-pci.etoro.com
 https://billing.etoro.com
+https://binance.tr
 https://bistro.sk
 https://bitbucket.org
 https://bitgo.ae/
@@ -3279,6 +3289,7 @@ https://github.com/square/wire
 https://github.com/sveltejs/svelte
 https://github.com/tempus-ex
 https://github.com/tronprotocol/java-tron
+https://github.com/trustwallet/wallet-core/
 https://github.com/valvesoftware
 https://github.com/vercel-labs/agent-skills
 https://github.com/vercel-labs/skills
@@ -4069,7 +4080,6 @@ https://play.google.com/store/apps/details?id=com.squareup&hl=en_US&gl=US
 https://play.google.com/store/apps/details?id=com.squareup.cash
 https://play.google.com/store/apps/details?id=com.syftapp.android
 https://play.google.com/store/apps/details?id=com.tcx.sipphone14
-https://play.google.com/store/apps/details?id=com.teslamotors.tesla&hl=en_US&gl=US
 https://play.google.com/store/apps/details?id=com.tmobile.drive
 https://play.google.com/store/apps/details?id=com.tmobile.kids
 https://play.google.com/store/apps/details?id=com.tmobile.pr.mytmobile
@@ -4420,6 +4430,8 @@ https://www.atlassian.com/software/jira/work-management
 https://www.atlassian.com/software/rovo
 https://www.atlassian.com/software/rovo-dev
 https://www.authy.com/download/
+https://www.binance.com/
+https://www.binance.us/
 https://www.bitdefender.com/business/smb-products/business-security.html?cid=ppc|b|google|smb&s_kwcid=AL!6076!3!514235572261!p!!g!!bitdefender%20business&utm_term=bitdefender%20business&utm_campaign=USA+SMB+Branded+30&utm_source=adwords&utm_medium=ppc&hsa_acc=8155205354&hsa_cam=7848657822&hsa_grp=124745713150&hsa_ad=514235572261&hsa_src=g&hsa_tgt=kwd-308396066873&hsa_kw=bitdefender%20business&hsa_mt=p&hsa_net=adwords&hsa_ver=3&gclid=CjwKCAjwqIiFBhAHEiwANg9szk-Rr3iSn4mrwsvAUOn-pzrO12ufWDmyCLopWigaLQW0t_xtlBE65RoCr6kQAvD_BwE
 https://www.bitpanda.com/
 https://www.bitpanda.com/academy/en/
@@ -5129,6 +5141,7 @@ playwonderbox.com
 playwonderbox.com.br
 pmtcards.newegg.com
 pontoon.allizom.org
+portal-api.coinmarketcap.com
 portal.23andme.com
 portal.arkoselabs.com
 portal.au.frontegg.com
@@ -5156,7 +5169,9 @@ priceline.com
 pricerunner.com
 prime.coinbase.com
 priority.eu-east-1.indriverapp.com
+pro-api.coinmarketcap.com
 pro.coinbase.com
+pro.coinmarketcap.com
 prod-mipaasiaasservices.marriott.com
 prod.meeshoapi.com
 prod.ros.rockstargames.com
