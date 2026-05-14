@@ -2580,7 +2580,6 @@ https://api-{app-id}.sendbird.com
 https://api.20min.ch/
 https://api.aiven.io/login
 https://api.bitpanda.com
-https://api.bugcrowd.com
 https://api.bykea.net
 https://api.canva.com
 https://api.classdojo.com
@@ -2845,7 +2844,6 @@ https://bugcrowd-pam-###.at.oktapreview.com
 https://bugcrowd-pam-###.oktapreview.com
 https://bugcrowd-pam-###.workflows.oktapreview.com
 https://bugcrowd.charm.felixforus.ca/home
-https://bugcrowd.com/programs
 https://bugcrowd.lucky.felixforus.ca
 https://bugs.opera.com/
 https://bullish.com/
@@ -2982,7 +2980,6 @@ https://digits.t-mobile.com
 https://digits.t-mobile.com/
 https://dimensions.cloudinary.com
 https://docker-staging.adstruc.com
-https://docs.bugcrowd.com/
 https://docs.eazybi.com/
 https://docs.keeper.io/en/keeperpam
 https://docs.keeper.io/en/keeperpam/commander-cli/overview
@@ -3325,7 +3322,6 @@ https://gitlab.com/gitlab-org/opstrace/opstrace
 https://global-payments-web.payments.pmt-1.eu-west-1.production.jet-external.com
 https://go.elementor.com/
 https://gomastercard.com.au
-https://gov.bugcrowd.net
 https://gpt.lime.bike
 https://graphql.acorns.com
 https://graphql.seek.com
@@ -3343,8 +3339,6 @@ https://help.okta.com/en/prod/Content/Topics/Adv_Server_Access/docs/sftd-windows
 https://help.okta.com/en/prod/Content/Topics/Settings/download-browser-plugin.htm
 https://help.supplier.viator.com/en
 https://hipaa.staging.gearset.com/
-https://hk.employer.staging.seek.com
-https://hk.staging.jobsdb.com
 https://home.classdojo.com
 https://home.xfinity.com
 https://hq.breadcrumb.com/hq/restaurants/bounty-cafe-2/
@@ -3353,10 +3347,8 @@ https://hr.prosus.com/
 https://i18n.api.just-eat.io
 https://ibconnect.internetbrands.com
 https://id.atlassian.com/login
-https://id.employer.staging.seek.com
 https://id.recordedfuture.com
 https://id.unity.com
-https://identity.bugcrowd.com/
 https://identity.majidalfuttaim.com
 https://identity.monash.edu
 https://identity.monash.edu/
@@ -3891,7 +3883,6 @@ https://mstatic.usaa.com
 https://my.arlo.com
 https://my.electroneum.com/
 https://my.elementor.com/
-https://my.employer.staging.seek.com
 https://my.exness.com/pa/pim/manager
 https://my.exness.com/pa/socialtrading
 https://my.exness.com/webtrading/
@@ -3985,7 +3976,6 @@ https://peopleview.naspers.com
 https://performance.neogov.com
 https://performancemarketing.mastercard.com/portal/
 https://pets.webmd.com
-https://ph.employer.staging.seek.com
 https://pioneer.truata.com/
 https://pixabay.com/
 https://platform.blis.com
@@ -4293,15 +4283,12 @@ https://testflight.apple.com/join/Y4cHu289
 https://testflight.apple.com/join/vwFxXX7t
 https://testnet-blockexplorer.electroneum.com
 https://tfb.t-mobile.com
-https://th.employer.staging.seek.com
-https://th.staging.jobsdb.com
 https://thatconceptstore.com
 https://thinkglobalhealth.org
 https://ticket.multiplayer.classdojo.com
 https://tidal.com/
 https://tools-api.cryptocompare.com/
 https://tr.ee
-https://tracker.bugcrowd.com
 https://tracker.naspers.com/
 https://transcodes-cdn.vistarmedia.com
 https://transfer.underarmour.com/
@@ -4593,10 +4580,6 @@ https://www.sophos.com/en-us/products/endpoint-antivirus/free-trial
 https://www.sophos.com/en-us/products/mobile-control/free-trial
 https://www.sophos.com/en-us/products/next-gen-firewall
 https://www.sourcetreeapp.com/
-https://www.staging.jobstreet.co.id
-https://www.staging.jobstreet.com.my
-https://www.staging.jobstreet.com.ph
-https://www.staging.jobstreet.com.sg
 https://www.tagesanzeiger.ch
 https://www.thecurrent.com
 https://www.thefork.com
