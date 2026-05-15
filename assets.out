@@ -493,7 +493,6 @@ Animate
 Anker
 Any FIS asset is in scope
 Any Other Sophos Product or Service
-Any Verified Dell-Controlled Endpoint (domains/IP space/etc.)	
 Any host verified to be owned by Tesla Motors Inc. (domains/IP space/etc.)
 Any host/web property verified to be owned by Twilio et al.
 Any host/web property/mobile app verified to be owned by Indeed
@@ -2916,9 +2915,6 @@ https://connect.soundcloud.com
 https://consensus2026.sandbox.events.coindesk.com/
 https://console-stage.neon.build/
 https://console.aiven.io/login
-https://console.delltechnologies.com/nav/administration
-https://console.delltechnologies.com/nav/billing
-https://console.delltechnologies.com/nav/invoice
 https://console.neon.tech/
 https://console.neon.tech/api/v2/
 https://console.ort-one-pingone.com/?env=361b34ef-2725-4fd9-af1b-a2b189df3d05
