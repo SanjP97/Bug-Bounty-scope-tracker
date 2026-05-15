@@ -1074,10 +1074,6 @@ https://kucoin.com
 https://kucoin.com
 https://apps.apple.com/us/app/kucoin-buy-bitcoin-crypto/id1378956601?mt=8
 https://play.google.com/store/apps/details?id=com.kubi.kucoin
-https://kucoin.com
-https://kucoin.com
-https://apps.apple.com/us/app/kucoin-buy-bitcoin-crypto/id1378956601?mt=8
-https://play.google.com/store/apps/details?id=com.kubi.kucoin
 ████████████████████
 ██████████████████
 ████████████████████████
@@ -1387,6 +1383,8 @@ https://nubank.com.co
 https://www.nuinvest.com.br/
 https://octopus.com/downloads
 https://octopus.com/downloads
+https://github.com/OctopusDeploy
+https://octopus.com
 personal.trexcloud.com
 bugcrowd-pam-###.oktapreview.com
 bugcrowd-pam-###.pam.oktapreview.com
