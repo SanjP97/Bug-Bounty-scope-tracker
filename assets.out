@@ -2086,6 +2086,7 @@ community.logitech.com
 community.ui.com
 company.thebrowser.arc
 compass.fareharbor.com
+compete.playstation.com
 competitive.fortnite.com
 concierge.clearme.com
 config.cic-bug-bounty.auth0app.com
@@ -2575,9 +2576,6 @@ https://api-portal.originzero.com.au
 https://api-prod.retailsso.com
 https://api-prod.thatconceptstore.com/
 https://api-skipthedishes.skipthedishes.com
-https://api-{app-id}.calls.sendbird.com
-https://api-{app-id}.notifications.sendbird.com
-https://api-{app-id}.sendbird.com
 https://api.20min.ch/
 https://api.aiven.io/login
 https://api.bitpanda.com
@@ -2952,7 +2950,6 @@ https://dashboard-101.moengage.com
 https://dashboard.fga.dev/
 https://dashboard.pantheon.io
 https://dashboard.rapyd.net/
-https://dashboard.sendbird.com/
 https://data.limeinternal.com
 https://data.prosus.com/
 https://dataportal.originenergy.com.au
@@ -2964,7 +2961,6 @@ https://dealflowapi.prosus.com
 https://delta.app
 https://demo.adstruc.com
 https://demo.priceless.com/
-https://desk-api-{region}.sendbird.com
 https://desk.thetradedesk.com
 https://dev.tutoring.classdojo.com
 https://devedge.t-mobile.com
@@ -3095,7 +3091,6 @@ https://form.asana.com
 https://formative.eassessment.monash.edu/
 https://forms.apps.monash.edu/
 https://forum.newrelic.com
-https://gate.sendbird.com
 https://gateway.optus.com.au/api/ai-search/search/v1
 https://gatewaydsapdev2.marriott.com/
 https://gatewaydsaptst1.marriott.com/
@@ -4209,8 +4204,6 @@ https://seekcdn.com
 https://segment.com/docs/connections/sources/
 https://selector.viator.com
 https://send2.co/
-https://sendbird.com
-https://sendbird.com/docs
 https://service.platform.tripadvisor.com
 https://services.chipotle.com
 https://sfleet.cortexpowered.com
@@ -4403,8 +4396,6 @@ https://wmaudience.com
 https://world.planethoster.net
 https://worldscan.org/address/0xDe7Ec97CFDeE9F20f9d256F4a0A0d694479fa2E0
 https://wowjobs.ca
-https://ws-{app-id}.calls.sendbird.com
-https://ws-{app-id}.sendbird.com
 https://ws.multiplayer.classdojo.com/
 https://ws.usaa.com
 https://wsloja.ifood.com.br
@@ -5184,6 +5175,7 @@ production.plaid.com
 profile-api.eu-east-1.indriverapp.com
 profile-photos-us-east-2.hackerone-user-content.com
 profile-photos.hackerone-user-content.com
+profile.playstation.com
 profiler.firefox.com
 promo.tw.coupang.com
 prow.k8s.io
@@ -5342,6 +5334,7 @@ seller.temu.com
 sellerportal.newegg.com
 sendgrid.com
 sensei.pixiv.net
+session-share.playstation.com
 settings.superhuman.com
 sh.reddit.com
 share.doppler.com
@@ -5634,6 +5627,7 @@ web.crypto.com
 web.geneva-staging.com
 web.grindr.com
 web.koho.ca
+web.np.playstation.com
 web.ryadom.kz
 web.snapchat.com
 web.truecaller.com
@@ -5836,6 +5830,7 @@ www.netflix.com
 www.orbitz.com
 www.pangleglobal.com
 www.pixiv.net
+www.playstation.com
 www.pornbox.com
 www.pornworld.com
 www.practicalbusinessskills.org
