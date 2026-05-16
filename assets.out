@@ -1368,7 +1368,6 @@ api.anthropic.com
 api.au.frontegg.com
 api.binance.com
 api.blockchain.info
-api.chainabuse-staging.com
 api.circle.com
 api.cloudflare.com
 api.coinbase.com
@@ -1678,7 +1677,6 @@ cdn.nba.com
 cdn.plaid.com
 cdna.lystit.com
 chain.link
-chainabuse-staging.com
 channel-portal.homes-and-villas.marriott.com
 channelstore.roku.com/details/48061/vhx
 chat.booking.com
@@ -2441,6 +2439,7 @@ hpanel.hostinger.com
 ht.visa.com
 http1mustdie.com
 http://--your-own-1password-account--.1password.com
+http://activitylog.io/
 http://analytics.prosus.com
 http://api.insightly.com/v3.1/
 http://api.koho.ca/1.0
@@ -2967,6 +2966,7 @@ https://developer.ifood.com.br
 https://developer.mastercard.com
 https://developer.newrelic.com/
 https://developers.afterpay.com
+https://developers.elementor.com/
 https://developers.intercom.com/installing-intercom/docs/about-the-sdk-android
 https://developers.intercom.com/installing-intercom/docs/about-the-sdk-ios
 https://developers.oppomobile.com/
@@ -3042,6 +3042,7 @@ https://edgeacademy.thetradedesk.com
 https://education.cfr.org/
 https://eforms.neogov.com
 https://electroneum.com/
+https://elementor.careers
 https://esp-jssdk-integ.uidapi.com
 https://esp-srvonly-integ.uidapi.com
 https://etherscan.io/address/0x00005EA00Ac477B1030CE78506496e8C2dE24bf5
@@ -3314,6 +3315,7 @@ https://gitlab.com/gitlab-org/gitlab-shell
 https://gitlab.com/gitlab-org/gitlab-vscode-extension
 https://gitlab.com/gitlab-org/opstrace/opstrace
 https://global-payments-web.payments.pmt-1.eu-west-1.production.jet-external.com
+https://go.elementor.com/
 https://gomastercard.com.au
 https://gov.bugcrowd.net
 https://gpt.lime.bike
@@ -3406,6 +3408,7 @@ https://learn.neogov.com
 https://learn.newrelic.com/
 https://legacy-blockexplorer.electroneum.com
 https://lensstudio.snapchat.com/api/
+https://library.elementor.com/
 https://lieferando.de
 https://life.pulsepoint.com/Buyer/#/campaign
 https://life.pulsepoint.com/EngagementAudience/#/dashboard
@@ -3892,6 +3895,7 @@ https://move.monash.edu/
 https://mstatic.usaa.com
 https://my.arlo.com
 https://my.electroneum.com/
+https://my.elementor.com/
 https://my.exness.com/pa/pim/manager
 https://my.exness.com/pa/socialtrading
 https://my.exness.com/webtrading/
@@ -4197,6 +4201,7 @@ https://securitytrails.com
 https://seekcdn.com
 https://segment.com/docs/connections/sources/
 https://selector.viator.com
+https://send2.co/
 https://service.platform.tripadvisor.com
 https://services.chipotle.com
 https://sfleet.cortexpowered.com
@@ -4299,6 +4304,7 @@ https://tracker.naspers.com/
 https://transcodes-cdn.vistarmedia.com
 https://transfer.underarmour.com/
 https://transferwise.com
+https://translate.elementor.com/
 https://transparentadvertising.com
 https://transparentadvertising.eu
 https://travelagents.viator.com
