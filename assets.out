@@ -2492,6 +2492,7 @@ http://itunes.apple.com/us/app/ibotta/id559887125
 http://logstash-props.devicecloud.production.forescoutcloud.net/api/v1/properties
 http://market.android.com/details?id=com.ibotta.android
 http://marlo.ext.tripadvisor.com
+http://mcp.intercom.com
 http://media.itsfogo.com/media/upload/mobile/android/apk/partycasino_com.apk
 http://member-qa.chime.com/enroll
 http://mgmtpod-1.production.forescoutcloud.net/oauth/token
@@ -2567,6 +2568,7 @@ https://analytics.welcomesoftware.com/
 https://answers.irobot.com
 https://api-a.usaa.com
 https://api-businessportal.origin.com.au
+https://api-iam.intercom.io
 https://api-next.flatmates.com.au
 https://api-payments-secure-prod.skippayments.com
 https://api-portal.etoro.com
@@ -2591,6 +2593,7 @@ https://api.ibops.net/ad-management
 https://api.ibotta.com
 https://api.int.ibops.net
 https://api.int.ibops.net/customer-loyalty-service
+https://api.intercom.com
 https://api.justeat-int.com
 https://api.mafshoppingmalls.com/
 https://api.myntra.com
@@ -2634,9 +2637,12 @@ https://app.bitrise.io/app/5bec038cb1e318cd/installable-artifacts/9ad837caadc77d
 https://app.bitrise.io/app/5bec038cb1e318cd/installable-artifacts/d2424d9760af75d5/public-install-page/4883ab94cee43b34c597ad1df833911f
 https://app.chime.com
 https://app.ecwid.com/api/v3/	
+https://app.fin.ai/
 https://app.glean.com/login?qe=https://bug-bounty-be.glean.com&skip_to_sso=1
 https://app.ibotta.com/sign-in 
 https://app.insomnia.rest/
+https://app.intercom.com
+https://app.intercom.io/
 https://app.latitudepayapps.com/
 https://app.navan.com
 https://app.opsgenie.com
@@ -2963,6 +2969,8 @@ https://developer.mastercard.com
 https://developer.newrelic.com/
 https://developers.afterpay.com
 https://developers.elementor.com/
+https://developers.intercom.com/installing-intercom/docs/about-the-sdk-android
+https://developers.intercom.com/installing-intercom/docs/about-the-sdk-ios
 https://developers.oppomobile.com/
 https://developers.vendhq.com/
 https://development.wmaudience.com
@@ -3068,6 +3076,7 @@ https://explorer.cronos.org/token/0x2e53c5586e12a99d4CAE366E9Fc5C14fE9c6495d
 https://externalconnect.usaa.com/
 https://features.opera-api.com
 https://fileshare.ze.monash.edu
+https://fin.ai/
 https://financeiro.hostgator.com.br
 https://financialforce.com
 https://fivetran.com/login
@@ -4471,6 +4480,7 @@ https://www.hostgator.com.br/
 https://www.hostgator.com/
 https://www.ifood.com.br
 https://www.illamasqua.com/
+https://www.intercom.com/
 https://www.internetbrands.com
 https://www.irobot.at/
 https://www.irobot.be/
