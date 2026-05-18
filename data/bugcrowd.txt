@@ -684,10 +684,6 @@ https://console.delltechnologies.com/nav/administration
 https://console.delltechnologies.com/nav/invoice
 https://console.delltechnologies.com/nav/billing
 Any Verified Dell-Controlled Endpoint (domains/IP space/etc.)	
-https://console.delltechnologies.com/nav/administration
-https://console.delltechnologies.com/nav/invoice
-https://console.delltechnologies.com/nav/billing
-Any Verified Dell-Controlled Endpoint (domains/IP space/etc.)	
 Actively Supported, Bounty Eligible Dell Products
 Actively Supported, Non-Reward Eligible Dell Products
 ████████████████████████
@@ -792,6 +788,7 @@ https://financialforce.com
 https://sb-console-api.fireblocks.io
 https://sb-mobile-api.fireblocks.io
 https://sandbox-api.fireblocks.io
+https://github.com/fireblocks/mpc-lib
 https://github.com/fireblocks/mpc-lib
 Any FIS asset is in scope
 https://fivetran.com/login
