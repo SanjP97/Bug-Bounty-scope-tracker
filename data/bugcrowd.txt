@@ -789,7 +789,6 @@ https://sb-console-api.fireblocks.io
 https://sb-mobile-api.fireblocks.io
 https://sandbox-api.fireblocks.io
 https://github.com/fireblocks/mpc-lib
-https://github.com/fireblocks/mpc-lib
 Any FIS asset is in scope
 https://fivetran.com/login
 https://fivetran.com/login
@@ -1072,6 +1071,10 @@ Kohl’s entire public digital footprint that is not Out-Of-Scope(See list below
 https://www.kohls.com
 https://www.kohls.com/feature/app.jsp
 https://www.kohls.com/feature/app.jsp
+https://kucoin.com
+https://kucoin.com
+https://apps.apple.com/us/app/kucoin-buy-bitcoin-crypto/id1378956601?mt=8
+https://play.google.com/store/apps/details?id=com.kubi.kucoin
 ████████████████████
 ██████████████████
 ████████████████████████

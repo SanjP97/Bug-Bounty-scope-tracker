@@ -1058,7 +1058,6 @@ ro.superbet.sport
 superbet.bet.br
 api.dicey.com
 dicey.com
-magiceden.io
 com.boozt
 com.boozt.app
 com.boozt.booztlet
