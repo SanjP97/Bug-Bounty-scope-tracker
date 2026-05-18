@@ -916,6 +916,16 @@ http://mcp.intercom.com
 https://api-iam.intercom.io
 https://fin.ai/
 https://app.fin.ai/
+https://developers.intercom.com/installing-intercom/docs/about-the-sdk-ios
+https://api.intercom.com
+https://app.intercom.com
+https://app.intercom.io/
+https://developers.intercom.com/installing-intercom/docs/about-the-sdk-android
+https://www.intercom.com/
+http://mcp.intercom.com
+https://api-iam.intercom.io
+https://fin.ai/
+https://app.fin.ai/
 https://www.carsdirect.com
 https://pets.webmd.com
 https://member.webmd.com
@@ -2116,18 +2126,6 @@ Tesla vehicle hardware that you own
 ████████████████████
 ██████████████████████████████
 ██████████████████
-https://secure.thefork.com
-https://payment.lafourchette.com
-https://api.thefork.io
-https://widget.thefork.com
-https://www.theforkmanager.com
-https://www.thefork.com
-https://m.thefork.com
-https://api.thefork.com
-https://blog.thefork.com/
-https://apps.apple.com/app/thefork-restaurants-bookings/id424850908
-https://play.google.com/store/apps/details?id=com.lafourchette.lafourchette
-https://www.restaurant-information.com
 https://open.sincera.io
 https://desk.thetradedesk.com
 https://api.thetradedesk.com
@@ -2411,6 +2409,7 @@ https://wise.com
 https://apps.apple.com/us/app/wise-ex-transferwise/id612261027
 https://play.google.com/store/apps/details?id=com.transferwise.android&hl=en_US&gl=US
 AWS infrastructure and services in use by Wise (eg: S3 buckets)
+https://wise-sandbox.com/
 https://auth.wyze.com
 https://my.wyze.com
 https://api.wyzecam.com
