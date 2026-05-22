@@ -570,6 +570,8 @@ Blink Sync Module 2
 Blink Video Doorbell
 Bot Management
 Braintree SDK
+Brave Browser Desktop
+Brave websites
 Bridge
 Broken Link
 Browser Isolation
@@ -1799,6 +1801,8 @@ com.boozt
 com.boozt.app
 com.boozt.booztlet
 com.booztlet
+com.brave.browser
+com.brave.ios.browser
 com.bumble.app
 com.bumblebff.app
 com.bykea.pk
