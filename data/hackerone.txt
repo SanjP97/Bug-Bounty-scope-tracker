@@ -1469,12 +1469,15 @@ HyprUnlock.exe
 com.hypr.one
 com.hypr.one
 978516833
+Customer Portal
+Global Payouts
 Munkisrv Open Source Project
 Sandboxes
 Smokescreen Open Source Project
 Stripe Apps
 Stripe Atlas
 Stripe Billing
+Stripe CLI
 Stripe Capital
 Stripe Checkout
 Stripe Climate
@@ -1490,6 +1493,7 @@ Stripe Open Source
 Stripe Organizations
 Stripe Payment Links
 Stripe Payments
+Stripe Projects
 Stripe Radar
 Stripe Revenue Recognition
 Stripe SDKs
@@ -1497,6 +1501,7 @@ Stripe Sigma
 Stripe Tax
 Stripe Terminal
 Stripe Treasury
+Stripe fiat-to-crypto onramp
 Stripe for Visual Studio Code
 Tap to Pay (Android)
 Tap to Pay (iOS)
