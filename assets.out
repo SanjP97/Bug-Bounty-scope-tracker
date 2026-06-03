@@ -846,6 +846,7 @@ Kong Gateway Enterprise
 Kong Gateway OSS
 Kong Gateway Plugins (Kong-Supported Only)
 Kong Mesh
+LaunchDarkly Open Source SDKs
 Leaked Credentials
 Leaked Credentials and Secrets (Canva Employee/Contractor)
 Leaked Credentials and Secrets (Canva User)
@@ -1503,6 +1504,7 @@ app.klarna.com
 app.koho.ca
 app.krisp.ai
 app.larksuite.com
+app.launchdarkly.com
 app.moderntreasury.com
 app.mona.co
 app.moonpay.com
@@ -2250,6 +2252,7 @@ dns1.optus.net.au
 doaction.org
 docs.anthropic.com
 docs.gitlab.com
+docs.launchdarkly.com
 docs.redoxengine.com
 docuflow.stg.inspectorio.com
 donations.livestream.com
@@ -2289,6 +2292,7 @@ eu.remix.com
 eu1.badoo.com
 eufyMake E1
 eufyMake Studio software
+events.launchdarkly.com
 ews-fusion.my.site.com
 exchange.opera.com
 exness.com
@@ -3406,6 +3410,7 @@ https://lapi.yellowblocks.me
 https://lastpass.com
 https://lastpass.com/misc_download2.php
 https://latitudeinfinity.com.au
+https://launchdarkly.com/docs
 https://leaflet-map.bykea.net
 https://learn.neogov.com
 https://learn.newrelic.com/
@@ -5480,6 +5485,7 @@ storm-qa2.wnba.com
 storm.wnba.com
 story.snapchat.com
 strapi.reddit.com
+stream.launchdarkly.com
 streaming-api.iris.acceptance.forescoutcloud.net
 streaming-api.iris.production.forescoutcloud.net
 streaming-gw.iris.production.forescoutcloud.net
