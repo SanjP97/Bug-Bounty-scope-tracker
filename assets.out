@@ -542,6 +542,7 @@ Atlas Data Federation
 Atlas IAM
 Atlas Payments/Billing
 Audition
+Authentication & ATO
 BBPress Core
 Backend endpoint: bug-bounty-be.glean.com
 Basecamp.app
@@ -817,7 +818,6 @@ Hyperdrive
 HyprUnlock.exe
 Ibotta App Data & Memory
 Id1406825640
-Identity
 Illustrator
 Images
 In Scope - Points only
@@ -1293,7 +1293,6 @@ accounts.creditkarma.com
 accounts.evernote.com
 accounts.firefox.com
 accounts.insightly.com
-accounts.khealth.com
 accounts.logi.com
 accounts.pixiv.net
 accounts.reddit.com
@@ -1419,7 +1418,6 @@ api.gx.games/session
 api.gx.me/me
 api.hackerone.com
 api.instacart.com
-api.khealth.com
 api.klarna.com
 api.krisp.ai
 api.larksuite.com
@@ -1530,7 +1528,6 @@ aquiris.studio
 aquiristech.com
 arc.net
 arrive-server.shopifycloud.com
-ask.khealth.com
 askpeopleteam.visa.com
 assets.airbnb.com
 assets.hyatt.com
@@ -2275,7 +2272,6 @@ eero Devices
 efast.marriott.com
 effecthouse.tiktok.com
 eidhelp.marriott.com
-eligibility.khealth.com
 elm.nba.com
 embed.tumblr.com
 embed.vhx.tv
@@ -2454,13 +2450,9 @@ http://app.lightspark.com
 http://app.scaleft.com/
 http://apps.connect.monash.edu/
 http://artists.soundcloud.com/
-http://auth.khealth.com/cedars/sign-up
-http://auth.khealth.com/khealth/sign-up
-http://auth.khealth.com/mayo-la-crosse/sign-up
 http://auth.ripio.com
 http://backend-api.devicecloud.production.forescoutcloud.net/api/v1/settings
 http://bumba.global
-http://clinical-quality.khealth.com/api/v1
 http://cloud.konghq.com
 http://coinbase.com
 http://collaboration.rei.com
@@ -4778,7 +4770,6 @@ juicer.lime.bike
 jwt.io
 k8s.gcr.io
 k8s.io
-kaccount.khealth.com
 kartaview.org
 kayak.ai
 kidswebservices.com
@@ -5532,7 +5523,6 @@ travel.crypto.com
 travelagents.marriott.com/
 travelcash.money
 traveler.marriott.com
-treatments.khealth.com
 trello.com
 trendyol.com
 truck-api.eu-east-1.indriverapp.com
