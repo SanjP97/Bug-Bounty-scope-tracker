@@ -817,6 +817,7 @@ Hyperdrive
 HyprUnlock.exe
 Ibotta App Data & Memory
 Id1406825640
+Identity
 Illustrator
 Images
 In Scope - Points only
@@ -1548,7 +1549,6 @@ auth-identity-uat-ping.nba.com
 auth-identity-uat.nba.com
 auth-identity.nba.com
 auth.23andme.com
-auth.hhc247.org
 auth.magic.link
 auth.moonpay.com
 auth.ort-one-pingone.com
@@ -3980,6 +3980,7 @@ https://opendata.test-socrata.com/admin/gateway
 https://opensea.io/
 https://opensource.epam.com
 https://operaneon.com
+https://ops-portal.sandbox.meraki.com/
 https://ops-sso.adsrvr.org/
 https://optimizely-edge.com
 https://optout-prod.uidapi.com

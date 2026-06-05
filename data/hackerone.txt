@@ -1383,7 +1383,6 @@ Tier 2
 accounts.khealth.com
 api.khealth.com
 ask.khealth.com
-auth.hhc247.org
 eligibility.khealth.com
 http://auth.khealth.com/cedars/sign-up
 http://auth.khealth.com/khealth/sign-up
@@ -3276,6 +3275,7 @@ https://github.com/basecamp/once-campfire
 https://github.com/basecamp/writebook
 launchpad.37signals.com
 world.hey.com
+Identity
 Shopify Developed Apps
 Shopify Mobile Applications
 Shopify Third Party Apps
