@@ -543,7 +543,6 @@ Atlas IAM
 Atlas Payments/Billing
 Audition
 Authentication & ATO
-BBPress Core
 Backend endpoint: bug-bounty-be.glean.com
 Basecamp.app
 Beats
@@ -1574,6 +1573,7 @@ ballistic.com.br
 bankaccountdata.gocardless.com
 basecamp3.exe
 bb.visa.com
+bbPress Core
 bcny.com
 bd.visa.com
 beacon.netflix.com
