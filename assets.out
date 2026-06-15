@@ -2620,7 +2620,7 @@ https://app.bitrise.io/app/51a95edaab331ec5/installable-artifacts/e5213e1a814bf0
 https://app.bitrise.io/app/5bec038cb1e318cd/installable-artifacts/9ad837caadc77d33/public-install-page/ef39a3be131d116b6da3f9d05c70d757
 https://app.bitrise.io/app/5bec038cb1e318cd/installable-artifacts/d2424d9760af75d5/public-install-page/4883ab94cee43b34c597ad1df833911f
 https://app.chime.com
-https://app.ecwid.com/api/v3/	
+https://app.ecwid.com/api/v3/
 https://app.fin.ai/
 https://app.glean.com/login?qe=https://bug-bounty-be.glean.com&skip_to_sso=1
 https://app.ibotta.com/sign-in 
@@ -2947,7 +2947,7 @@ https://developers.elementor.com/
 https://developers.intercom.com/installing-intercom/docs/about-the-sdk-android
 https://developers.intercom.com/installing-intercom/docs/about-the-sdk-ios
 https://developers.oppomobile.com/
-https://developers.vendhq.com/
+https://developers.retail.lightspeed.app
 https://development.wmaudience.com
 https://digits.t-mobile.com
 https://digits.t-mobile.com/
@@ -3933,6 +3933,7 @@ https://myaccount-staging.getmoneytree.com
 https://myapi.arlo.com
 https://myapp.monash.edu/
 https://mydesktop.usaa.com
+https://mylightspeed.app
 https://mylink.page
 https://myopenpass.com
 https://myopenpassdemo.com/
@@ -4205,7 +4206,6 @@ https://secure.cuehit.net
 https://secure.neogov.com
 https://secure.newegg.com
 https://secure.thefork.com
-https://secure.vendhq.com
 https://securemail.usaa.com
 https://securesignin.neogov.com
 https://securesignin.powerdms.com/
@@ -4621,7 +4621,6 @@ https://www.unscreen.com
 https://www.upwork.com
 https://www.usaa.com
 https://www.usaainsurance.com/
-https://www.vendhq.com/
 https://www.venturatvos.com
 https://www.verisign.com
 https://www.visa.com.az/az_az/account/registration
