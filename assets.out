@@ -2592,6 +2592,8 @@ https://api.pinterest.com
 https://api.planethoster.net
 https://api.production.cde.tamg.cloud
 https://api.recordedfuture.com
+https://api.riskrecon.com
+https://api.riskrecon.eu
 https://api.rx.originenergy.com.au/v1/gateway/schema/graphql
 https://api.rx.originenergy.com.au/v1/gateway/schema/kraken/graphql
 https://api.rx.originenergy.com.au/v1/lpg/graphql
@@ -2787,6 +2789,8 @@ https://auth-adx.op-mobile.opera.com
 https://auth.lastpass.com
 https://auth.myopenpass.com
 https://auth.opera.com
+https://auth.riskrecon.com
+https://auth.riskrecon.eu
 https://auth.seek.com
 https://auth.thetradedesk.com
 https://auth.wyze.com
@@ -3901,6 +3905,7 @@ https://mattermost.com/apps/
 https://mcp-server.zomato.com/mcp
 https://mcp.atlassian.com
 https://mcp.opensea.io
+https://mcp.recordedfuture.com
 https://mcs.arlo.com
 https://media.irobot.com
 https://mediaflows.cloudinary.com/
@@ -4163,6 +4168,8 @@ https://portal.clearpay.com
 https://portal.cms.gov/
 https://portal.iFoodpago.com.br
 https://portal.originzero.com.au
+https://portal.riskrecon.com
+https://portal.riskrecon.eu
 https://portal.unifiedid.com
 https://portalapi.eu.clearpay.co.uk
 https://portalapi.us.afterpay.com
@@ -4375,6 +4382,8 @@ https://utv.usaa.com
 https://v.utv.usaa.com
 https://vault-staging.getmoneytree.com
 https://vault.chiatest.net/
+https://vendor.riskrecon.com
+https://vendor.riskrecon.eu
 https://vendorss.usaa.com
 https://videoplayer.20min.ch
 https://vlagg.usaa.com
@@ -4592,6 +4601,7 @@ https://www.realcommercial.com.au/
 https://www.recordedfuture.com
 https://www.remove.bg
 https://www.restaurant-information.com
+https://www.riskrecon.com
 https://www.sdx.com/
 https://www.sharerewards.com/
 https://www.shffls.com
