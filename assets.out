@@ -1354,7 +1354,6 @@ api-eu.floqast.app
 api-gateway.polygon.technology
 api-partner.spotify.com
 api-polygon-tokens.polygon.technology/
-api-sandbox.gocardless.com
 api-staging.airtable.com
 api-uat-bugbounty.nonprod.syfe.com
 api-wallet.web3auth.io
@@ -1551,7 +1550,6 @@ auth.remitly.com
 auth.services.adobe.com
 auth.skypicker.com
 auth0.com	
-auth0.gocardless.com
 auth0.net
 authentication.clearme.com
 autocomplete.booking.com
@@ -1567,7 +1565,6 @@ bal-uat.nba.com
 bal.nba.com
 ballistic.com
 ballistic.com.br
-bankaccountdata.gocardless.com
 basecamp3.exe
 bb.visa.com
 bbPress Core
@@ -2081,7 +2078,6 @@ competitive.fortnite.com
 concierge.clearme.com
 config.cic-bug-bounty.auth0app.com
 confluence.hyattdev.com
-connect-sandbox.gocardless.com
 connect.8x8.com
 connect.secure.wellsfargo.com
 console.anthropic.com
@@ -2213,7 +2209,6 @@ developer.authorize.net
 developer.crypto.com
 developer.currencycloud.com
 developer.cybersource.com
-developer.gocardless.com
 developer.gs.com
 developer.konghq.com
 developer.mozilla.org
@@ -2497,7 +2492,6 @@ http://pay.monashcollege.edu.au/
 http://payments.hostinger.com
 http://poe.com
 http://secure-iphone-xml.booking.com/json/
-http://sso-demo.gocardless-staging.io
 http://testnet.bybit.eu
 http://tsock.us1.twilio.com
 http://twilio.com/blog
@@ -3994,7 +3988,6 @@ https://nubank.com.mx
 https://nvio.ar/
 https://nvio.mx/
 https://nvoice.usaa.com/
-https://ob-sandbox.gocardless.io
 https://octopus.com
 https://octopus.com/downloads
 https://odesli.co
@@ -4909,7 +4902,6 @@ mail.notion.so
 mailpoet.com
 maintenance.logitech.com
 manage-dev.nba.com
-manage-sandbox.gocardless.com
 manage-teams-dev.nba.com
 manage-teams-qa.nba.com
 manage-teams-uat.nba.com
@@ -5080,9 +5072,7 @@ ns1.optusnet.com.au
 ns2.optusnet.com.au
 nummus.robinhood.com
 oasisprod.marriott.com
-oauth-sandbox.gocardless.com
 oauth.deriv.com
-ob.gocardless.com
 obs-sensors.iris.acceptance.forescoutcloud.net
 obs-sensors.iris.production.forescoutcloud.net
 ocijlbex1prd.marriott.com
@@ -5140,14 +5130,12 @@ partners.tw.coupang.com
 passport.larksuite.com
 passwordchallenge.marriott.com
 pastela.app
-pay-sandbox.gocardless.com
 pay.8x8.com
 pay.ibex.exchange
 pay.tokopediax.com
 pay.tw.coupang.com
 pay.wallet.tg
 paybridge.booking.com
-payer-details-sandbox.gocardless.com
 payment.pixiv.net
 payment.tw.coupang.com
 paymentcomponent.booking.com
@@ -5821,7 +5809,6 @@ www.geneva-staging.com
 www.getaroom.com
 www.github.com/cosmos/evm
 www.giving.marriott.com
-www.gocardless.com
 www.goodrx.com
 www.gr.dyson.com
 www.greenhouse.io
