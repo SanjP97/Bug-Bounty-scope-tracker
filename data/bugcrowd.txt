@@ -574,6 +574,10 @@ Canva (Chrome Extension)
 Leaked Credentials and Secrets (Canva Employee/Contractor)
 Leaked Credentials and Secrets (Canva User)
 3rd-Party Provider Vulnerability
+https://itunes.apple.com/app/carrefour-uae/id626805470
+https://play.google.com/store/apps/details?id=com.aswat.carrefouruae
+https://www.carrefouruae.com/
+https://api-prod.retailsso.com
 https://itunes.apple.com/us/app/cash-app/id711923939?mt=8
 https://play.google.com/store/apps/details?id=com.squareup.cash
 https://cash.app
@@ -822,25 +826,6 @@ https://financeiro.hostgator.com.br
 █████████████████████████████████████████
 ██████████████████████████████████
 ███████████████████████████████████████████████████████████
-HPE Aruba Networking Wireless - AOS-10.7 and above Gateways (GW)
-HPE Aruba Networking Wireless - AOS-10.7 and above Access Points (AP)
-HPE Aruba Networking Central - New UI (see Scope Details)
-ArubaOS-CX Switches
-HPE Aruba Networking Wireless - AOS-8 Controllers
-HPE Aruba Networking Wireless - AOS-8 Instant AP (IAP)
-HPE Aruba Networking Wireless - AOS-10.4 Gateways (GW)
-HPE Aruba Networking Wireless - AOS-10.4 Access Points (AP)
-HPE Aruba Networking ClearPass Policy Manager
-HPE Aruba Networking EdgeConnect SD-WAN Orchestrator
-HPE Networking Instant On APs and supporting backend infrastructure
-HPE Aruba Networking Fabric Composer
-HPE Aruba Networking NetEdit
-HPE Aruba Networking Private 5G
-HPE Aruba Networking SSE
-HPE Aruba Networking VIA
-Aruba AirWave AMP
-Aruba InstantOn Switches
-Aruba User Experience Insight Sensors
 HPE Aruba Networking Wireless - AOS-10.7 and above Gateways (GW)
 HPE Aruba Networking Wireless - AOS-10.7 and above Access Points (AP)
 HPE Aruba Networking Central - New UI (see Scope Details)
