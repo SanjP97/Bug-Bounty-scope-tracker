@@ -497,7 +497,8 @@ Any host verified to be owned by Tesla Motors Inc. (domains/IP space/etc.)
 Any host/web property verified to be owned by Twilio et al.
 Any host/web property/mobile app verified to be owned by Indeed
 Any other Epic games owned asset not listed in the out of scope section
-Any other Malwarebytes and ThreatDown asset
+Any other Malwarebytes asset
+Any other ThreatDown asset
 Any public (Internet-facing) infrastructure owned and operated by Palantir.
 Any public cloud (e.g. Amazon AWS, Microsoft Azure) resource or infrastructure operated and managed by Palantir.
 Any public cloud resource or infrastructure operated and managed by REI.
@@ -1172,7 +1173,6 @@ Trello Third Party Powerups
 Trustwallet Android App
 Trustwallet Chrome Extension
 Trustwallet iOS App
-Turnstile
 Twilio APIs
 UCRM
 UEFN
@@ -2554,7 +2554,6 @@ https://api-businessportal.origin.com.au
 https://api-iam.intercom.io
 https://api-next.flatmates.com.au
 https://api-portal.originzero.com.au
-https://api-prod.retailsso.com
 https://api-prod.thatconceptstore.com/
 https://api.20min.ch/
 https://api.aiven.io/login
@@ -3342,7 +3341,6 @@ https://investor.irobot.com
 https://io.getdelta.android
 https://io.getdelta.ios
 https://iphone-xml.booking.com/json/
-https://itunes.apple.com/app/carrefour-uae/id626805470
 https://itunes.apple.com/us/app/cash-app/id711923939?mt=8
 https://itunes.apple.com/us/app/quizlet-flashcards/id546473125
 https://itunes.apple.com/us/app/vacation-rentals-owner-app-by-tripadvisor/id1045663228?mt=8
@@ -3516,6 +3514,7 @@ https://marketplace.atlassian.com/apps/1215192/image-paste-for-fisheye-crucible?
 https://marketplace.atlassian.com/apps/1215199/backbone-issue-sync-for-jira?hosting=cloud
 https://marketplace.atlassian.com/apps/1215199/backbone-issue-sync-for-jira?hosting=datacenter&tab=overview
 https://marketplace.atlassian.com/apps/1215235/fail-build-trigger-for-bamboo?hosting=server
+https://marketplace.atlassian.com/apps/1215262/k-sso-saml-sso-oauth-kerberos-user-management-for-bamboo?hosting=datacenter&tab=overview
 https://marketplace.atlassian.com/apps/1215263/k-sso-saml-sso-oauth-kerberos-user-management-for-fecru?hosting=server&tab=overview
 https://marketplace.atlassian.com/apps/1215311/stagil-assets-advanced-links-data-model-matrix-structure?tab=overview&hosting=cloud
 https://marketplace.atlassian.com/apps/1215414/pivot-report?hosting=cloud&tab=overview
@@ -3794,6 +3793,7 @@ https://marketplace.atlassian.com/apps/1229966/scrum-master-assistant-for-jira?h
 https://marketplace.atlassian.com/apps/1230032/databricks-visualization?hosting=cloud
 https://marketplace.atlassian.com/apps/1230311/app-usage-for-jira?hosting=datacenter
 https://marketplace.atlassian.com/apps/1230311/app-usage-for-jira?hosting=server
+https://marketplace.atlassian.com/apps/1230481/kantega-user-management-license-optimizer-for-jira?hosting=cloud&tab=overview
 https://marketplace.atlassian.com/apps/1230481/kantega-user-management-license-optimizer-for-jira?hosting=datacenter
 https://marketplace.atlassian.com/apps/1230671/extension-point-finder-for-confluence?hosting=cloud
 https://marketplace.atlassian.com/apps/1230672/extension-point-finder-for-jira?hosting=cloud
@@ -4061,7 +4061,6 @@ https://play.google.com/store/apps/details?id=com.acorns.android&hl=en_US&gl=US
 https://play.google.com/store/apps/details?id=com.afterpaymobile.uk
 https://play.google.com/store/apps/details?id=com.afterpaymobile.us&hl=en_US&gl=US
 https://play.google.com/store/apps/details?id=com.asana.app&hl=en
-https://play.google.com/store/apps/details?id=com.aswat.carrefouruae
 https://play.google.com/store/apps/details?id=com.atlassian.android.confluence.core&hl=en_US&gl=US
 https://play.google.com/store/apps/details?id=com.atlassian.android.jira.core&hl=en_US&gl=US
 https://play.google.com/store/apps/details?id=com.atlassian.confluence.server
@@ -4471,7 +4470,6 @@ https://www.canva.com
 https://www.canva.com/developers/
 https://www.canva.com/en_au/help/chatgpt-templates/
 https://www.canva.com/integrations/slack/
-https://www.carrefouruae.com/
 https://www.carsdirect.com
 https://www.cb2.ae/en
 https://www.cfr.org/
