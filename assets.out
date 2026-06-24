@@ -297,6 +297,7 @@
 3CX Phone System
 3CX SBC
 3d.cs.money
+3rd-Party Provider Vulnerability
 3rdparty-apis.coinmarketcap.com
 403546234
 403684733
@@ -507,6 +508,7 @@ Any subdomain infrastructure issue
 Anything Owned by Northwestern Mutual on the Public Internet Not Listed as Out of Scope
 Anything that Clearly Affects Northwestern Mutual But is Not Own by Northwestern Mutual
 App Services/Realm
+Apps SDK Sandboxing
 Arc on Mac
 Arc on Windows
 Area 1
@@ -583,6 +585,10 @@ C100447517
 C103149579
 C2PA Tool
 CDNJS
+Canva (Android)
+Canva (Chrome Extension)
+Canva (iOS)
+Canva Desktop (macOS / Windows)
 Capital One Shopping Browser Extension
 Capture the Flag
 Career Scout
@@ -844,6 +850,8 @@ Kong Gateway Plugins (Kong-Supported Only)
 Kong Mesh
 LaunchDarkly Open Source SDKs
 Leaked Credentials
+Leaked Credentials and Secrets (Canva Employee/Contractor)
+Leaked Credentials and Secrets (Canva User)
 Leaked Employee API Keys
 Leaked/Сompromised Employee accounts
 Lens Studio
@@ -2554,6 +2562,7 @@ https://api.aiven.io/login
 https://api.bitpanda.com
 https://api.bugcrowd.com
 https://api.bykea.net
+https://api.canva.com
 https://api.classdojo.com
 https://api.clearpay.com
 https://api.cloudinary.com
@@ -4460,6 +4469,10 @@ https://www.bitpanda.com/academy/en/
 https://www.blockchain.com/
 https://www.bluehost.com/
 https://www.bwin.com
+https://www.canva.com
+https://www.canva.com/developers/
+https://www.canva.com/en_au/help/chatgpt-templates/
+https://www.canva.com/integrations/slack/
 https://www.carrefouruae.com/
 https://www.carsdirect.com
 https://www.cb2.ae/en
