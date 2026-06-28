@@ -75,7 +75,6 @@
 1478350915
 1481198245
 1485539253
-1486322860
 1491791513
 1494755014
 1498197033
@@ -384,7 +383,6 @@
 8x8 Partner Portal
 8x8-work
 8x8.my.site.com
-905953485
 91.203.96.0/22
 926252661
 930441707
@@ -470,7 +468,6 @@ All Assets (other than Blinkit)
 All Chime Assets
 All Evergreen Assets (Excluding staging)
 All In Scope Targets
-All Mobile Assets
 All Motorola Devices running Android 13 and above. 
 All Other BitMEX Assets
 All internet facing Sky DACH assets
@@ -568,8 +565,6 @@ Blink Sync Module 2
 Blink Video Doorbell
 Bot Management
 Braintree SDK
-Brave Browser Desktop
-Brave websites
 Bridge
 Broken Link
 Browser Isolation
@@ -936,13 +931,6 @@ Nintendo Switch 2 applications for which Nintendo is the publisher worldwide
 Nintendo Switch System
 Nintendo Switch applications for which Nintendo is the publisher worldwide
 Non-Core Assets
-NordPass - Linux Executable
-NordPass - MacOS Executable
-NordPass - Windows Executable
-NordVPN - Linux Executable
-NordVPN - MacOS Executable
-NordVPN - Windows Executable
-NordVPN Browser Extension
 Notion AI
 Notion Authentication
 Notion Desktop App
@@ -1059,8 +1047,6 @@ SRC integration on https://masterpassteststore.com/. Only the Masterpass checkou
 SSL/TLS
 SUPERAPP (AOS)
 SUPERAPP (IOS)
-Saily - Android
-Saily - iOS
 Sandboxes
 Save to Spotify CLI
 Scope Questions: Items not explicitly listed here
@@ -1259,12 +1245,6 @@ Xfinity Home Hardware (items listed below in brief)
 Xfinity Home cameras
 Xfinity iOS mobile app
 Your Own GitLab Instance
-Zendesk AI
-Zendesk Front End
-Zendesk Marketplace Apps created by Zendesk
-Zendesk Mobile Applications
-Zendesk Public Repositories
-Zendesk Suite
 [Unico] Liveness Bypass
 a.root-servers.net (DNS service; DNS related)
 a4k.amazon.com
@@ -1498,7 +1478,6 @@ app.moderntreasury.com
 app.mona.co
 app.moonpay.com
 app.netlify.com
-app.nordpass.com
 app.pullrequest.com
 app.rewire.to
 app.segment.com
@@ -1792,8 +1771,6 @@ com.boozt
 com.boozt.app
 com.boozt.booztlet
 com.booztlet
-com.brave.browser
-com.brave.ios.browser
 com.bumble.app
 com.bumblebff.app
 com.bykea.pk
@@ -1943,8 +1920,6 @@ com.nbaimd.gametime.universal
 com.nearme.gamecenter
 com.netease.my.nearme.gamecenter
 com.newegg.app
-com.nordpass.android.app.password.manager
-com.nordvpn.android
 com.oceanwing.FDMPrint
 com.oceanwing.battery.cam
 com.oceanwing.care.cam
@@ -5897,7 +5872,6 @@ www.sa.dyson.com
 www.sheer.com
 www.six-group.com
 www.soundon.global
-www.soundonw.us
 www.starbucks.ca
 www.starbucks.co.jp
 www.starbucks.com
