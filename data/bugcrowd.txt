@@ -1316,6 +1316,7 @@ https://research.monash.edu/
 https://researchmgt.monash.edu/
 https://move.monash.edu/
 https://collections.monash.edu/
+https://equella.monash.edu
 https://wwws-staging.moneytree.jp/link/
 https://vault-staging.getmoneytree.com
 https://redash-staging.getmoneytree.com/
