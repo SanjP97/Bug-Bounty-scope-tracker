@@ -744,6 +744,7 @@ Finicity- Open Banking Payment History application
 FireTV
 Firefly Image Models
 Firefly Video Model
+Firefox Homepage Newtab
 Fleet Server
 Flex - Xfinity hardware and services
 Forge Platform
@@ -924,7 +925,6 @@ MongoDB Partner Integrations
 MongoDB Shell
 MongoDB Toolchain
 Mozilla Ad Routing Service
-Mozilla VPN Clients
 Munkisrv Open Source Project
 NARZO 80 Lite 4G
 NARZO 80 Pro 5G
@@ -1433,7 +1433,6 @@ api.prd.commerce.simplisafe.com
 api.privy.io
 api.prod.innovexperiments.com
 api.prod.whoop.com
-api.profiler.firefox.com
 api.rapyd.net
 api.razorpay.com
 api.reddit.com
@@ -2063,7 +2062,6 @@ comic-indies.pixiv.net
 comic.pixiv.net
 commerce.coinbase.com
 commercemarketplace.adobe.com
-community-tc.services.mozilla.com
 community.8x8.com
 community.forescout.com
 community.logitech.com
@@ -5276,7 +5274,6 @@ profile-api.eu-east-1.indriverapp.com
 profile-photos-us-east-2.hackerone-user-content.com
 profile-photos.hackerone-user-content.com
 profile.playstation.com
-profiler.firefox.com
 promo.tw.coupang.com
 prow.k8s.io
 proxy-production.lime.bike
@@ -5287,7 +5284,6 @@ public.hyatt.com
 publicsafety.ring.com
 pubtools.private.8x8cloud.net
 push.opera.com
-push.services.mozilla.com
 pwapi.ex2b.com
 py.pl
 rafflee.co.uk
@@ -5521,7 +5517,6 @@ sso.8x8pilot.com
 sso.marriott.com
 sso.oft.hyatt.com
 sso.ryadom.kz
-stage.taskcluster.nonprod.cloudops.mozgcp.net
 staging-app.bany.dev
 staging.airtable.com
 staging.kidswebservices.com
