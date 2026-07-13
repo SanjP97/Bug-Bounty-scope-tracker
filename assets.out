@@ -837,7 +837,6 @@ Infrastructure & Internal Apps/Services
 Insomnia CLI (inso)
 Insomnia Desktop Client
 Intellectual Property on Public Domains
-Internet.xfinity.com
 Jetpack
 Jira
 Jira Projects
@@ -1090,7 +1089,6 @@ Spotify SDKs
 Spotify desktop application (Windows and Mac)
 Square Register
 Square Terminal
-Staging, QA, Dev, and Test Environments
 Starbucks China Android
 Starbucks China iOS
 Starbucks Japan Android
@@ -1255,10 +1253,6 @@ Workstation MFA (WMFA)
 Wrapped
 Wyze Cam V3
 XD
-Xfinity Android mobile app
-Xfinity Home Hardware (items listed below in brief)
-Xfinity Home cameras
-Xfinity iOS mobile app
 Your Own GitLab Instance
 [Unico] Liveness Bypass
 a.root-servers.net (DNS service; DNS related)
@@ -1325,7 +1319,6 @@ agents.hostinger.com
 ai.portswigger.net
 ai.x.GrokApp
 ai.x.grok
-aiq-prod.codebig2.net
 air.com.buffalo_studios.newflashbingo
 air.com.playtika.cvs
 air.com.playtika.slotomania
@@ -2124,7 +2117,6 @@ creatormarketplace.tiktok.com
 crm.na1.insightly.com
 cruises.priceline.com
 cs.money
-csp-pci.prod.codebig2.net
 ct.deriv.com
 ctf.hacker101.com
 custody.coinbase.com
@@ -2371,7 +2363,6 @@ grok.com
 grokipedia.com
 gs://faraday-secret
 gs://fdy-production-sdk-uploads
-gw.api.dh.comcast.com
 hackathon-photos-us-east-2.hackerone-user-content.com
 hackathon-photos.hackerone-user-content.com
 hackerone-ext-content.com
@@ -2751,7 +2742,6 @@ https://apps.apple.com/us/app/usaa-mobile/id312325565
 https://apps.apple.com/us/app/verily-me/id6448808133
 https://apps.apple.com/us/app/viator-tours-activities/id434832826
 https://apps.apple.com/us/app/wise-ex-transferwise/id612261027
-https://apps.apple.com/us/app/xfinity/id1178765645
 https://apps.apple.com/us/developer/10bis-co-il-ltd/id434368194
 https://apps.apple.com/us/developer/skipthedishes/id969229980
 https://apps.apple.com/vc/app/moneytree-finance-made-easy/id586847189
@@ -2914,7 +2904,6 @@ https://crypto.com/exchange
 https://crypto.com/nft
 https://crypto.com/price
 https://cryptowallet.opera-api.com
-https://csp-prod.codebig2.net
 https://csscoperations.com/
 https://cstg-integ.uidapi.com
 https://customerportal.winconnect.com.au/login
@@ -3317,7 +3306,6 @@ https://help.okta.com/en/prod/Content/Topics/Settings/download-browser-plugin.ht
 https://help.supplier.viator.com/en
 https://hipaa.staging.gearset.com/
 https://home.classdojo.com
-https://home.xfinity.com
 https://hq.breadcrumb.com/hq/restaurants/bounty-cafe-2/
 https://hr.neogov.com
 https://hr.prosus.com/
@@ -4201,7 +4189,6 @@ https://play.google.com/store/apps/details?id=com.uvnv.mintsim
 https://play.google.com/store/apps/details?id=com.verily.me
 https://play.google.com/store/apps/details?id=com.viator.mobile.android&hl=en_US&gl=US
 https://play.google.com/store/apps/details?id=com.worldcoin
-https://play.google.com/store/apps/details?id=com.xfinity.digitalhome&hl=en_US&gl=US
 https://play.google.com/store/apps/details?id=edu.monash.monashmobile
 https://play.google.com/store/apps/details?id=ee.mtakso.client
 https://play.google.com/store/apps/details?id=es.grupobme.bmeconecta
@@ -5160,7 +5147,6 @@ openfinance.unico.io
 openidconnect.net	
 opposhop.cn
 ops.lime.bike
-orc-xfi.com
 org.hartfordhealthcare.hhc247
 org.malwarebytes.antimalware
 org.piwik.mobile2
@@ -5454,7 +5440,6 @@ signature-insights.api.cx.metamask.io
 signup.sendgrid.com
 simperium.com
 simplenote.com
-siorc.xfinity.com
 sipsynergy.co.uk
 site.rewire.com
 sites.fareharbor.com
@@ -5470,7 +5455,6 @@ slack-status.com
 slack.com
 slackatwork.com
 slackb.com
-smartinet.xfinity.com
 smarttrader.deriv.com
 smetrics.marriott.com
 smtp.sendgrid.net
@@ -5505,7 +5489,6 @@ speedtest-perth.optusnet.com.au
 speedtest-rockingham.optusnet.com.au
 speedtest-sydney.optusnet.com.au
 speedtest-townsville.optusnet.com.au
-speedtest.xfinity.com
 splunk-phantom-nlb.marriott.com
 ssm-marriottms.saviyntcloud.com
 sso-sprint.dynatracelabs.com
@@ -6029,8 +6012,6 @@ www.zooplus.com
 www.zooplus.de
 x.com
 x.razorpay.com
-xFi Gateways (e.g., XB3, XB6, XB7)
-xFi Pods
 xadsacademy.com
 xs2a.banking.playground.klarna.com
 xtramile.grabpay.com
@@ -6051,6 +6032,9 @@ zooplus.net
 ███
 ████
 ███████
+████████
+█████████
+███████████
 ████████████
 █████████████
 ██████████████
@@ -6068,7 +6052,9 @@ zooplus.net
 ██████████████████████████
 ███████████████████████████
 ████████████████████████████
+█████████████████████████████
 ██████████████████████████████
+███████████████████████████████
 ████████████████████████████████
 ██████████████████████████████████
 ███████████████████████████████████
