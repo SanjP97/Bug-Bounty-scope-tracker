@@ -1728,6 +1728,7 @@ app.rewire.to
 app.sandbox.directly.com
 app.segment.com
 app.sendgrid.com
+app.simple-reports.com/demo
 app.slack.com
 app.smtp2go.com
 app.snapchat.com
