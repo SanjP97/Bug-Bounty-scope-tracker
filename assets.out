@@ -941,7 +941,11 @@ Malwarebytes for Teams
 Malwarebytes for Windows
 Managed OpenClaw
 Managed Property Assets
+Mapbox DevKit MCP Server
+Mapbox Docs MCP Server
+Mapbox GL Geocoder
 Mapbox GL JS
+Mapbox MCP Server
 Maps SDK for Android
 Maps SDK for Flutter
 Maps SDK for iOS
@@ -3282,7 +3286,6 @@ https://github.com/kubernetes/website
 https://github.com/lightsparkdev/go-sdk
 https://github.com/lightsparkdev/lightspark-rs
 https://github.com/lightsparkdev/python-sdk
-https://github.com/mapbox
 https://github.com/matomo-org
 https://github.com/matomo-org/docker
 https://github.com/matomo-org/matomo
