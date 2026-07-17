@@ -43,7 +43,6 @@
 1413287364
 1413721906
 1438744533
-1442121355
 1448884851
 1452166623
 1454725763
@@ -78,7 +77,6 @@
 1491791513
 1494755014
 1498197033
-1502222766
 1506229470
 1508620125
 1510325826
@@ -2074,9 +2072,6 @@ com.venmo
 com.vilcsak.bitcoin2
 com.vimeo.android.videoapp
 com.vimeocreate.videoeditor.moviemaker
-com.vodafone.mpesa.drc
-com.vodafone.mpesa.ls
-com.vodafone.mpesa.mozambique
 com.vrbo.android
 com.wealthsimple
 com.wealthsimple.wealthsimple
@@ -5008,7 +5003,6 @@ lynx-dev.wnba.com
 lynx-qa.wnba.com
 lynx-qa2.wnba.com
 lynx.wnba.com
-m-pesa.africa
 m.airbnb.com
 m.badoo.com
 m.chaturbate.com
@@ -5128,9 +5122,6 @@ moneybirdstorage.com
 monitor.mozilla.org
 moonpay.com
 movie.indrive.com
-mpa.ekyc.backoffice.m-pesa.com
-mpa.ekyc.selfregister.m-pesa.com
-mpa.qr.web.m-pesa.com
 mpago.la
 mpago.li
 msg.playcanvas.com
@@ -5211,9 +5202,7 @@ onum-labs.com
 onum.com
 open.airbnb.com
 open.larksuite.com
-openapi.m-pesa.com
 openapi.starbucks.com
-openapiportal.m-pesa.com
 openfinance.unico.io
 openidconnect.net	
 opposhop.cn
