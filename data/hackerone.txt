@@ -2669,6 +2669,7 @@ Observability - APM Agents
 Observability - APM Server
 Other
 Software Supply Chain
+Subdomain takeover
 cloud.elastic.co
 GS Select iOS app
 api.foliofn.com
