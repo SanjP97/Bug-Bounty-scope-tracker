@@ -98,6 +98,7 @@
 1552455423
 1579372261
 1589023233
+1589071345
 1591003012
 1592204907
 1634080733
@@ -1517,6 +1518,7 @@ api.yoti.com
 api2.frontapp.com
 api2.grofers.com
 apigw.foliofn.com
+apix.vodafone.om
 app-insiders.marriott.com
 app.basecamp.com
 app.blueskytravelvietnam.com
@@ -2151,6 +2153,7 @@ core-api-sandbox.nba.com
 core-api-uat-uc.nba.com
 core-api-uat.nba.com
 core-api-uc.nba.com
+core-api.deriv.com
 core-api.nba.com
 core.yoti.com
 corp-dev.nba.com
@@ -2447,6 +2450,7 @@ hilton.io
 hiltonbusinessonline.com
 hiltonlocalbiz.com
 hmxservices.com
+home.deriv.com
 home.privy.io
 homeloans.wellsfargo.com
 homes-and-villas.marriott.com
@@ -2589,6 +2593,7 @@ https://analytics.welcomesoftware.com/
 https://answers.irobot.com
 https://api-a.usaa.com
 https://api-businessportal.origin.com.au
+https://api-core.deriv.com
 https://api-iam.intercom.io
 https://api-next.flatmates.com.au
 https://api-portal.originzero.com.au
@@ -5186,6 +5191,7 @@ obs-sensors.iris.acceptance.forescoutcloud.net
 obs-sensors.iris.production.forescoutcloud.net
 ocijlbex1prd.marriott.com
 og.com
+om.vodafone.mva
 onboarding.cloud.com
 onboarding.greenhouse.io
 one.airbnb.com
@@ -5715,6 +5721,9 @@ verified.clearme.com
 verified.clearme.com/v1/verification_sessions
 verify.arkoselabs.com
 verify.rapyd.net
+vfo01.vodafone.om
+vfo02.vodafone.om
+vfo03.vodafone.om
 vgov.catalogue.digitalcontrolroom.com
 vhx.tv
 via.rider
@@ -6045,6 +6054,7 @@ www.visa.com.vn
 www.visa.fr
 www.visainfinite.ca
 www.visamiddleeast.com
+www.vodafone.om
 www.vrbo.com
 www.wearehackerone.com
 www.whatismode.com
