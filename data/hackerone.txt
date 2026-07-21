@@ -1320,7 +1320,6 @@ http://api.koho.ca/1.0
 http://api.koho.ca/partner
 usercontent.koho.ca
 web.koho.ca
-webgateway.koho.ca
 www.koho.ca
 api.stg.inspectorio.com
 app.stg.inspectorio.com
