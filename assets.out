@@ -71,6 +71,7 @@
 1474700 (Steam app id)
 1475021574
 1476615877
+1477299281
 1478350915
 1481198245
 1485539253
@@ -393,6 +394,7 @@
 930441707
 936983378
 938003185
+943905271
 944011620
 947984433
 960335206
@@ -1588,6 +1590,7 @@ auth0.com
 auth0.gocardless.com
 auth0.net
 authentication.clearme.com
+authentication.wolt.com
 autocomplete.booking.com
 aw.visa.com
 b5s.hackerone-ext-content.com
@@ -2096,6 +2099,8 @@ com.whoop.android
 com.whoop.iphone
 com.wikibuy.prod.main
 com.wisdomtree.wtprime
+com.wolt.android
+com.wolt.courierapp
 com.wooga.pearlsperil
 com.wotif.android
 com.xiaomi.account
@@ -2171,6 +2176,7 @@ core.yoti.com
 corp-dev.nba.com
 corp.badoo.com
 corporate.abercrombie.com
+corporate.wolt.com
 cosmo.fdeb.live.use1a.on.epicgames.com
 couriers.indrive.com
 cover-photos-us-east-2.hackerone-user-content.com
@@ -2311,6 +2317,7 @@ dream-dev.wnba.com
 dream-qa.wnba.com
 dream-qa2.wnba.com
 dream.wnba.com
+drive.wolt.com
 dwy.visa.com
 e-Commerce
 eassessment.monash.edu
@@ -5137,6 +5144,7 @@ mercantile.wordpress.org
 merch.23andme.com
 merchandise.opera-api.com
 merchant.crypto.com
+merchant.wolt.com
 merchantsignage.visa.com
 merchantsignageap.visa.com
 merchantsignageca.visa.com
@@ -5271,6 +5279,7 @@ openfinance.unico.io
 openidconnect.net	
 opposhop.cn
 ops.lime.bike
+ops.wolt.com
 org.hartfordhealthcare.hhc247
 org.malwarebytes.antimalware
 org.piwik.mobile2
@@ -5488,6 +5497,7 @@ reservations.wynnvacations.com
 resmax.hilton.com
 resolve.8x8.com
 resources.krisp.ai
+restaurant-api.wolt.com
 review.tw.coupang.com
 reviewer.pullrequest.com
 rewire.com
@@ -5868,6 +5878,7 @@ wings-dev.wnba.com
 wings-qa.wnba.com
 wings-qa2.wnba.com
 wings.wnba.com
+wolt.com
 wonderboxapi.com
 wonderboxdev.com
 woocommerce-adapter.judge.me
