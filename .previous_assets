@@ -5889,6 +5889,9 @@ join.marriott.com
 join.whoop.com
 joinmarriottbonvoy.com
 joinrewards.marriott.com
+jrnbaworldchampionship-QA.nba.com
+jrnbaworldchampionship-dev.nba.com
+jrnbaworldchampionship.nba.com
 js.crypto.com
 js.klarna.com
 js.stripe.com
@@ -5955,6 +5958,7 @@ ljc.tw.coupang.com
 loanbuilder.com
 localizestaging.com
 lockervision.nba.com
+lockervisionteam.nba.com
 logilife.logitech.com
 login-4ngbets.us.betfair.com
 login-4njbets.us.betfair.com
@@ -6071,7 +6075,9 @@ media.remitly.io
 media.simplisafe.com
 media.superdrug.com
 media.theperfumeshop.com
+mediaavail.nba.com
 mediacenter.23andme.com
+mediaday.nba.com
 medias.fortress.com.hk
 medias.pns.hk
 medias.watsons.co.id
@@ -6086,6 +6092,7 @@ medical.23andme.com
 meechum.netflix.com
 meesho.io
 meetings.hyatt.com
+meetings.nba.com
 meetmarriottbonvoy.marriott.com
 meliplay.com.ar
 meliplay.com.pe
@@ -6127,6 +6134,7 @@ metamask.io
 metasearch-api.booking.com
 metrics.int.remitly.com
 meu1.badoo.com
+mexicogames.nba.com
 mfa.simplisafe.com
 mgmt-sensors.iris.acceptance.forescoutcloud.net
 mgmt-sensors.iris.production.forescoutcloud.net
@@ -6186,9 +6194,20 @@ mystics-qa2.wnba.com
 mystics.wnba.com
 myvu.visauniversity.com
 nadex.com
+nba-ar-app.nba.com
+nba.com
+nbaacademy-dev.nba.com
+nbaacademy-qa.nba.com
+nbaacademy.nba.com
+nbabroadcastmanuals.nba.com
 nbafedsvc-dev.nba.com
 nbafedsvc-qa.nba.com
 nbafedsvc.nba.com
+nbaholidaycard-dev.nba.com
+nbaholidaycard-qa.nba.com
+nbaholidaycard.nba.com
+nbaintl.nba.com
+nbameeting.nba.com
 neoket.net
 net.bitstamp.app
 net.s2stagehance.com
@@ -6283,6 +6302,7 @@ npmjs.org
 ns1.optusnet.com.au
 ns2.optusnet.com.au
 nummus.robinhood.com
+nycbasketball.nba.com
 oasisprod.marriott.com
 oauth-sandbox.gocardless.com
 oauth.deriv.com
@@ -6372,6 +6392,9 @@ paypal.me
 paypalobjects.com
 payroll.razorpay.com
 pb.deribit.com
+pdfroster-dev.nba.com
+pdfroster-qa.nba.com
+pdfroster.nba.com
 personal.trexcloud.com
 phabricator.allizom.org
 phone-validation.taxi.booking.com
