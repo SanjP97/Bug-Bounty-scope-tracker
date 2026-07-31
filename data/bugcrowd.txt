@@ -2632,3 +2632,5 @@ https://staging-api.bany.dev/
 https://www.ynab.com/
 ██████████████████████
 ██████████████████████████
+https://tracker.eu.bugcrowd.net/
+https://temp-target.ai
