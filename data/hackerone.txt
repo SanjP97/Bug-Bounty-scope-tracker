@@ -1689,7 +1689,6 @@ www.stripe.partners
 Freshcaller-iOS-App
 Freshchat-iOS-App
 Freshdesk-iOS-App
-Freshservice Discovery Agent and Probe
 Freshservice-Intune-iOS-App
 Freshservice-iOS-App
 com.freshchat.agent.android
