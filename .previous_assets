@@ -1603,6 +1603,7 @@ api-dashboard.search.brave.com
 api-dashboard.web3auth.io
 api-eu.floqast.app
 api-gateway.polygon.technology
+api-p.xoswap.com
 api-partner.spotify.com
 api-polygon-tokens.polygon.technology/
 api-sandbox.gocardless.com
@@ -1700,6 +1701,7 @@ api.neon.opera.com/neon/store
 api.neon.opera.com/pub
 api.netlify.com
 api.ort-one-pingone.com
+api.passkeys.network
 api.paybox.sh
 api.pns.hk
 api.prd.commerce.simplisafe.com
@@ -1755,6 +1757,7 @@ api.watsons.vn
 api.whatnot.com
 api.wisdomtreeprimeapp.com
 api.wordpress.org
+api.xoswap.com
 api.yoti.com
 api2.frontapp.com
 api2.grofers.com
@@ -2572,6 +2575,7 @@ cs.money
 csp-pci.prod.codebig2.net
 ct.deriv.com
 ctf.hacker101.com
+ctr.a.exodus.io
 custody.coinbase.com
 customer-sessions.arkoselabs.com
 customerevents.netflix.com
@@ -2606,6 +2610,7 @@ cweb-slot6-preview-ott-dev.nba.com
 cybersourcebouncebacks.visa.com
 daita/files_fulltextsearch_tesseract
 dash.cloudflare.com
+dashboard-p.xoswap.com
 dashboard.algolia.com
 dashboard.doppler.com
 dashboard.magic.link
@@ -2615,6 +2620,7 @@ dashboard.privy.io
 dashboard.qa.ai.8x8.com
 dashboard.razorpay.com
 dashboard.web3auth.io
+dashboard.xoswap.com
 databricks.com
 datapod-1-100-druid-ingest.development.forescoutcloud.net
 datapod-1-100-druid-ingest.testing.forescoutcloud.net
@@ -2732,6 +2738,7 @@ em4296.team.bitstamp.net
 em9457.team.bitstamp.net
 embed.tumblr.com
 embed.vhx.tv
+embedded.passkeys.foundation
 enroll.clearme.com
 enterpriseenrollment.bitstamp.net
 enterpriseregistration.bitstamp.net
@@ -2750,6 +2757,9 @@ eufyMake E1
 eufyMake Studio software
 events.launchdarkly.com
 ews-fusion.my.site.com
+exchange-p.exodus.io
+exchange-server-p.exodus.io
+exchange-server.exodus.io
 exchange.opera.com
 exness.com
 exnessaffiliates.com
@@ -2779,6 +2789,9 @@ fhdn.fareharbor.com
 fhir.redoxengine.com
 fi.reworks.redecor
 fi.spankki
+fiat-p.a.exodus.io
+fiat-prod-fallback.a.exodus.io
+fiat.a.exodus.io
 file-storage-front.eu-east-1.indriverapp.com
 file.larksuite.com
 files-stg.inspectorio.com
@@ -2970,6 +2983,7 @@ http://datapod-1-druid-query.production.forescoutcloud.net/v3/query/overlappingz
 http://datapod-1-druid-query.production.forescoutcloud.net/v3/query/zonetozone
 http://digitalplayground.com/
 http://es.mydirtyhobby.com/
+http://exchange-server.exodus.io
 http://falcon-bug-bounty-flag-pgsql-dev-sandbox.aivencloud.com/
 http://federatedid-na1.services.adobe.com
 http://flightdeck.staples.com/#/login
@@ -5943,6 +5957,7 @@ kubernetes-csi.github.io
 kubernetes.io
 kyc-onboarding.booking.com
 kyc-src.etoro.com
+kyc.a.exodus.io
 kyc.etoro.com
 lakeland-dev.gleague.nba.com
 lakeland-qa.gleague.nba.com
@@ -6200,6 +6215,7 @@ my.clearme.com
 my.exness.com
 my.loanbuilder.com
 my.malwarebytes.com
+my.passkeys.network
 my.plaid.com
 my.playstation.com
 my.pressable.com
@@ -6250,6 +6266,8 @@ new.www.vaxvacationaccess.com
 news.remitly.com
 newsletter.nextcloud.com
 newsroom.images.hyatt.com
+nexotrack-p.exodus.io
+nexotrack.exodus.io
 next.airbnb.com
 nextcloud.com
 nextcloud/3rdparty
@@ -6395,6 +6413,7 @@ partners.deriv.com
 partners.etoro.com
 partners.shopify.com
 partners.tw.coupang.com
+passkeys.foundation
 passport.larksuite.com
 passwordchallenge.marriott.com
 pastela.app
@@ -6552,6 +6571,7 @@ refined.site/admin
 registry.gitlab.com
 rei.com
 relay.firefox.com
+relay.passkeys.foundation
 relay.playcanvas.com
 releasor.payworks.com/
 remilty.net
@@ -7025,6 +7045,7 @@ vth.nba.com
 vwcm.visa.com
 waf.cumulusfire.net
 wallet.etoro.com
+wallet.passkeys.foundation
 wallet.tg
 wallet.web3auth.io
 walletbot.me
@@ -7419,6 +7440,8 @@ x.razorpay.com
 xFi Gateways (e.g., XB3, XB6, XB7)
 xFi Pods
 xadsacademy.com
+xoswap-graphql-p.a.exodus.io
+xoswap-graphql.a.exodus.io
 xs2a.banking.playground.klarna.com
 xtramile.grabpay.com
 yelptop100.com
