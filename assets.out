@@ -571,6 +571,8 @@ Blink Sync Module 2
 Blink Video Doorbell
 Bot Management
 Braintree SDK
+Brave Browser Desktop
+Brave websites
 Bridge
 Broken Link
 Browser Isolation
@@ -1879,6 +1881,8 @@ com.boozt
 com.boozt.app
 com.boozt.booztlet
 com.booztlet
+com.brave.browser
+com.brave.ios.browser
 com.bumble.app
 com.bumblebff.app
 com.bykea.pk
@@ -5125,6 +5129,7 @@ login-dev.nba.com
 login-qa.nba.com
 login-sandbox.nba.com
 login-uat.nba.com
+login.exodus.com
 login.insightly.com
 login.koho.ca
 login.nba.com
@@ -5419,6 +5424,7 @@ partners.tw.coupang.com
 passport.larksuite.com
 passwordchallenge.marriott.com
 pastela.app
+pay-admin.exodus.io
 pay-sandbox.gocardless.com
 pay.8x8.com
 pay.exodus.io
@@ -5892,6 +5898,7 @@ try.discourse.org
 tucarro.com
 tucarro.com.co
 tumoto.com
+turing.exodus.io
 tw.coupang.com
 tw.coupangcorp.com
 tw.coupangls.com
