@@ -487,6 +487,7 @@ Anchor
 Android & iOS App for Instacart Shoppers
 Android & iOS App for REI Customers
 Android App
+Android Box Mobile App
 Android Playstation App
 Android SDK
 Animate
@@ -570,6 +571,7 @@ Blink Outdoor
 Blink Sync Module 2
 Blink Video Doorbell
 Bot Management
+Box Drive
 Braintree SDK
 Brave Browser Desktop
 Brave websites
@@ -1312,6 +1314,7 @@ account-sprint.dynatracelabs.com
 account.acronis.com
 account.adobe.com
 account.booking.com
+account.box.com
 account.krisp.ai
 account.magento.com
 account.ui.com
@@ -1411,6 +1414,7 @@ api.anthropic.com
 api.au.frontegg.com
 api.binance.com
 api.blockchain.info
+api.box.com
 api.chainabuse-staging.com
 api.circle.com
 api.cloudflare.com
@@ -1525,6 +1529,7 @@ apigw.foliofn.com
 app-insiders.marriott.com
 app.basecamp.com
 app.blueskytravelvietnam.com
+app.box.com
 app.circle.com
 app.demand.cybersource.com
 app.deriv.com
@@ -1780,6 +1785,7 @@ clearme.com
 cleveland.gleague.nba.com
 clicks.koho.ca
 client-api.arkoselabs.com
+cloud.app.box.com
 cloud.coinbase.com
 cloud.elastic.co
 cloud.forescout.com
@@ -2341,6 +2347,7 @@ digili.s-cloud.fi
 direct-demo.currencycloud.com
 direct.playstation.com
 distribution-xml.booking.com
+dl.boxcloud.com
 dns0.optus.net.au
 dns1.optus.net.au
 doaction.org
@@ -4970,6 +4977,7 @@ hyatt.com
 hybrid-analysis.com
 hypermint.com
 iOS App
+iOS Box Mobile App
 iOS Playstation App
 iOS SDK
 iRobot API Endpoint
@@ -5174,6 +5182,7 @@ lynx-qa2.wnba.com
 lynx.wnba.com
 m.airbnb.com
 m.badoo.com
+m.box.com
 m.chaturbate.com
 m.reddit.com
 m.tw.coupang.com
@@ -5374,6 +5383,7 @@ nmtracking.netflix.com
 northernarizona-dev.gleague.nba.com
 northernarizona-qa.gleague.nba.com
 northernarizona.gleague.nba.com
+notes.services.box.com
 notification-front-web.tw.coupang.com
 notion.id
 novel.pixiv.net
@@ -5730,6 +5740,7 @@ shopify.plus
 shopifyinbox.com
 shoppers.instacart.com
 signature-insights.api.cx.metamask.io
+signrequest.com
 signup.sendgrid.com
 simperium.com
 simplenote.com
@@ -5789,6 +5800,7 @@ speedtest-rockingham.optusnet.com.au
 speedtest-sydney.optusnet.com.au
 speedtest-townsville.optusnet.com.au
 splunk-phantom-nlb.marriott.com
+sr-staging-1.com
 sso-sprint.dynatracelabs.com
 sso.8x8.com
 sso.8x8pilot.com
@@ -5937,6 +5949,7 @@ university.marriott.com
 unreal-agents.8x8pilot.com
 updates.forescout.com
 upld.krisp.ai
+upload.box.com
 upsell.hyatt.com
 url-checker.indrive.com
 us.cloud.com
