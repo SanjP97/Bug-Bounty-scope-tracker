@@ -1401,7 +1401,6 @@ ap-s.cloud.com
 apcgateway.marriott.com
 api-eu.floqast.app
 api-gateway.polygon.technology
-api-p.xoswap.com
 api-partner.spotify.com
 api-polygon-tokens.polygon.technology/
 api-sandbox.gocardless.com
@@ -1523,7 +1522,6 @@ api.vimeo.com
 api.whatnot.com
 api.wisdomtreeprimeapp.com
 api.wordpress.org
-api.xoswap.com
 api.yoti.com
 api2.frontapp.com
 api2.grofers.com
@@ -2274,7 +2272,6 @@ cweb-slot6-ott-dev.nba.com
 cweb-slot6-preview-ott-dev.nba.com
 cybersourcebouncebacks.visa.com
 dash.cloudflare.com
-dashboard-p.xoswap.com
 dashboard.doppler.com
 dashboard.magic.link
 dashboard.mergify.com
@@ -2282,7 +2279,6 @@ dashboard.plaid.com
 dashboard.privy.io
 dashboard.qa.ai.8x8.com
 dashboard.razorpay.com
-dashboard.xoswap.com
 databricks.com
 datapod-1-100-druid-ingest.development.forescoutcloud.net
 datapod-1-100-druid-ingest.testing.forescoutcloud.net
@@ -2401,9 +2397,6 @@ eufyMake E1
 eufyMake Studio(2D UV)
 events.launchdarkly.com
 ews-fusion.my.site.com
-exchange-p.exodus.io
-exchange-server-p.exodus.io
-exchange-server.exodus.io
 exchange.opera.com
 exness.com
 exnessaffiliates.com
@@ -2612,7 +2605,6 @@ http://datapod-1-druid-query.production.forescoutcloud.net/v2/services
 http://datapod-1-druid-query.production.forescoutcloud.net/v3/matrixoverview
 http://datapod-1-druid-query.production.forescoutcloud.net/v3/query/overlappingzones
 http://datapod-1-druid-query.production.forescoutcloud.net/v3/query/zonetozone
-http://exchange-server.exodus.io
 http://falcon-bug-bounty-flag-pgsql-dev-sandbox.aivencloud.com/
 http://federatedid-na1.services.adobe.com
 http://github.com/circlefin/noble-cctp
