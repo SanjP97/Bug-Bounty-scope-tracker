@@ -639,7 +639,6 @@ Coda Chrome Extension
 Codex Desktop
 CoinMarketCap Android app
 CoinMarketCap iOS app
-Coinbase WaaS (Wallet as a Service)
 ColdFusion
 ColorOS
 Community Management & Communications
@@ -1417,10 +1416,8 @@ api.box.com
 api.chainabuse-staging.com
 api.circle.com
 api.cloudflare.com
-api.coinbase.com
 api.coinmarketcap.com
 api.creditkarma.com
-api.custody.coinbase.com
 api.deriv.com
 api.dicey.com
 api.direct.playstation.com
@@ -1783,7 +1780,6 @@ cleveland.gleague.nba.com
 clicks.koho.ca
 client-api.arkoselabs.com
 cloud.app.box.com
-cloud.coinbase.com
 cloud.elastic.co
 cloud.forescout.com
 cloud.malwarebytes.com
@@ -1805,7 +1801,6 @@ code.playcanvas.com
 code.yoti.com
 codeofconduct.visa.com
 codex.wordpress.org,codex.bbpress.org,codex.buddypress.org
-coinbase.com
 coinmarketcap.com
 collections.portswigger.net
 com.3mosquitos.MercadoLibre
@@ -1898,7 +1893,6 @@ com.clay.ios
 com.clearme.Clear
 com.clearme.clearapp
 com.coinbase.android
-com.coinbase.wallite
 com.coinspot.app
 com.coloros.assistantscreen
 com.coloros.findmyphone
@@ -2157,7 +2151,6 @@ com.zhiliaoapp.musically
 com.zzkko
 comic-indies.pixiv.net
 comic.pixiv.net
-commerce.coinbase.com
 commercemarketplace.adobe.com
 community.8x8.com
 community.forescout.com
@@ -2239,7 +2232,6 @@ cs.money
 ct.deriv.com
 ctf.hacker101.com
 ctr.a.exodus.io
-custody.coinbase.com
 customer-sessions.arkoselabs.com
 customerevents.netflix.com
 customers.gitlab.com
@@ -2583,7 +2575,6 @@ http://auth.ripio.com
 http://backend-api.devicecloud.production.forescoutcloud.net/api/v1/settings
 http://bumba.global
 http://cloud.konghq.com
-http://coinbase.com
 http://collaboration.rei.com
 http://data-api.coindesk.com/
 http://datapod-1-druid-ingest.production.forescoutcloud.net/v1/upload
@@ -2949,7 +2940,6 @@ https://b2blsapi-a.usaa.com
 https://b2blsapi.usaa.com
 https://backblaze.com
 https://backend.ibotta.com/
-https://base.org
 https://basescan.org/address/0xf469eC9dEBf7F0adEBA4d1Db2FF5c70707bEeB30
 https://bb1.simplisafe.com
 https://bb2.simplisafe.com
@@ -5038,7 +5028,6 @@ innersloth.kidswebservices.com
 insight2.tradepmr.com
 insights.deribit.com
 insights.judgeme.dev
-institutional.coinbase.com
 insuritly.com
 intensedebate.com
 intercity.indrive.com
@@ -5047,7 +5036,6 @@ internal-api-lark-api.larksuite.com
 internal-api.larksuite.com
 internal-docs.netlify.com
 internal.netlify.com
-international.coinbase.com
 interseller.io
 investor.meesho.com
 investors.semrush.com
@@ -5365,7 +5353,6 @@ newsroom.images.hyatt.com
 nexotrack-p.exodus.io
 nexotrack.exodus.io
 next.airbnb.com
-nft.coinbase.com
 nft.io
 niantic.kidswebservices.com
 nmtracking.netflix.com
@@ -5516,10 +5503,8 @@ presentationtracking.netflix.com
 press.priceline.com
 priceline.com
 pricerunner.com
-prime.coinbase.com
 priority.eu-east-1.indriverapp.com
 pro-api.coinmarketcap.com
-pro.coinbase.com
 pro.coinmarketcap.com
 prod-mipaasiaasservices.marriott.com
 prod.meeshoapi.com
