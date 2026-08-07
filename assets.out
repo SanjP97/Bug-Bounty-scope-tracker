@@ -1562,7 +1562,6 @@ app.snapchat.com
 app.starbucks.com
 app.stg.inspectorio.com
 app.taxjar.com
-app.uma.money
 app.whoop.com
 app3.rewire.to
 applause1.magisto.com
@@ -2574,10 +2573,8 @@ http://analytics.prosus.com
 http://api.insightly.com/v3.1/
 http://api.koho.ca/1.0
 http://api.koho.ca/partner
-http://api.lightspark.com
 http://api.na1.insightly.com/v3.1/
 http://app-qa.chime.com/users/sign_in
-http://app.lightspark.com
 http://app.scaleft.com/
 http://apps.connect.monash.edu/
 http://arcanitegames.ca/
@@ -3270,7 +3267,6 @@ https://github.com/auth0/react-native-auth0
 https://github.com/backstage/backstage
 https://github.com/basecamp/once-campfire
 https://github.com/basecamp/writebook
-https://github.com/buildonspark/spark
 https://github.com/cashapp/cash-app-pay-android-sdk
 https://github.com/cashapp/cash-app-pay-ios-sdk
 https://github.com/cashapp/hermit
@@ -3391,9 +3387,6 @@ https://github.com/kubernetes/steering
 https://github.com/kubernetes/test-infra
 https://github.com/kubernetes/utils
 https://github.com/kubernetes/website
-https://github.com/lightsparkdev/go-sdk
-https://github.com/lightsparkdev/lightspark-rs
-https://github.com/lightsparkdev/python-sdk
 https://github.com/matomo-org
 https://github.com/matomo-org/docker
 https://github.com/matomo-org/matomo
@@ -3581,7 +3574,6 @@ https://life.pulsepoint.com/Buyer/#/campaign
 https://life.pulsepoint.com/EngagementAudience/#/dashboard
 https://life.pulsepoint.com/MediaPlanner/#/dashboard/targetview
 https://lifeapi.pulsepoint.com
-https://link.uma.me
 https://linktr.ee
 https://linktree.app.link/LinktreeWebsite?utm_medium=Linktree_Footer
 https://linktree.com
@@ -5131,11 +5123,6 @@ liberty-qa.wnba.com
 liberty-qa2.wnba.com
 liberty.wnba.com
 licensemgmt.varonis.com
-lightsparkdev/flutter-sdk
-lightsparkdev/js-sdk
-lightsparkdev/kotlin-sdk
-lightsparkdev/lightspark-crypto-uniffi
-lightsparkdev/swift-wallet-sdk
 link.tw.coupang.com
 linkpop.com
 links.geneva-staging.chat
