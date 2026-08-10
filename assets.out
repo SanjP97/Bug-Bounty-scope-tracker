@@ -1023,7 +1023,6 @@ Other assets
 Other non-production infrastructure
 Other related e-commerce services
 PTaaS Reference
-Passkey Wallet
 Password Sync for macOS
 PayPal SDK
 Peephole Cam
@@ -1475,7 +1474,6 @@ api.neon.opera.com/neon/store
 api.neon.opera.com/pub
 api.netlify.com
 api.ort-one-pingone.com
-api.passkeys.network
 api.paybox.sh
 api.prd.commerce.simplisafe.com
 api.privy.io
@@ -2369,7 +2367,6 @@ eidhelp.marriott.com
 elm.nba.com
 embed.tumblr.com
 embed.vhx.tv
-embedded.passkeys.foundation
 enroll.clearme.com
 epptool-ctld.verisign-grs.com (EPP service; DNS related)
 erie-dev.gleague.nba.com
@@ -2717,8 +2714,6 @@ https://api.recordedfuture.com
 https://api.requirementyogi.com
 https://api.riskrecon.com
 https://api.riskrecon.eu
-https://api.rx.originenergy.com.au/v1/gateway/schema/graphql
-https://api.rx.originenergy.com.au/v1/gateway/schema/kraken/graphql
 https://api.rx.originenergy.com.au/v1/lpg/graphql
 https://api.shop.ua.com/graphql
 https://api.simnext.bullish-test.com
@@ -5296,7 +5291,6 @@ my.clearme.com
 my.exness.com
 my.loanbuilder.com
 my.malwarebytes.com
-my.passkeys.network
 my.plaid.com
 my.playstation.com
 my.pressable.com
@@ -5424,7 +5418,6 @@ partner.tiktokshop.com
 partners.deriv.com
 partners.shopify.com
 partners.tw.coupang.com
-passkeys.foundation
 passport.larksuite.com
 passwordchallenge.marriott.com
 pastela.app
@@ -5557,7 +5550,6 @@ refined.site/admin
 registry.gitlab.com
 rei.com
 relay.firefox.com
-relay.passkeys.foundation
 relay.playcanvas.com
 releasor.payworks.com/
 remilty.net
@@ -5976,7 +5968,6 @@ vpn01.syd.optusnet.com.au
 vroid.com
 vth.nba.com
 vwcm.visa.com
-wallet.passkeys.foundation
 wallet.tg
 wallet.web3auth.io
 walletbot.me
