@@ -2715,10 +2715,7 @@ https://api.optimizely.com/
 https://api.pinterest.com
 https://api.planethoster.net
 https://api.production.cde.tamg.cloud
-https://api.recordedfuture.com
 https://api.requirementyogi.com
-https://api.riskrecon.com
-https://api.riskrecon.eu
 https://api.rx.originenergy.com.au/v1/lpg/graphql
 https://api.shop.ua.com/graphql
 https://api.simnext.bullish-test.com
@@ -2758,7 +2755,6 @@ https://app.latitudepayapps.com/
 https://app.navan.com
 https://app.opsgenie.com
 https://app.optimizely.com/
-https://app.recordedfuture.com
 https://app.requirementyogi.com
 https://app.ripio.com
 https://app.saltlabs.com/
@@ -2773,6 +2769,7 @@ https://apphouse.underarmour.com/
 https://apps.apple.com/app/bitpanda-buy-bitcoin-crypto/id1449018960
 https://apps.apple.com/app/bitx-wallet/id927362479
 https://apps.apple.com/app/chia-signer/id6504493785 
+https://apps.apple.com/app/id1216446440
 https://apps.apple.com/app/id1503045795
 https://apps.apple.com/app/id1635031432
 https://apps.apple.com/app/mall-of-the-emirates-moe/id1449578693
@@ -2849,6 +2846,7 @@ https://apps.apple.com/us/app/indeed-job-search/id309735670
 https://apps.apple.com/us/app/jira-cloud-by-atlassian/id1006972087
 https://apps.apple.com/us/app/jira-server/id1405353949
 https://apps.apple.com/us/app/jora-jobs-job-search-app/id917565665	
+https://apps.apple.com/us/app/keeperchat/id1273303729?mt=12
 https://apps.apple.com/us/app/kucoin-buy-bitcoin-crypto/id1378956601?mt=8
 https://apps.apple.com/us/app/lastpass-authenticator/id1079110004
 https://apps.apple.com/us/app/lastpass-password-manager/id324613447
@@ -2866,7 +2864,6 @@ https://apps.apple.com/us/app/opera-ai-browser-with-vpn/id1411869974
 https://apps.apple.com/us/app/pinterest/id429047995
 https://apps.apple.com/us/app/pulse-for-booking-com-partners/id992795726
 https://apps.apple.com/us/app/quip-docs-chat-sheets/id647922896
-https://apps.apple.com/us/app/recorded-future/id1435597894
 https://apps.apple.com/us/app/roomba-home/id6504274697
 https://apps.apple.com/us/app/salt-work-and-get-rewarded/id1668462142
 https://apps.apple.com/us/app/save-to-pinterest/id6473649042
@@ -2918,8 +2915,6 @@ https://auth.lastpass.com
 https://auth.myopenpass.com
 https://auth.opera.com
 https://auth.requirementyogi.com
-https://auth.riskrecon.com
-https://auth.riskrecon.eu
 https://auth.seek.com
 https://auth.thetradedesk.com
 https://auth.wyze.com
@@ -3093,6 +3088,14 @@ https://disclosure-test.six-exchange-regulation.com/
 https://docker-staging.adstruc.com
 https://docs.bugcrowd.com/
 https://docs.eazybi.com/
+https://docs.keeper.io/en/keeperpam
+https://docs.keeper.io/en/keeperpam/commander-cli/overview
+https://docs.keeper.io/en/keeperpam/privileged-access-manager/getting-started/gateways
+https://docs.keeper.io/en/keeperpam/secrets-manager/overview
+https://docs.keeper.io/kcm
+https://docs.keeper.io/keeper-bridge/
+https://docs.keeper.io/sso-connect-cloud/
+https://docs.keeper.io/sso-connect-guide/
 https://docs.newrelic.com/
 https://docs.sophos.com/central/customer/help/en-us/ManageYourProducts/ThreatAnalysisCenter/Integrations/Sophos/NDR/index.html
 https://docs.tempus-ex.com
@@ -3205,7 +3208,6 @@ https://gatewaydsaptst2.marriott.com/
 https://gcsm.oppoit.com/
 https://gemcreditline.co.nz
 https://gemfinance.co.nz
-https://geminiadvisory.io
 https://gemvisa.com.au
 https://geocode-beta.bykea.net
 https://gestordepedidos.ifood.com.br
@@ -3439,7 +3441,6 @@ https://gx.games
 https://gx.me
 https://gx.opera-api.com
 https://hackerone-m1rtuq8orz.hbstaging.website/
-https://hatching.io
 https://help.etsy.com
 https://help.okta.com/asa/en-us/Content/Topics/Adv_Server_Access/docs/client.htm
 https://help.okta.com/en/prod/Content/Topics/Adv_Server_Access/docs/sftd-windows.htm
@@ -3455,7 +3456,6 @@ https://hytale.com/
 https://hytale.dev/
 https://ibconnect.internetbrands.com
 https://id.atlassian.com/login
-https://id.recordedfuture.com
 https://id.unity.com
 https://identity.bugcrowd.com/
 https://identity.majidalfuttaim.com
@@ -3500,6 +3500,10 @@ https://just-eat.co.il
 https://just-eat.com
 https://just-eat.es
 https://just-eat.io/
+https://keepersecurity.com
+https://keepersecurity.com/console
+https://keepersecurity.com/password-manager-free-trial.html
+https://keepersecurity.com/vault
 https://kiwi.partner.viator.com
 https://knowledge.newrelic.com/
 https://kucoin.com
@@ -4168,7 +4172,6 @@ https://mattermost.com/apps/
 https://mcp-server.zomato.com/mcp
 https://mcp.atlassian.com
 https://mcp.opensea.io
-https://mcp.recordedfuture.com
 https://mcs.arlo.com
 https://media.irobot.com
 https://mediaflows.cloudinary.com/
@@ -4331,6 +4334,7 @@ https://play.google.com/store/apps/details?id=com.bolt.deliveryclient
 https://play.google.com/store/apps/details?id=com.booking&hl=en
 https://play.google.com/store/apps/details?id=com.booking.hotelmanager&hl=en
 https://play.google.com/store/apps/details?id=com.bybit.app&hl=en
+https://play.google.com/store/apps/details?id=com.callpod.android_apps.keeper&hl=en_US&gl=US
 https://play.google.com/store/apps/details?id=com.certsy.app
 https://play.google.com/store/apps/details?id=com.classdojo.android
 https://play.google.com/store/apps/details?id=com.coindesk.mobile
@@ -4342,6 +4346,7 @@ https://play.google.com/store/apps/details?id=com.indeed.android.jobsearch
 https://play.google.com/store/apps/details?id=com.indeed.resume
 https://play.google.com/store/apps/details?id=com.irobot.home.prime
 https://play.google.com/store/apps/details?id=com.jora.android&hl=en_US	
+https://play.google.com/store/apps/details?id=com.keepersecurity.chat&hl=en_US&gl=US
 https://play.google.com/store/apps/details?id=com.kubi.kucoin
 https://play.google.com/store/apps/details?id=com.lafourchette.lafourchette
 https://play.google.com/store/apps/details?id=com.lafourchette.tfm3
@@ -4371,7 +4376,6 @@ https://play.google.com/store/apps/details?id=com.pinterest&hl=en_US&gl=US
 https://play.google.com/store/apps/details?id=com.pinterest.shuffles
 https://play.google.com/store/apps/details?id=com.pinterest.twa&hl=en_US&gl=US
 https://play.google.com/store/apps/details?id=com.quizlet.quizletandroid
-https://play.google.com/store/apps/details?id=com.recordedfuture.mobile&hl=en_US
 https://play.google.com/store/apps/details?id=com.saltlabs.app
 https://play.google.com/store/apps/details?id=com.scu.bsafe
 https://play.google.com/store/apps/details?id=com.sixgroup.debixplus
@@ -4434,8 +4438,6 @@ https://portal.clearpay.com
 https://portal.cms.gov/
 https://portal.iFoodpago.com.br
 https://portal.originzero.com.au
-https://portal.riskrecon.com
-https://portal.riskrecon.eu
 https://portal.unifiedid.com
 https://portalapi.eu.clearpay.co.uk
 https://portalapi.us.afterpay.com
@@ -4492,7 +4494,6 @@ https://secure.thefork.com
 https://securemail.usaa.com
 https://securesignin.neogov.com
 https://securesignin.powerdms.com/
-https://securitytrails.com
 https://seekcdn.com
 https://segment.com/docs/connections/sources/
 https://selector.viator.com
@@ -4628,7 +4629,6 @@ https://trello.com/power-ups/5c2462c384ab8949b1724a20/list-limits
 https://trello.com/power-ups/5e3886cd2ae34410748d0d5b/jira-align-
 https://trello.com/power-ups/6048e897c73d032a983e2a7c/dashcards
 https://trello.com/power-ups/6052d130068a8c0de7b022b4
-https://tria.ge
 https://u.oppomobile.com/
 https://uae.voxcinemas.com/
 https://ui.com/distributors/
@@ -4653,8 +4653,6 @@ https://v.utv.usaa.com
 https://valuations-sit.uat.proptrack.com
 https://vault-staging.getmoneytree.com
 https://vault.chiatest.net/
-https://vendor.riskrecon.com
-https://vendor.riskrecon.eu
 https://vendorss.usaa.com
 https://videoplayer.20min.ch
 https://vlagg.usaa.com
@@ -4795,6 +4793,8 @@ https://www.irobot.pt/
 https://www.just-eat.co.uk
 https://www.justeattakeaway.com
 https://www.kaleido.ai
+https://www.keepersecurity.com/download.html
+https://www.keepersecurity.com/download.html?t=db
 https://www.kohls.com
 https://www.kohls.com/feature/app.jsp
 https://www.ladbrokes.com
@@ -4826,6 +4826,7 @@ https://www.mastercard.us/en-us.html
 https://www.matalan.co.uk
 https://www.mdedge.com
 https://www.mgmmacau.com
+https://www.microsoft.com/en-us/p/keeperchat/9pdqtcpn4kxn#activetab=pivot:overviewtab
 https://www.minhaconta.zoop.com.br
 https://www.monash.edu
 https://www.monashprofessional.edu.au/
@@ -4880,10 +4881,8 @@ https://www.priceline.com/pwd/v0/pcln-graphql/
 https://www.proptrack.com
 https://www.proptrack.com.au
 https://www.realcommercial.com.au/
-https://www.recordedfuture.com
 https://www.remove.bg
 https://www.restaurant-information.com
-https://www.riskrecon.com
 https://www.sdx.com/
 https://www.sharerewards.com/
 https://www.shffls.com
