@@ -741,7 +741,6 @@ Firefly Image Models
 Firefly Video Model
 Firefox Homepage Newtab
 Fleet Server
-Forge Platform
 FortniteClient-Android-Shipping-arm64-es2.apk
 FortniteClient-Win64-Shipping.exe
 FortniteLauncher-Win64-Shipping.exe
@@ -783,7 +782,6 @@ GlotPress
 Grammarly Browser Extensions
 Grammarly Desktop for Windows
 Grammarly Desktop for macOS
-GraphQL API (bugbounty-test-<bugcrowd-name>.atlassian.net/gateway/api/graphql)
 Gutenberg
 H5G
 HEY.app
@@ -1004,7 +1002,6 @@ OpenAI API Keys
 Opsgenie (Android)
 Opsgenie (IoS)
 Other
-Other - (all other Atlassian targets)
 Other APK Assets
 Other Acronis Domains
 Other Acronis executables
@@ -2665,8 +2662,6 @@ https://accounts.webmd.com
 https://accounts.welcomesoftware.com/
 https://acorns.com/
 https://addons.mozilla.org/en-US/firefox/addon/pinterest/
-https://admin.atlassian.com/
-https://admin.atlassian.com/atlassian-guard
 https://admin.lastpass.com
 https://admintool.lime.bike
 https://aemdam.usaa360.com/
@@ -2841,8 +2836,6 @@ https://apps.apple.com/us/app/chipotle-fresh-food/id327228455
 https://apps.apple.com/us/app/classdojo/id552602056
 https://apps.apple.com/us/app/coindesk-crypto-bitcoin-news/id6502816903
 https://apps.apple.com/us/app/compass-real-estate-homes/id692766504
-https://apps.apple.com/us/app/confluence-cloud/id1006971684
-https://apps.apple.com/us/app/confluence-server/id1288365159
 https://apps.apple.com/us/app/ecwid-ecommerce/id626731456
 https://apps.apple.com/us/app/exodus-crypto-bitcoin-wallet/id1414384820
 https://apps.apple.com/us/app/fishbowl-professional-network/id1005070636
@@ -2850,14 +2843,11 @@ https://apps.apple.com/us/app/glassdoor-jobs-careers/id589698942
 https://apps.apple.com/us/app/hhc-24-7/id6741442288
 https://apps.apple.com/us/app/indeed-connect-for-employers/id6443822731
 https://apps.apple.com/us/app/indeed-job-search/id309735670
-https://apps.apple.com/us/app/jira-cloud-by-atlassian/id1006972087
-https://apps.apple.com/us/app/jira-server/id1405353949
 https://apps.apple.com/us/app/jora-jobs-job-search-app/id917565665	
 https://apps.apple.com/us/app/keeperchat/id1273303729?mt=12
 https://apps.apple.com/us/app/kucoin-buy-bitcoin-crypto/id1378956601?mt=8
 https://apps.apple.com/us/app/lastpass-authenticator/id1079110004
 https://apps.apple.com/us/app/lastpass-password-manager/id324613447
-https://apps.apple.com/us/app/loom-screen-recorder/id1474480829
 https://apps.apple.com/us/app/lululemon/id920098546
 https://apps.apple.com/us/app/mattermost/id1257222717
 https://apps.apple.com/us/app/mint-mobile/id1295303441
@@ -2942,7 +2932,6 @@ https://bb2.simplisafe.com
 https://beta.arlo.com
 https://binance.tr
 https://bistro.sk
-https://bitbucket.org
 https://bitgo.ae/
 https://bitso.com
 https://blis.com
@@ -3003,7 +2992,6 @@ https://chrome.google.com/webstore/detail/coinbase-wallet-extension/hnfanknocfeo
 https://chrome.google.com/webstore/detail/ibotta-browser-extension/mfaedmjlefifhnhpgipjjiiekchaimpk?hl=en-US
 https://chrome.google.com/webstore/detail/pinterest-save-button/gpdjojdkbbmdfjfahjcgigfpmkopogic?hl=en
 https://chromewebstore.google.com/detail/indeed-recruiter-extensio/kiodpphbmnmcmnfgpnmkkhmkllnlflef
-https://chromewebstore.google.com/detail/loom-%E2%80%93-screen-recorder-sc/liecbddmkiiihnedobmlmillhodjkdmb?hl=en-US&pli=1
 https://citycentredeira.com/
 https://clearpay.co.uk
 https://clearpay.com
@@ -3026,7 +3014,6 @@ https://community.etsy.com
 https://community.oppo.com/
 https://communityin.oppo.com/
 https://compulsoryunits.monash.edu/
-https://confluence.atlassian.com/doc/install-atlassian-companion-992678880.html
 https://confluence.requirementyogi.com
 https://connect.monash.edu
 https://connect.soundcloud.com
@@ -3467,7 +3454,6 @@ https://hub.immutable.com/
 https://hytale.com/
 https://hytale.dev/
 https://ibconnect.internetbrands.com
-https://id.atlassian.com/login
 https://id.recordedfuture.com
 https://id.unity.com
 https://identity.bugcrowd.com/
@@ -3583,7 +3569,6 @@ https://mapi.usaa.com/
 https://maps.bykea.net
 https://maps.vistarmedia.com
 https://market.android.com/details?id=com.myfitnesspal.android&rdid=com.myfitnesspal.android
-https://marketplace.atlassian.com
 https://marketplace.atlassian.com/apps/1143291390/sprintpoker-planning-poker-async-estimation?hosting=cloud&tab=overview
 https://marketplace.atlassian.com/apps/1210722/confluence-source-editor?hosting=server
 https://marketplace.atlassian.com/apps/1210725/data-generator-for-jira?hosting=server
@@ -4183,7 +4168,6 @@ https://master.servicecentre.digitalservicing-np.lfscnp.com/
 https://matlab.mathworks.com/
 https://mattermost.com/apps/
 https://mcp-server.zomato.com/mcp
-https://mcp.atlassian.com
 https://mcp.opensea.io
 https://mcp.recordedfuture.com
 https://mcs.arlo.com
@@ -4329,10 +4313,6 @@ https://play.google.com/store/apps/details?id=com.afterpaymobile.uk
 https://play.google.com/store/apps/details?id=com.afterpaymobile.us&hl=en_US&gl=US
 https://play.google.com/store/apps/details?id=com.asana.app&hl=en
 https://play.google.com/store/apps/details?id=com.aswat.carrefouruae
-https://play.google.com/store/apps/details?id=com.atlassian.android.confluence.core&hl=en_US&gl=US
-https://play.google.com/store/apps/details?id=com.atlassian.android.jira.core&hl=en_US&gl=US
-https://play.google.com/store/apps/details?id=com.atlassian.confluence.server
-https://play.google.com/store/apps/details?id=com.atlassian.jira.server&hl=en_US&gl=US
 https://play.google.com/store/apps/details?id=com.auth0.guardian&hl=en_US&gl=US
 https://play.google.com/store/apps/details?id=com.backblaze.android&hl=en_US&gl=US
 https://play.google.com/store/apps/details?id=com.belongi.citycenter&hl=en_IN
@@ -4368,7 +4348,6 @@ https://play.google.com/store/apps/details?id=com.lastpass.authenticator&hl=en_U
 https://play.google.com/store/apps/details?id=com.lastpass.lpandroid
 https://play.google.com/store/apps/details?id=com.lime.supply&hl=en_US
 https://play.google.com/store/apps/details?id=com.limebike
-https://play.google.com/store/apps/details?id=com.loom.android&hl=en_US&pli=1
 https://play.google.com/store/apps/details?id=com.maf.communities&hl=en-US
 https://play.google.com/store/apps/details?id=com.maf.share&hl=en_US&gl=US
 https://play.google.com/store/apps/details?id=com.maf.thatandroid
@@ -4563,7 +4542,6 @@ https://staging.claytonapp.com/api
 https://staging.gearset.com/
 https://staging.luno.com.ng
 https://staging.luno.com/
-https://start.atlassian.com
 https://static-images.ifood.com.br
 https://static.mgm.mo
 https://static.usaa.com
@@ -4584,7 +4562,6 @@ https://superbet.ro
 https://superbet.rs
 https://supplier.underarmour.com/
 https://supplier.viator.com/
-https://support.atlassian.com/rovo/docs/use-rovo-dev-cli/
 https://support.lastpass.com
 https://support.moovitapp.com/hc/en-us/articles/11389054527122-WayFinder-Augmented-Reality-helper-to-find-your-stop-iPhone-only
 https://support.newrelic.com/
@@ -4720,24 +4697,6 @@ https://www.allsaints.me/
 https://www.arlo.com
 https://www.arrowfilms.com
 https://www.assurancewireless.com
-https://www.atlassian.com/enterprise/data-center/bitbucket
-https://www.atlassian.com/enterprise/data-center/confluence
-https://www.atlassian.com/enterprise/data-center/crowd
-https://www.atlassian.com/enterprise/data-center/jira
-https://www.atlassian.com/enterprise/data-center/jira/service-management
-https://www.atlassian.com/software/atlas
-https://www.atlassian.com/software/bamboo
-https://www.atlassian.com/software/compass
-https://www.atlassian.com/software/confluence
-https://www.atlassian.com/software/confluence/premium
-https://www.atlassian.com/software/crucible
-https://www.atlassian.com/software/fisheye
-https://www.atlassian.com/software/jira
-https://www.atlassian.com/software/jira/product-discovery
-https://www.atlassian.com/software/jira/service-management
-https://www.atlassian.com/software/jira/work-management
-https://www.atlassian.com/software/rovo
-https://www.atlassian.com/software/rovo-dev
 https://www.authy.com/download/
 https://www.binance.com/
 https://www.binance.us/
@@ -4824,8 +4783,6 @@ https://www.lastpass.com
 https://www.li.me/
 https://www.logitech.com/blog
 https://www.lookfantastic.com/
-https://www.loom.com/
-https://www.loom.com/download
 https://www.lululemon.co.jp/
 https://www.lululemon.co.nz/
 https://www.lululemon.co.uk/
@@ -4863,7 +4820,6 @@ https://www.npmjs.com/package/@exodus/errors
 https://www.npmjs.com/package/@exodus/keychain
 https://www.npmjs.com/package/@exodus/safe-string
 https://www.npmjs.com/package/@exodus/sentry-client
-https://www.npmjs.com/package/@forge/cli	
 https://www.npmjs.com/package/@privy-io/cross-app-connect
 https://www.npmjs.com/package/@privy-io/cross-app-provider
 https://www.npmjs.com/package/@privy-io/expo
@@ -4918,7 +4874,6 @@ https://www.sophos.com/en-us/products/endpoint-antivirus/free-trial
 https://www.sophos.com/en-us/products/endpoint-antivirus/free-trial 
 https://www.sophos.com/en-us/products/mobile-control/free-trial
 https://www.sophos.com/en-us/products/next-gen-firewall
-https://www.sourcetreeapp.com/
 https://www.tagesanzeiger.ch
 https://www.thecurrent.com
 https://www.thefork.com
