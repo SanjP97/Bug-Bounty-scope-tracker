@@ -1482,6 +1482,7 @@ Workers KV
 Workstation MFA (WMFA)
 Wrapped
 Wyze Cam V3
+X Pixel Helper (Chrome Extension)
 XD
 Xfinity Android mobile app
 Xfinity Home Hardware (items listed below in brief)
@@ -1536,6 +1537,7 @@ accounts.reddit.com
 accounts.shopify.com
 accounts.snapchat.com
 accounts.stage.evernote.com
+accounts.x.ai
 accountshomolog.acesso.io
 aces-dev.wnba.com
 aces-qa.wnba.com
@@ -2523,6 +2525,8 @@ console.circle.com
 console.dashlane.com
 console.ort-one-pingone.com
 console.tink.com
+console.x.ai
+console.x.com
 contact-dev.nba.com
 contact-qa.nba.com
 contact.nba.com
@@ -2900,6 +2904,7 @@ green.nba.com
 greensboro-dev.gleague.nba.com
 greensboro-qa.gleague.nba.com
 greensboro.gleague.nba.com
+grok-build
 grok-build-cli
 grok.com
 grokipedia.com
@@ -6702,6 +6707,7 @@ promos.tvg.com
 prow.k8s.io
 proxy-production.lime.bike
 ps5.np.playstation.net
+pscp.tv
 psp.marriott.com
 psychobunny.me
 public.hyatt.com
@@ -7628,6 +7634,7 @@ www2.acesso.io
 www20.watsons.co.th
 www3.acesso.io
 www4.acesso.io
+x.ai
 x.com
 x.razorpay.com
 xFi Gateways (e.g., XB3, XB6, XB7)
