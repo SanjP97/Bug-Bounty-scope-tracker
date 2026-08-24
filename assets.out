@@ -573,6 +573,8 @@ Blink Video Doorbell
 Bot Management
 Box Drive
 Braintree SDK
+Brave Browser Desktop
+Brave websites
 Bridge
 Broken Link
 Browser Isolation
@@ -1363,6 +1365,7 @@ advisories.gitlab.com
 aebddc74953f248bc8455665b0f7d47b-78af959a11e5d0c1.elb.us-east-1.amazonaws.com
 affiliate-id.tokopedia.com
 affiliate.meesho.com
+africa.visa.com
 agents.hostinger.com
 aguacaliente-dev.gleague.nba.com
 aguacaliente-qa.gleague.nba.com
@@ -1695,6 +1698,7 @@ businesshelp.snapchat.com
 buy.faraday.ai
 buy.logitech.com
 buy.moonpay.com
+by.visa.com
 bykea.com
 ca.account.sony.com
 ca.koho
@@ -1773,6 +1777,7 @@ checkout.vimeo.com
 ci-propertyconversionportal.marriott.com
 circle.logi.com
 circolocorecords.com/
+cis.visa.com
 cl-qa.nba.com
 cl.nba.com
 classroom.github.com
@@ -1886,6 +1891,8 @@ com.boozt
 com.boozt.app
 com.boozt.booztlet
 com.booztlet
+com.brave.browser
+com.brave.ios.browser
 com.bumble.app
 com.bumblebff.app
 com.bykea.pk
@@ -4763,6 +4770,7 @@ https://us.eufy.com/products/e8213181
 https://us.eufy.com/products/t8410121
 https://us.eufy.com/products/t88511d1
 https://us.eufy.com/products/t88711w1
+https://usa.visa.com/gateway/api
 https://usdstandard.com/
 https://utv.usaa.com
 https://v.utv.usaa.com
@@ -5188,7 +5196,6 @@ it.niedermann.owncloud.notes
 it.twsweb.Nextcloud
 itv7.itv.com
 j.root-servers.net (DNS service; DNS related)
-jira.hyattdev.com
 jira.logitech.com
 job.ryadom.kz
 jobs.kiwi.com
@@ -5211,6 +5218,7 @@ k8s.io
 kartaview.org
 kayak.ai
 kidswebservices.com
+kino.visa.pl
 kit.snapchat.com
 knowledge.nextcloud.com
 knox.beta.blendlabs.com
@@ -5442,6 +5450,7 @@ my.visa.fr
 myaccount-cn.payoneer.com
 myaccount-hardening.dynatracelabs.com
 myaccount.payoneer.com
+myanmar.visa.com
 myconnect.com.au
 myself.tw.coupang.com
 mystics-dev.wnba.com
@@ -5839,6 +5848,7 @@ rpc.drpc.testnet.arc.network
 rpc.quicknode.testnet.arc.network
 rpc.testnet.arc.network
 rs-open-api.tw.coupang.com
+rs.visa.com
 rt.playcanvas.com
 ryadom.kz
 s3://faraday-secret
@@ -5968,6 +5978,7 @@ speedtest-sydney.optusnet.com.au
 speedtest-townsville.optusnet.com.au
 splunk-phantom-nlb.marriott.com
 sr-staging-1.com
+sr.visa.com
 sso-sprint.dynatracelabs.com
 sso.8x8.com
 sso.8x8pilot.com
@@ -6166,7 +6177,9 @@ vimeopro.com
 visa.co.za
 visa.com.au
 visa.com.jm
+visa.com.mx
 visa.com.ru
+visa.in
 visainnovationprogram.com
 visaonchainanalytics.com
 visasgic.api-xperience.com
@@ -6391,6 +6404,7 @@ www.momondo.com
 www.mozilla.org
 www.mrjet.se
 www.mundi.com.br
+www.mz.visa.com
 www.nba.com
 www.netflix.com
 www.orbitz.com
@@ -6450,6 +6464,10 @@ www.urbancompany.com
 www.valmo.in
 www.valvesoftware.com
 www.vimeo.com
+www.visa.be
+www.visa.ca
+www.visa.cl
+www.visa.cn
 www.visa.co.ao
 www.visa.co.cr
 www.visa.co.id
@@ -6462,6 +6480,7 @@ www.visa.co.nz
 www.visa.co.th
 www.visa.co.uk
 www.visa.co.ve
+www.visa.com
 www.visa.com.az
 www.visa.com.bo
 www.visa.com.br
@@ -6469,7 +6488,9 @@ www.visa.com.cn
 www.visa.com.cy
 www.visa.com.ge
 www.visa.com.hk
+www.visa.com.hn
 www.visa.com.hr
+www.visa.com.jm
 www.visa.com.kh
 www.visa.com.kz
 www.visa.com.lc
@@ -6485,9 +6506,39 @@ www.visa.com.tr
 www.visa.com.tw
 www.visa.com.ua
 www.visa.com.vn
+www.visa.cz
+www.visa.de
+www.visa.dk
+www.visa.dm
+www.visa.ee
+www.visa.es
+www.visa.fi
 www.visa.fr
+www.visa.gr
+www.visa.hu
+www.visa.ie
+www.visa.is
+www.visa.lt
+www.visa.lv
+www.visa.mn
+www.visa.nl
+www.visa.no
+www.visa.pl
+www.visa.pt
+www.visa.ro
+www.visa.se
+www.visa.sk
+www.visabg.com
+www.visaeurope.at
+www.visaeurope.ch
+www.visaeurope.es
+www.visaeurope.lu
+www.visaeurope.si
 www.visainfinite.ca
+www.visaitalia.com
+www.visakorea.com
 www.visamiddleeast.com
+www.visasoutheasteurope.com
 www.vodafone.om
 www.vrbo.com
 www.wearehackerone.com
