@@ -1612,7 +1612,6 @@ auth0.net
 authentication.clearme.com
 authentication.wolt.com
 autocomplete.booking.com
-aw.visa.com
 b5s.hackerone-ext-content.com
 backend-sdk.uat.private.unico.run
 backstage.io
@@ -1628,7 +1627,6 @@ ballistic.com
 ballistic.com.br
 bankaccountdata.gocardless.com
 basecamp-setup.exe
-bb.visa.com
 bbPress Core
 bcny.com
 bd.visa.com
@@ -1664,7 +1662,6 @@ bluecoats-qa.gleague.nba.com
 bluecoats.gleague.nba.com
 blueprints.amazon.com
 blueskytours.globalbookingsolutions.com
-bm.visa.com
 bma.badoo.com
 bma.bumble.com
 boards.greenhouse.io
@@ -1679,7 +1676,6 @@ booking.com
 bookingholdings-coe.com
 booth.pm
 bpa2.marriott.com
-bq.visa.com
 br.nba.com
 bsp.marriott.com
 buckingfuggy.com
@@ -2252,7 +2248,6 @@ customer-sessions.arkoselabs.com
 customerevents.netflix.com
 customers.gitlab.com
 customerupdates.nextcloud.com
-cw.visa.com
 cweb-ott-aws-qa.nba.com
 cweb-ott-aws-uat-uw2.nba.com
 cweb-ott-aws-uat.nba.com
@@ -2576,7 +2571,6 @@ hotel-deals.marriott.com
 hotel-development.marriott.com
 hotornot.com
 hpanel.hostinger.com
-ht.visa.com
 http1mustdie.com
 http://--your-own-1password-account--.1password.com
 http://activitylog.io/
@@ -3139,6 +3133,7 @@ https://ebctest.cybersource.com/CGK2
 https://ebctest.cybersource.com/bin
 https://ebctest.cybersource.com/boarding/v1/registrations
 https://ebctest.cybersource.com/boarding/v1/templates
+https://ebctest.cybersource.com/bos
 https://ebctest.cybersource.com/casemanagement
 https://ebctest.cybersource.com/cds/
 https://ebctest.cybersource.com/dmconfigapi
@@ -5854,7 +5849,6 @@ speedtest-sydney.optusnet.com.au
 speedtest-townsville.optusnet.com.au
 splunk-phantom-nlb.marriott.com
 sr-staging-1.com
-sr.visa.com
 sso-sprint.dynatracelabs.com
 sso.8x8.com
 sso.8x8pilot.com
@@ -6055,7 +6049,6 @@ visa.com.au
 visa.com.jm
 visa.com.mx
 visa.com.ru
-visa.in
 visainnovationprogram.com
 visaonchainanalytics.com
 visasgic.api-xperience.com
