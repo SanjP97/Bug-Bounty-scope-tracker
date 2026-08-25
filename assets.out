@@ -1204,7 +1204,6 @@ Tier 3 Assets
 Tier 3 OSS
 Tier A - Core Assets
 Tier B - Non Core (Bitmoji, Playcanvas)
-Tor
 Tor Browser
 Trello Desktop Client
 Trello Mobile App for Android
@@ -2578,7 +2577,6 @@ http://api.insightly.com/v3.1/
 http://api.koho.ca/1.0
 http://api.koho.ca/partner
 http://api.na1.insightly.com/v3.1/
-http://app-qa.chime.com/users/sign_in
 http://app.scaleft.com/
 http://apps.connect.monash.edu/
 http://arcanitegames.ca/
@@ -2751,6 +2749,7 @@ https://api.welcomesoftware.com/
 https://api.wyzecam.com
 https://api.x.immutable.com/
 https://apis.indeed.com/graphql
+https://app-qa.chime.com/login
 https://app-staging.getmoneytree.com
 https://app.agency360.com
 https://app.asana.com
@@ -3450,7 +3449,6 @@ https://gitlab.com/gitlab-org/gitlab-pages
 https://gitlab.com/gitlab-org/gitlab-runner
 https://gitlab.com/gitlab-org/gitlab-shell
 https://gitlab.com/gitlab-org/gitlab-vscode-extension
-https://gitlab.torproject.org/tpo/core/arti
 https://go.elementor.com/
 https://gomastercard.com.au
 https://gov.bugcrowd.net
