@@ -2642,6 +2642,7 @@ dashboard.qa.ai.8x8.com
 dashboard.razorpay.com
 dashboard.web3auth.io
 dashboard.xoswap.com
+data-test.nba.com
 databricks.com
 datapod-1-100-druid-ingest.development.forescoutcloud.net
 datapod-1-100-druid-ingest.testing.forescoutcloud.net
@@ -2737,6 +2738,7 @@ dream-qa.wnba.com
 dream-qa2.wnba.com
 dream.wnba.com
 drive.wolt.com
+dwhreports.nba.com
 dwy.visa.com
 dx-demo.deriv.com
 dx.deriv.com
@@ -2883,6 +2885,7 @@ github.com/deriv-com
 github.com/kubernetes-csi
 github.com/kubernetes-retired
 gitlab.com
+gldatacenter.nba.com
 gleague-dev.nba.com
 gleague-qa.nba.com
 gleague.nba.com
@@ -2956,6 +2959,7 @@ home.deriv.com
 home.privy.io
 homeloans.wellsfargo.com
 homes-and-villas.marriott.com
+hoop.nba.com
 hoopsfortroops.nba.com
 horizonchase.com
 horizonchase.com.br
@@ -6492,6 +6496,10 @@ nbaholidaycard-qa.nba.com
 nbaholidaycard.nba.com
 nbaintl.nba.com
 nbameeting.nba.com
+nbatickets-dev.nba.com
+nbatickets-qa.nba.com
+nbatickets.nba.com
+nbavideo.nba.com
 neoket.net
 net.bitstamp.app
 net.s2stagehance.com
@@ -6597,6 +6605,9 @@ ob.gocardless.com
 obs-sensors.iris.acceptance.forescoutcloud.net
 obs-sensors.iris.production.forescoutcloud.net
 ocijlbex1prd.marriott.com
+official-dev.nba.com
+official-qa.nba.com
+official.nba.com
 og.com
 oklahomacity-dev.gleague.nba.com
 oklahomacity-qa.gleague.nba.com
@@ -6685,6 +6696,7 @@ pb.deribit.com
 pdfroster-dev.nba.com
 pdfroster-qa.nba.com
 pdfroster.nba.com
+peopleanalyticsportal.nba.com
 personal.trexcloud.com
 phabricator.allizom.org
 phone-validation.taxi.booking.com
@@ -6705,6 +6717,7 @@ playcanv.as
 playcanvas.com
 player-login.unity.com
 player.vimeo.com
+playerhealthvideo.nba.com
 playwonderbox.com
 playwonderbox.com.br
 pmtcards.newegg.com
@@ -6727,6 +6740,9 @@ portland-dev.wnba.com
 portland-qa.wnba.com
 portland.wnba.com
 portswigger.net
+pr-dev.nba.com
+pr-qa.nba.com
+pr.nba.com
 prd-ring-web-us.prd.rings.solutions
 premium.pixiv.net
 preprod1.grindr.com
@@ -6760,6 +6776,7 @@ ps5.np.playstation.net
 pscp.tv
 psp.marriott.com
 psychobunny.me
+ptiw.nba.com
 public.hyatt.com
 publicsafety.ring.com
 pubtools.private.8x8cloud.net
@@ -6955,6 +6972,7 @@ sell.moonpay.com
 seller-id.tokopedia.com
 seller.temu.com
 sellerportal.newegg.com
+sems.nba.com
 sendgrid.com
 sensei.pixiv.net
 seraphicsecurity.com
@@ -7093,6 +7111,9 @@ status.bitstamp.net
 status.larksuite.com
 steamcommunity.com
 stock.adobe.com
+stockton-dev.gleague.nba.com
+stockton-qa.gleague.nba.com
+stockton.gleague.nba.com
 store-display.tw.coupang.com
 store.23andme.com
 store.23andme.org
@@ -7158,6 +7179,7 @@ syndication.tw.coupang.com
 t.co
 t.umblr.com
 tableau.fareharbor.engineering
+taiwan.nba.com
 talk.brave.com
 tapi-demo.etoro.com
 tapi-real.etoro.com
@@ -7165,10 +7187,14 @@ tax.audible.com
 tax.crypto.com
 taxi.booking.com
 taxis.booking.com
+teamapps.nba.com
 teamdirectory.nba.com
+teaminquiry.nba.com
 teammate.indriver.io
+teamofficelist.nba.com
 teamportal.nba.com
 teams.krisp.ai
+teamvideo.nba.com
 teleport.fareharbor.engineering
 template.uat.foodstorm.com
 tempo-dev.wnba.com
@@ -7182,6 +7208,9 @@ testapp.redoxengine.com
 testbank.xs2a.com
 testnet.bitmex.com
 testnet.immutable.com
+texas-dev.gleague.nba.com
+texas-qa.gleague.nba.com
+texas.gleague.nba.com
 thebrowser.company
 therapeutics.23andme.com
 therecord.media
@@ -7191,6 +7220,8 @@ tiktok.com
 tiktokdata-us-open.tiktokw.us
 tomoe.bykea.net
 toolsforhumanity.com
+townhall.nba.com
+tpp.nba.com
 trade.ripio.com
 training.ui.com
 transact.playstation.com
@@ -7204,6 +7235,7 @@ treatments.khealth.com
 trello.com
 trendyol.com
 tria.ge
+trs.nba.com
 truck-api.eu-east-1.indriverapp.com
 trust.23andme.com
 try.discourse.org
@@ -7295,6 +7327,7 @@ vpn.mozilla.org
 vpn01.syd.optusnet.com.au
 vroid.com
 vth.nba.com
+vttp.nba.com
 vwcm.visa.com
 waf.cumulusfire.net
 wallet.etoro.com
@@ -7327,6 +7360,9 @@ webauthn.me
 webgateway.koho.ca
 webhooks.booking.com
 wechat.api.marriott.com
+westchester-dev.gleague.nba.com
+westchester-qa.gleague.nba.com
+westchester.gleague.nba.com
 wga.volans.tech
 whyisend.com
 widget.rentalcars.com
@@ -7334,11 +7370,18 @@ wiki.cs.money
 wiki.grab.com
 wiki.teamfortress.com
 wiki.ui.com
+windycity-dev.gleague.nba.com
+windycity-qa.gleague.nba.com
+windycity.gleague.nba.com
 winecellar.zomato.com
 wings-dev.wnba.com
 wings-qa.wnba.com
 wings-qa2.wnba.com
 wings.wnba.com
+wisconsin-dev.gleague.nba.com
+wisconsin-qa.gleague.nba.com
+wisconsin.gleague.nba.com
+wnbabroadcastmanuals.nba.com
 wolt.com
 wonderboxapi.com
 wonderboxdev.com
