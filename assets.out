@@ -1486,7 +1486,6 @@ apigw.foliofn.com
 apix.vodafone.om
 app-insiders.marriott.com
 app.basecamp.com
-app.blueskytravelvietnam.com
 app.box.com
 app.circle.com
 app.demand.cybersource.com
@@ -2274,6 +2273,7 @@ developer.gs.com
 developer.konghq.com
 developer.mozilla.org
 developer.playcanvas.com
+developer.plus.authorize.net
 developer.valvesoftware.com
 developer.visa.com
 developer.worldcoin.org
@@ -3344,6 +3344,7 @@ https://github.com/nextcloud/tables
 https://github.com/nitrojs/nitro
 https://github.com/nodejs/node
 https://github.com/nuxt/nuxt
+https://github.com/okx/go-wallet-sdk
 https://github.com/pinterest/
 https://github.com/plaid/plaid-link-android
 https://github.com/plaid/plaid-link-ios
@@ -4917,6 +4918,7 @@ https://www.winconnect.com.au/moving-out/
 https://www.wyze.com/products/wyze-cam
 https://www.xvideos.net/app/
 https://www.ynab.com/
+https://www.zabbix.com/download_sources
 https://www.zoop.com.br
 https://www.zoop.ws
 https://wwws-staging.moneytree.jp/link/
@@ -5695,6 +5697,7 @@ sandbox-royal.securegateway.com
 sandbox.affirm.com
 sandbox.authorize.net
 sandbox.braintreegateway.com
+sandbox.developer.plus.authorize.net
 sandbox.secure.checkout.visa.com
 sandbox.securegateway.com
 santacruz-dev.gleague.nba.com
