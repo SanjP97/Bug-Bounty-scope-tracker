@@ -1354,33 +1354,6 @@ volans.tech
 watchdocs.indriverapp.com
 web.ryadom.kz
 wga.volans.tech
-1324809509
-1528364633
-302584613
-621574163
-944011620
-947984433
-Echo Family Devices
-FireTV
-Kindle E-Reader
-Luna
-Other
-Tablets
-Vega OS
-a4k.amazon.com
-alexa.amazon.com
-alexaanswers.amazon.com
-blueprints.amazon.com
-com.amazon.clouddrive.photos
-com.amazon.dee.alexaonwearos
-com.amazon.dee.app
-com.amazon.kindle
-com.amazon.storm.lightning.client.aosp
-com.amazon.tahoe.freetime
-com.amazon.tails
-creator.amazon.com
-read.amazon.com
-skills-store.amazon.com
 Android & iOS App for REI Customers
 Any public cloud resource or infrastructure operated and managed by REI.
 http://collaboration.rei.com

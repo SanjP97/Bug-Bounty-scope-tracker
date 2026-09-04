@@ -1269,7 +1269,6 @@ Zendesk Public Repositories
 Zendesk Suite
 [Unico] Liveness Bypass
 a.root-servers.net (DNS service; DNS related)
-a4k.amazon.com
 a5s.hackerone-ext-content.com
 ab-platform-api.eu-east-1.indriverapp.com
 ab2b0c50cdc7b445391f99d4957850c5-cd4ccfdb37dfafad.elb.us-east-1.amazonaws.com
@@ -1347,8 +1346,6 @@ ak-static.cms-qa.nba.com
 ak-static.cms.nba.com
 akismet.com
 alert.logitech.com
-alexa.amazon.com
-alexaanswers.amazon.com
 alfred-uat-31.nonprod.syfe.com
 alfred.syfe.com
 all-inclusive.marriott.com
@@ -1617,7 +1614,6 @@ blog.unico.io
 blox.link
 bluecoats-qa.gleague.nba.com
 bluecoats.gleague.nba.com
-blueprints.amazon.com
 blueskytours.globalbookingsolutions.com
 bma.badoo.com
 bma.bumble.com
@@ -2182,7 +2178,6 @@ crash-reports.allizom.org
 crash-stats.allizom.org
 create.fortnite.com
 create.snapchat.com
-creator.amazon.com
 creatormarketplace.tiktok.com
 crm.na1.insightly.com
 crm.nextcloud.com
@@ -5596,7 +5591,6 @@ ras1.optus.com.au
 rates.rewire.com
 rea-group.com
 reach.hostinger.com
-read.amazon.com
 readonly.fareharbor.com
 realme 15 5G
 realme 15 Pro 5G
@@ -5788,7 +5782,6 @@ sipsynergy.co.uk
 site.rewire.com
 sites.fareharbor.com
 sketch.pixiv.net
-skills-store.amazon.com
 sky-dev.wnba.com
 sky-qa.wnba.com
 sky-qa2.wnba.com
