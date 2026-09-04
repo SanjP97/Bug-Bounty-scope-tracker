@@ -814,8 +814,6 @@ K9Pro
 K9s
 Kibana
 Kindle E-Reader
-Klarna Android App (com.myklarnamobile)
-Klarna iOS App (com.klarna.app)
 Klaviyo AWS/S3 Assets
 Klaviyo Infrascucture - 50.150.76.0/30
 Klaviyo Infrastructure - 12.109.179.242/32
@@ -906,7 +904,6 @@ Malwarebytes for Windows
 Managed OpenClaw
 Managed Property Assets
 Megaphone
-Merchant Portal
 MetaMask Browser Extension
 MetaMask SDK
 Mi Band
@@ -1497,7 +1494,6 @@ app.geneva-staging.chat
 app.geneva-staging.com
 app.greenhouse.io
 app.interseller.io
-app.klarna.com
 app.koho.ca
 app.krisp.ai
 app.larksuite.com
@@ -5233,10 +5229,6 @@ merch.23andme.com
 merchandise.opera-api.com
 merchant.crypto.com
 merchant.wolt.com
-merchantsignage.visa.com
-merchantsignageca.visa.com
-merchantsignageeu.visa.com
-merchantsignageglobal.visa.com
 mercury-dev.wnba.com
 mercury-qa.wnba.com
 mercury-qa2.wnba.com

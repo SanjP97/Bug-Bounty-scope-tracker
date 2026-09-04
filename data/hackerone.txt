@@ -814,10 +814,6 @@ downloads.varonis.com
 licensemgmt.varonis.com
 my.varonis.com
 support.varonis.com
-Klarna Android App (com.myklarnamobile)
-Klarna iOS App (com.klarna.app)
-Merchant Portal
-app.klarna.com
 [Unico] Liveness Bypass
 accountshomolog.acesso.io
 backend-sdk.uat.private.unico.run
@@ -1021,10 +1017,6 @@ https://www.visa.com.az/az_az/account/registration
 https://www.visa.com.ua/
 images.demand.cybersource.com
 info.authorize.net
-merchantsignage.visa.com
-merchantsignageca.visa.com
-merchantsignageeu.visa.com
-merchantsignageglobal.visa.com
 my.visa.fr
 myanmar.visa.com
 myvu.visauniversity.com
