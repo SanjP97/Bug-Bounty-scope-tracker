@@ -1512,15 +1512,6 @@ https://pentest-app.onetrust.com/
 https://marketplace.atlassian.com/apps/1231655/onlink-hr-systems-integration-for-jira?hosting=cloud&tab=overview
 https://marketplace.atlassian.com/apps/1232053/onramp-employee-onboarding-and-offboarding?hosting=cloud&tab=overview
 https://marketplace.atlassian.com/apps/1235010/onlink-ai-integration-toolkit-to-automate-your-workflows?hosting=cloud&tab=overview
-https://api.openai.com
-https://chat.openai.com
-https://chat.openai.com
-Third Party Targets
-OpenAI API Keys
-https://openai.com/
-https://platform.openai.com/playground
-Other
-Codex Desktop
 Agentic Tools
 https://openai.com/
 Other
@@ -1829,18 +1820,6 @@ https://marketplace.atlassian.com/apps/1235901/html-macro-pro-for-confluence?hos
 https://dashboard.pantheon.io
 ██████████████████████████████████
 https://www.pexels.com/
-https://api.pinterest.com
-https://apps.apple.com/us/app/pinterest/id429047995
-https://play.google.com/store/apps/details?id=com.pinterest&hl=en_US&gl=US
-https://play.google.com/store/apps/details?id=com.pinterest.twa&hl=en_US&gl=US
-https://chrome.google.com/webstore/detail/pinterest-save-button/gpdjojdkbbmdfjfahjcgigfpmkopogic?hl=en
-https://microsoftedge.microsoft.com/addons/detail/pinterest-save-button/bkgoflemacdadndiohhdnphcmdhacabg
-https://addons.mozilla.org/en-US/firefox/addon/pinterest/
-https://apps.apple.com/us/app/save-to-pinterest/id6473649042
-https://github.com/pinterest/
-https://www.shffls.com
-https://play.google.com/store/apps/details?id=com.pinterest.shuffles
-https://apps.apple.com/us/app/shuffles-by-pinterest/id1573869498
 https://pixabay.com/
 https://my.planethoster.com
 https://api.planethoster.net
@@ -2167,6 +2146,22 @@ media.simplisafe.com
 https://simplisafe.com
 https://simplisafe.co.uk
 api.prd.commerce.simplisafe.com
+https://bb1.simplisafe.com
+https://bb2.simplisafe.com
+https://cb.simplisafe.com
+api.simplisafe.com (HSP Endpoints)
+api.services.simplisafe.com (HSP Endpoints)
+https://webapp.simplisafe.com
+https://webapp.simplisafe.co.uk
+https://apps.apple.com/us/app/simplisafe-home-security-app/id555798051
+https://play.google.com/store/search?q=simplisafe&c=apps
+mfa.simplisafe.com
+api.simplisafe.com (App Endpoints)
+api.services.simplisafe.com (App Endpoints)
+media.simplisafe.com
+https://simplisafe.com
+https://simplisafe.co.uk
+api.prd.commerce.simplisafe.com
 https://www.skroutz.gr
 All internet facing Sky UK/ROI assets
 All internet facing Sky Italy assets 
@@ -2433,6 +2428,13 @@ https://itunes.apple.com/us/app/vacation-rentals-owner-app-by-tripadvisor/id1045
 http://marlo.ext.tripadvisor.com
 chainabuse-staging.com
 api.chainabuse-staging.com
+https://www.20min.ch
+https://coral.20min.ch/
+https://api.20min.ch/
+https://videoplayer.20min.ch
+https://partner-feeds.20min.ch
+https://screenplayer.20min.ch
+https://audio.20min.ch/
 https://www.20min.ch
 https://coral.20min.ch/
 https://api.20min.ch/

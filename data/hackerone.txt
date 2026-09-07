@@ -3289,6 +3289,7 @@ Leaked/Сompromised Employee accounts
 Other Semrush Related Asset
 investors.semrush.com
 workflows.semrush.com
+www.semrush.com
 com.quora.android
 com.quora.app.mobile
 http://poe.com

@@ -620,7 +620,6 @@ Cloudflare Zero Trust/Cloudflare One
 Cloudkey
 Cluster-To-Cluster sync
 Coda Chrome Extension
-Codex Desktop
 CoinMarketCap Android app
 CoinMarketCap iOS app
 ColorOS
@@ -966,7 +965,6 @@ Open Source - Atlas
 Open Source - Spectator
 Open Source - Zuul
 Open source tools from Cloudflare
-OpenAI API Keys
 OpenSea Solana Marketplace Program
 Opsgenie (Android)
 Opsgenie (IoS)
@@ -1143,7 +1141,6 @@ Texts
 Third Party Application
 Third Party Marketplace Apps
 Third Party Snaps
-Third Party Targets
 Third-party dependency versions
 ThousandEyes Endpoint Agent 
 ThousandEyes Enterprise Agent
@@ -2607,7 +2604,6 @@ https://accounts.opera.com
 https://accounts.webmd.com
 https://accounts.welcomesoftware.com/
 https://acorns.com/
-https://addons.mozilla.org/en-US/firefox/addon/pinterest/
 https://admin.atlassian.com/
 https://admin.atlassian.com/atlassian-guard
 https://admin.lastpass.com
@@ -2656,9 +2652,7 @@ https://api.mafshoppingmalls.com
 https://api.mafshoppingmalls.com/
 https://api.myntra.com
 https://api.neogov.com
-https://api.openai.com
 https://api.optimizely.com/
-https://api.pinterest.com
 https://api.planethoster.net
 https://api.production.cde.tamg.cloud
 https://api.recordedfuture.com
@@ -2812,15 +2806,12 @@ https://apps.apple.com/us/app/northwestern-mutual/id1132579006
 https://apps.apple.com/us/app/okta-verify/id490179405
 https://apps.apple.com/us/app/opensea-nft-marketplace/id1582861796
 https://apps.apple.com/us/app/opera-ai-browser-with-vpn/id1411869974
-https://apps.apple.com/us/app/pinterest/id429047995
 https://apps.apple.com/us/app/pulse-for-booking-com-partners/id992795726
 https://apps.apple.com/us/app/quip-docs-chat-sheets/id647922896
 https://apps.apple.com/us/app/recorded-future/id1435597894
 https://apps.apple.com/us/app/roomba-home/id6504274697
 https://apps.apple.com/us/app/salt-work-and-get-rewarded/id1668462142
-https://apps.apple.com/us/app/save-to-pinterest/id6473649042
 https://apps.apple.com/us/app/share-rewards/id1465450657
-https://apps.apple.com/us/app/shuffles-by-pinterest/id1573869498
 https://apps.apple.com/us/app/simplisafe-home-security-app/id555798051
 https://apps.apple.com/us/app/soundcloud-music-audio/id336353151
 https://apps.apple.com/us/app/square-point-of-sale-pos/id335393788
@@ -2939,10 +2930,8 @@ https://cdn.optimizely.com/
 https://central.sophos.com
 https://central.sophos.com/
 https://cfc.naspers.com/
-https://chat.openai.com
 https://chrome.google.com/webstore/detail/coinbase-wallet-extension/hnfanknocfeofbddgcijnmhnfnkdnaad
 https://chrome.google.com/webstore/detail/ibotta-browser-extension/mfaedmjlefifhnhpgipjjiiekchaimpk?hl=en-US
-https://chrome.google.com/webstore/detail/pinterest-save-button/gpdjojdkbbmdfjfahjcgigfpmkopogic?hl=en
 https://chromewebstore.google.com/detail/indeed-recruiter-extensio/kiodpphbmnmcmnfgpnmkkhmkllnlflef
 https://chromewebstore.google.com/detail/loom-%E2%80%93-screen-recorder-sc/liecbddmkiiihnedobmlmillhodjkdmb?hl=en-US&pli=1
 https://citycentredeira.com/
@@ -3332,7 +3321,6 @@ https://github.com/nitrojs/nitro
 https://github.com/nodejs/node
 https://github.com/nuxt/nuxt
 https://github.com/okx/go-wallet-sdk
-https://github.com/pinterest/
 https://github.com/plaid/plaid-link-android
 https://github.com/plaid/plaid-link-ios
 https://github.com/plaid/plaid-ruby
@@ -4152,7 +4140,6 @@ https://metroconnect.app.ridewithvia.com
 https://mg.n0c.com/
 https://mgm.mo
 https://mguest.usaa.com/
-https://microsoftedge.microsoft.com/addons/detail/pinterest-save-button/bkgoflemacdadndiohhdnphcmdhacabg
 https://mids.monash.edu/
 https://mintmobile.com
 https://mlivetickets.monash.edu
@@ -4270,7 +4257,6 @@ https://platform.blismedia.com
 https://platform.development.blis.com
 https://platform.development2.blis.com
 https://platform.infiniteathlete.ai
-https://platform.openai.com/playground
 https://platform.rc.blis.com
 https://play.fga.dev/
 https://play.google.com/store/apps/details?hl=en&id=co.bitx.android.wallet
@@ -4342,9 +4328,6 @@ https://play.google.com/store/apps/details?id=com.opera.gx
 https://play.google.com/store/apps/details?id=com.opera.mini.native
 https://play.google.com/store/apps/details?id=com.opera.minipay
 https://play.google.com/store/apps/details?id=com.oslmobile.global
-https://play.google.com/store/apps/details?id=com.pinterest&hl=en_US&gl=US
-https://play.google.com/store/apps/details?id=com.pinterest.shuffles
-https://play.google.com/store/apps/details?id=com.pinterest.twa&hl=en_US&gl=US
 https://play.google.com/store/apps/details?id=com.quizlet.quizletandroid
 https://play.google.com/store/apps/details?id=com.recordedfuture.mobile&hl=en_US
 https://play.google.com/store/apps/details?id=com.saltlabs.app
@@ -4850,7 +4833,6 @@ https://www.restaurant-information.com
 https://www.riskrecon.com
 https://www.sdx.com/
 https://www.sharerewards.com/
-https://www.shffls.com
 https://www.shiseido.me/
 https://www.skidxb.com/
 https://www.skroutz.gr
@@ -6283,6 +6265,7 @@ www.ritzcarlton.com/
 www.rockstargames.com
 www.s-pankki.fi
 www.sa.dyson.com
+www.semrush.com
 www.sheer.com
 www.six-group.com
 www.soundon.global
