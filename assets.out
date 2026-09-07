@@ -620,6 +620,7 @@ Cloudflare Zero Trust/Cloudflare One
 Cloudkey
 Cluster-To-Cluster sync
 Coda Chrome Extension
+Codex Desktop
 CoinMarketCap Android app
 CoinMarketCap iOS app
 ColorOS
@@ -965,6 +966,7 @@ Open Source - Atlas
 Open Source - Spectator
 Open Source - Zuul
 Open source tools from Cloudflare
+OpenAI API Keys
 OpenSea Solana Marketplace Program
 Opsgenie (Android)
 Opsgenie (IoS)
@@ -1141,6 +1143,7 @@ Texts
 Third Party Application
 Third Party Marketplace Apps
 Third Party Snaps
+Third Party Targets
 Third-party dependency versions
 ThousandEyes Endpoint Agent 
 ThousandEyes Enterprise Agent
@@ -2604,6 +2607,7 @@ https://accounts.opera.com
 https://accounts.webmd.com
 https://accounts.welcomesoftware.com/
 https://acorns.com/
+https://addons.mozilla.org/en-US/firefox/addon/pinterest/
 https://admin.atlassian.com/
 https://admin.atlassian.com/atlassian-guard
 https://admin.lastpass.com
@@ -2622,11 +2626,9 @@ https://analytics.neogov.com
 https://analytics.welcomesoftware.com/
 https://answers.irobot.com
 https://api-a.usaa.com
-https://api-businessportal.origin.com.au
 https://api-core.deriv.com
 https://api-iam.intercom.io
 https://api-next.flatmates.com.au
-https://api-portal.originzero.com.au
 https://api-prod.retailsso.com
 https://api-prod.thatconceptstore.com/
 https://api-ws.thefork.com
@@ -2652,14 +2654,15 @@ https://api.mafshoppingmalls.com
 https://api.mafshoppingmalls.com/
 https://api.myntra.com
 https://api.neogov.com
+https://api.openai.com
 https://api.optimizely.com/
+https://api.pinterest.com
 https://api.planethoster.net
 https://api.production.cde.tamg.cloud
 https://api.recordedfuture.com
 https://api.requirementyogi.com
 https://api.riskrecon.com
 https://api.riskrecon.eu
-https://api.rx.originenergy.com.au/v1/lpg/graphql
 https://api.shop.ua.com/graphql
 https://api.simnext.bullish-test.com
 https://api.staging.luno.com/
@@ -2806,12 +2809,15 @@ https://apps.apple.com/us/app/northwestern-mutual/id1132579006
 https://apps.apple.com/us/app/okta-verify/id490179405
 https://apps.apple.com/us/app/opensea-nft-marketplace/id1582861796
 https://apps.apple.com/us/app/opera-ai-browser-with-vpn/id1411869974
+https://apps.apple.com/us/app/pinterest/id429047995
 https://apps.apple.com/us/app/pulse-for-booking-com-partners/id992795726
 https://apps.apple.com/us/app/quip-docs-chat-sheets/id647922896
 https://apps.apple.com/us/app/recorded-future/id1435597894
 https://apps.apple.com/us/app/roomba-home/id6504274697
 https://apps.apple.com/us/app/salt-work-and-get-rewarded/id1668462142
+https://apps.apple.com/us/app/save-to-pinterest/id6473649042
 https://apps.apple.com/us/app/share-rewards/id1465450657
+https://apps.apple.com/us/app/shuffles-by-pinterest/id1573869498
 https://apps.apple.com/us/app/simplisafe-home-security-app/id555798051
 https://apps.apple.com/us/app/soundcloud-music-audio/id336353151
 https://apps.apple.com/us/app/square-point-of-sale-pos/id335393788
@@ -2902,7 +2908,6 @@ https://bugcrowd.lucky.felixforus.ca
 https://bugs.opera.com/
 https://bullish.com/
 https://business-staging.getmoneytree.com/
-https://businessportal.origin.com.au
 https://butlerfortrello.com/
 https://buyersedge.co.nz
 https://c.realme.com/eg/
@@ -2930,8 +2935,10 @@ https://cdn.optimizely.com/
 https://central.sophos.com
 https://central.sophos.com/
 https://cfc.naspers.com/
+https://chat.openai.com
 https://chrome.google.com/webstore/detail/coinbase-wallet-extension/hnfanknocfeofbddgcijnmhnfnkdnaad
 https://chrome.google.com/webstore/detail/ibotta-browser-extension/mfaedmjlefifhnhpgipjjiiekchaimpk?hl=en-US
+https://chrome.google.com/webstore/detail/pinterest-save-button/gpdjojdkbbmdfjfahjcgigfpmkopogic?hl=en
 https://chromewebstore.google.com/detail/indeed-recruiter-extensio/kiodpphbmnmcmnfgpnmkkhmkllnlflef
 https://chromewebstore.google.com/detail/loom-%E2%80%93-screen-recorder-sc/liecbddmkiiihnedobmlmillhodjkdmb?hl=en-US&pli=1
 https://citycentredeira.com/
@@ -2985,7 +2992,6 @@ https://crypto.com/nft
 https://crypto.com/price
 https://cryptowallet.opera-api.com
 https://cstg-integ.uidapi.com
-https://customerportal.winconnect.com.au/login
 https://customers.us1.fga.dev/
 https://d1.utv.usaa.com
 https://d2.utv.usaa.com
@@ -2996,7 +3002,6 @@ https://dashboard.pantheon.io
 https://dashboard.rapyd.net/
 https://data.limeinternal.com
 https://data.prosus.com/
-https://dataportal.originenergy.com.au
 https://dbc-9a3f8ed1-7608.cloud.databricks.com
 https://dcfgatewaytst1.marriott.com/
 https://ddosportal.optus.com.au
@@ -3321,6 +3326,7 @@ https://github.com/nitrojs/nitro
 https://github.com/nodejs/node
 https://github.com/nuxt/nuxt
 https://github.com/okx/go-wallet-sdk
+https://github.com/pinterest/
 https://github.com/plaid/plaid-link-android
 https://github.com/plaid/plaid-link-ios
 https://github.com/plaid/plaid-ruby
@@ -4140,6 +4146,7 @@ https://metroconnect.app.ridewithvia.com
 https://mg.n0c.com/
 https://mgm.mo
 https://mguest.usaa.com/
+https://microsoftedge.microsoft.com/addons/detail/pinterest-save-button/bkgoflemacdadndiohhdnphcmdhacabg
 https://mids.monash.edu/
 https://mintmobile.com
 https://mlivetickets.monash.edu
@@ -4257,6 +4264,7 @@ https://platform.blismedia.com
 https://platform.development.blis.com
 https://platform.development2.blis.com
 https://platform.infiniteathlete.ai
+https://platform.openai.com/playground
 https://platform.rc.blis.com
 https://play.fga.dev/
 https://play.google.com/store/apps/details?hl=en&id=co.bitx.android.wallet
@@ -4328,6 +4336,9 @@ https://play.google.com/store/apps/details?id=com.opera.gx
 https://play.google.com/store/apps/details?id=com.opera.mini.native
 https://play.google.com/store/apps/details?id=com.opera.minipay
 https://play.google.com/store/apps/details?id=com.oslmobile.global
+https://play.google.com/store/apps/details?id=com.pinterest&hl=en_US&gl=US
+https://play.google.com/store/apps/details?id=com.pinterest.shuffles
+https://play.google.com/store/apps/details?id=com.pinterest.twa&hl=en_US&gl=US
 https://play.google.com/store/apps/details?id=com.quizlet.quizletandroid
 https://play.google.com/store/apps/details?id=com.recordedfuture.mobile&hl=en_US
 https://play.google.com/store/apps/details?id=com.saltlabs.app
@@ -4378,14 +4389,11 @@ https://playlist.link
 https://plugins.matomo.org/developer/innocraft
 https://plugins.matomo.org/developer/matomo-org
 https://pods.link
-https://portal-api.anz.kinergysolutions.com
 https://portal.3cx.com
 https://portal.afterpay.com
-https://portal.anz.kinergysolutions.com
 https://portal.clearpay.co.uk
 https://portal.clearpay.com
 https://portal.iFoodpago.com.br
-https://portal.originzero.com.au
 https://portal.riskrecon.com
 https://portal.riskrecon.eu
 https://portal.unifiedid.com
@@ -4456,7 +4464,6 @@ https://sfleet.cortexpowered.com
 https://sflower.cortexpowered.com
 https://shop.ifood.com.br
 https://shop.monash.edu/
-https://sign.originzero.com.au
 https://signal.pulsepoint.com/hcp365/#/dashboard/advertiser/6603/overview
 https://signal.pulsepoint.com/hcpexplorer/#/dashboard/eventsExplorer
 https://signature.blis.com
@@ -4483,7 +4490,6 @@ https://sprint.com
 https://square.online
 https://squareup.com/
 https://src.mastercard.com/profile/enroll
-https://ssu.staging.myconnect.com.au/get-connected
 https://stadtwien-my.sharepoint.com/
 https://staff.monash
 https://staging-api.bany.dev/
@@ -4812,7 +4818,6 @@ https://www.opposhop.cn/
 https://www.opposhop.cn/m/
 https://www.optus.com.au/osp-ecare
 https://www.optus.com.au/prepaid/activate
-https://www.originenergy.com.au/
 https://www.osl.com/en
 https://www.osl.com/hk-en
 https://www.outsourcing.optus.net.au/eFRAMS3/
@@ -4833,6 +4838,7 @@ https://www.restaurant-information.com
 https://www.riskrecon.com
 https://www.sdx.com/
 https://www.sharerewards.com/
+https://www.shffls.com
 https://www.shiseido.me/
 https://www.skidxb.com/
 https://www.skroutz.gr
@@ -4899,8 +4905,6 @@ https://www.webmd.com
 https://www.weebly.com/
 https://www.whosampled.com/
 https://www.wien.gv.at
-https://www.winconnect.com.au/get-connected/
-https://www.winconnect.com.au/moving-out/
 https://www.wyze.com/products/wyze-cam
 https://www.xvideos.net/app/
 https://www.ynab.com/
@@ -4917,7 +4921,6 @@ https://zhongbao-ear.heytap.com/
 https://zhongbao.heytap.com/
 https://zuora-ecommerce-prod.iot.irobotapi.com/dev/v1/ecommerce/notifications/raas
 hub-api-sandbox.remitly.io
-hub.myconnect.com.au
 hub.vroid.com
 hub.yoti.com
 hubspot.net
@@ -5269,7 +5272,6 @@ myaccount-cn.payoneer.com
 myaccount-hardening.dynatracelabs.com
 myaccount.payoneer.com
 myanmar.visa.com
-myconnect.com.au
 myself.tw.coupang.com
 mystics-dev.wnba.com
 mystics-qa.wnba.com
@@ -5502,8 +5504,6 @@ pontoon.allizom.org
 portal-api.coinmarketcap.com
 portal.23andme.com
 portal.arkoselabs.com
-portal.myconnect.com.au
-portal.myconnect.com.au/new-connection
 portal.nextcloud.com
 portal.polygon.technology
 portal.taxi.booking.com
@@ -6211,6 +6211,7 @@ www.hyatt.com
 www.hyattconnect.com
 www.hyattinclusivecollection.com
 www.instacart.com
+www.ipbooster.com
 www.jaybirdsport.com
 www.kayak.com
 www.kiwi.com
