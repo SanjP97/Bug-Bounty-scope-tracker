@@ -2040,8 +2040,6 @@ dl.boxcloud.com
 iOS Box Mobile App
 m.box.com
 notes.services.box.com
-signrequest.com
-sr-staging-1.com
 upload.box.com
 Exodus Desktop Wallet
 Smart Contract: Solana - EQYRmLmkE7G7a2WQyojwrXg4SeguypCdnbm3ecncizsd
@@ -3291,6 +3289,10 @@ www.semrush.com
 com.quora.android
 com.quora.app.mobile
 http://poe.com
+Brave Browser Desktop
+Brave websites
+com.brave.browser
+com.brave.ios.browser
 Burp Collaborator
 Burp Suite DAST
 Burp Suite Extension (BApps)
