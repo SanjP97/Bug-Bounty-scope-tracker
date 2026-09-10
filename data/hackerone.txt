@@ -325,6 +325,7 @@ id6472513080
 thebrowser.company
 https://apps.apple.com/us/app/verily-me/id6448808133
 https://play.google.com/store/apps/details?id=com.verily.me
+Neon-supported extensions
 https://console-stage.neon.build/
 https://console.neon.tech/
 https://console.neon.tech/api/v2/
@@ -2334,8 +2335,10 @@ www.instacart.com
 403546234
 427916203
 483394780
+506426310
 531549799
 566635048
+642441300
 880759727
 987675995
 com.carrentals
@@ -2899,6 +2902,7 @@ sgnlapis.cloud
 www.crowdstrike.com
 www.crowdstrike.org
 Databricks Free Edition
+Lakebase-Supported extensions
 Open Scope
 accounts.cloud.databricks.com
 databricks.com
