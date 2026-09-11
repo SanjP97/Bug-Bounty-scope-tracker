@@ -705,11 +705,10 @@ Figma Weave
 Figma for Microsoft Teams
 Figma iOS and Android apps
 Files.com Command Line Interface (CLI) App
-Files.com Desktop v4 App (previously known as Desktop App) 
 Files.com Desktop v6 App
 Files.com Mobile App
 Files.com On-Premise Agent
-Files.com SDK's
+Files.com SDKs and MCP
 FindN2
 FindN2Flip
 FindN3
@@ -1338,9 +1337,6 @@ airFiber
 airMAX
 airtable.js SDK (https://www.npmjs.com/package/airtable)
 ak-static-dev.nba.com
-ak-static.cms-dev.nba.com
-ak-static.cms-qa.nba.com
-ak-static.cms.nba.com
 akismet.com
 alert.logitech.com
 alfred-uat-31.nonprod.syfe.com
@@ -1742,7 +1738,6 @@ cloud.threatdown.com
 cloud8.8x8.com
 cloudflareworkers.com
 cmapi.tw.coupang.com
-cms.nba.com
 co.mona.android
 coalition-dev.nba.com
 coalition-qa.nba.com
@@ -2715,6 +2710,7 @@ https://app.saltlabs.com/
 https://app.staging.luno.com/
 https://app.staging.saltlabs.com/
 https://app.thousandeyes.com/
+https://app.web.com
 https://app.welcomesoftware.com/
 https://app.wisdomtreeconnect.com
 https://app.wisdomtreeconnect.com/api/
