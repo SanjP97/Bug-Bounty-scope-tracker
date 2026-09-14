@@ -688,6 +688,7 @@ Elastic Synthetics Monitoring
 Elasticsearch
 Enjin Blockchain
 Eno® Browser Extension
+Enterprise Audio/Video
 Enterprise Edition Products and Tools
 EpicGamesLauncher.exe    
 EpicOnlineServices
@@ -1138,7 +1139,7 @@ Superhuman Go
 Superhuman Mail
 Superhuman Mail Chrome Extension
 Superhuman Mail Desktop App
-T&P Servers
+T&P Servers (Temporarily Out of Scope)
 Tablets
 Tap to Pay (Android)
 Tap to Pay (iOS)
@@ -1198,6 +1199,7 @@ UniFi Protect
 UniFi Switches
 UniFi Talk
 UniFi Wireless Access Points
+UniFi-Play
 University Platform
 UnrealEditorFortnite-Win64-Shipping.exe
 Upwork - Android Application
@@ -3182,14 +3184,11 @@ https://github.com/basecamp/once-campfire
 https://github.com/basecamp/trix
 https://github.com/basecamp/writebook
 https://github.com/circlefin/aptos-cctp
-https://github.com/circlefin/arc-node
-https://github.com/circlefin/arc-remote-signer
 https://github.com/circlefin/buidl-wallet-contracts
 https://github.com/circlefin/evm-cctp-contracts
 https://github.com/circlefin/evm-cpn-contracts
 https://github.com/circlefin/evm-gateway-contracts
 https://github.com/circlefin/evm-xreserve-contracts
-https://github.com/circlefin/malachite
 https://github.com/circlefin/noble-fiattokenfactory
 https://github.com/circlefin/solana-cctp-contracts
 https://github.com/circlefin/solana-gateway-contracts
@@ -5689,8 +5688,6 @@ rockstarnorth.com
 roominglist.hyatt.com
 router.geneva-staging.com
 row.pro
-rpc.drpc.testnet.arc.network
-rpc.testnet.arc.network
 rs-open-api.tw.coupang.com
 rs.visa.com
 rt.playcanvas.com
