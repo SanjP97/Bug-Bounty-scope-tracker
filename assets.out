@@ -564,6 +564,8 @@ Bot Management
 Box Drive
 Box Tools
 Braintree SDK
+Brave Browser Desktop
+Brave websites
 Broken Link
 Browser Isolation
 BrowserGuard (Firefox/Chrome/Safari browser extension)
@@ -1822,6 +1824,8 @@ com.boozt
 com.boozt.app
 com.boozt.booztlet
 com.booztlet
+com.brave.browser
+com.brave.ios.browser
 com.bumble.app
 com.bumblebff.app
 com.bykea.pk
@@ -4536,6 +4540,7 @@ https://student.classdojo.com
 https://student.monash
 https://studentplacements.monash.edu
 https://suggestions.opera-api.com
+https://super.xyz
 https://superbet.pl
 https://superbet.ro
 https://superbet.rs
@@ -5221,8 +5226,6 @@ memphis-qa.gleague.nba.com
 memphis.gleague.nba.com
 mercadobackoffice.com
 mercadoenvios.com.ve
-mercadolibreexperience.cl
-mercadolivreexperience.com.br/
 mercadopago.com.ve
 mercadoplay.co
 mercadoplay.com.pe

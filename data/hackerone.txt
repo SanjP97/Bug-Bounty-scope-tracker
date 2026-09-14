@@ -1262,6 +1262,7 @@ https://napoleoncasino.be/nl-be/game/plinko-napoleon?demo=false
 https://napoleondice.be
 https://napoleongames.be
 https://napoleonsports.be
+https://super.xyz
 https://superbet.pl
 https://superbet.ro
 https://superbet.rs
@@ -2415,8 +2416,6 @@ meliplay.com.pe
 meliplay.com.uy
 mercadobackoffice.com
 mercadoenvios.com.ve
-mercadolibreexperience.cl
-mercadolivreexperience.com.br/
 mercadopago.com.ve
 mercadoplay.co
 mercadoplay.com.pe
@@ -3272,6 +3271,10 @@ www.semrush.com
 com.quora.android
 com.quora.app.mobile
 http://poe.com
+Brave Browser Desktop
+Brave websites
+com.brave.browser
+com.brave.ios.browser
 Burp Collaborator
 Burp Suite DAST
 Burp Suite Extension (BApps)
