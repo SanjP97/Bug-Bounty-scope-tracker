@@ -819,6 +819,8 @@ K9Pro
 K9s
 Kibana
 Kindle E-Reader
+Klarna Android App (com.myklarnamobile)
+Klarna iOS App (com.klarna.app)
 Klaviyo AWS/S3 Assets
 Klaviyo Infrascucture - 50.150.76.0/30
 Klaviyo Infrastructure - 12.109.179.242/32
@@ -911,6 +913,7 @@ Malwarebytes for Windows
 Managed OpenClaw
 Managed Property Assets
 Megaphone
+Merchant Portal
 MetaMask Browser Extension
 MetaMask SDK
 Mi Band
@@ -1493,6 +1496,7 @@ app.geneva-staging.chat
 app.geneva-staging.com
 app.greenhouse.io
 app.interseller.io
+app.klarna.com
 app.koho.ca
 app.krisp.ai
 app.larksuite.com
@@ -2213,6 +2217,8 @@ cweb-slot4-ott-dev.nba.com
 cweb-slot5-ott-dev.nba.com
 cweb-slot6-ott-dev.nba.com
 cweb-slot6-preview-ott-dev.nba.com
+d-you Wallet Android Test
+d-you Wallet iOS Test
 dash.cloudflare.com
 dashboard.doppler.com
 dashboard.magic.link
@@ -4645,6 +4651,11 @@ https://vtxapp9d.underarmour.com/
 https://vtxapp9p.underarmour.com/
 https://vtxapp9q.underarmour.com/
 https://vtxappd.underarmour.com/
+https://wallet-backend-sandbox.apps.sandbox.nwb.youniqx.com/v1/mdvm
+https://wallet-backend-sandbox.apps.sandbox.nwb.youniqx.com/v1/pns
+https://wallet-backend-sandbox.apps.sandbox.nwb.youniqx.com/v1/rwsca
+https://wallet-backend-sandbox.apps.sandbox.nwb.youniqx.com/v1/status-lists
+https://wallet-backend-sandbox.apps.sandbox.nwb.youniqx.com/v1/wpb
 https://wallet.blofin.com/en
 https://walletproxy.tapayments.com
 https://walletproxy1.tapayments.com
@@ -5248,6 +5259,7 @@ metahuman.unrealengine.com
 metamask.io
 metasearch-api.booking.com
 metrics.int.remitly.com
+metrocompetitions.com
 meu1.badoo.com
 mexicogames.nba.com
 mfa.simplisafe.com
