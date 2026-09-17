@@ -548,6 +548,7 @@ Beats - Osquerybeat
 Beats - Packetbeat
 Beats - Winlogbeat
 Beeper
+BigQuery
 Binance Desktop Application
 Binance Mobile Application for Android
 Binance Mobile Application for iOS
@@ -1442,12 +1443,14 @@ api.ort-one-pingone.com
 api.paybox.sh
 api.prd.commerce.simplisafe.com
 api.privy.io
+api.pro.faraday.ai
 api.prod.whoop.com
 api.rapyd.net
 api.razorpay.com
 api.reddit.com
 api.remitly.io
 api.robinhood.com
+api.row.pro
 api.ryadom.kz
 api.segment.io
 api.sendgrid.com
@@ -1642,7 +1645,6 @@ business.snapchat.com
 business.tiktok.com
 business.truecaller.com
 businesshelp.snapchat.com
-buy.faraday.ai
 buy.logitech.com
 buy.moonpay.com
 by.visa.com
@@ -5163,6 +5165,7 @@ mcdalerts-qa.nba.com
 mcdalerts-uat.nba.com
 mcdalerts.nba.com
 mcp.8x8.com
+mcp.faraday.ai
 mcp.staging.airtable.com
 mcp.stripe.com
 mds.marriott.com
@@ -5513,6 +5516,7 @@ priceline.com
 priority.eu-east-1.indriverapp.com
 pro-api.coinmarketcap.com
 pro.coinmarketcap.com
+pro.faraday.ai
 prod-mipaasiaasservices.marriott.com
 prod.meeshoapi.com
 prod.ros.rockstargames.com
