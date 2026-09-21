@@ -488,6 +488,7 @@ Anker soundcore Work D3200
 Any FIS asset is in scope
 Any Other Sophos Product or Service
 Any Verified Dell-Controlled Endpoint (domains/IP space/etc.)	
+Any host verified to be owned by Tesla Motors Inc. (domains/IP space/etc.)
 Any host/web property verified to be owned by Twilio et al.
 Any host/web property/mobile app verified to be owned by Indeed
 Any other Epic games owned asset not listed in the out of scope section
@@ -1138,6 +1139,8 @@ T&P Servers (Temporarily Out of Scope)
 Tablets
 Tap to Pay (Android)
 Tap to Pay (iOS)
+Tesla Energy hardware you own
+Tesla vehicle hardware that you own
 Texts
 Third Party Application
 Third Party Marketplace Apps
@@ -2811,6 +2814,7 @@ https://apps.apple.com/us/app/shuffles-by-pinterest/id1573869498
 https://apps.apple.com/us/app/simplisafe-home-security-app/id555798051
 https://apps.apple.com/us/app/soundcloud-music-audio/id336353151
 https://apps.apple.com/us/app/t-mobile/id561625752
+https://apps.apple.com/us/app/tesla/id582007913
 https://apps.apple.com/us/app/tripadvisor-plan-book-trips/id284876795
 https://apps.apple.com/us/app/under-armour/id1092704571
 https://apps.apple.com/us/app/usaa-mobile/id312325565
@@ -4323,6 +4327,7 @@ https://play.google.com/store/apps/details?id=com.sixgroup.id&hl=en_US&pli=1
 https://play.google.com/store/apps/details?id=com.soundcloud.android&hl=en&gl=US
 https://play.google.com/store/apps/details?id=com.syftapp.android
 https://play.google.com/store/apps/details?id=com.tcx.sipphone14
+https://play.google.com/store/apps/details?id=com.teslamotors.tesla&hl=en_US&gl=US
 https://play.google.com/store/apps/details?id=com.tmobile.pr.mytmobile
 https://play.google.com/store/apps/details?id=com.transferwise.android&hl=en_US&gl=US
 https://play.google.com/store/apps/details?id=com.tranzmate&hl=en_US
