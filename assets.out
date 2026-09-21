@@ -539,14 +539,6 @@ Atlas Payments/Billing
 Authentication & ATO
 Backend endpoint: bug-bounty-be.glean.com
 Basecamp.app
-Beats
-Beats - Auditbeat
-Beats - Filebeat
-Beats - Heartbeat
-Beats - Metricbeat
-Beats - Osquerybeat
-Beats - Packetbeat
-Beats - Winlogbeat
 Beeper
 BigQuery
 Binance Desktop Application
@@ -674,18 +666,7 @@ Dyson Connected Products (IoT Hardware)
 EOS C# SDK
 Echo Family Devices
 EdgeMAX
-Elastic Agent
-Elastic Clients
-Elastic Cloud Enterprise (ECE)
-Elastic Cloud on Kubernetes (ECK)
 Elastic Credentials
-Elastic Defend
-Elastic Distributions of OpenTelemetry (EDOT)
-Elastic Enterprise Search
-Elastic Maps Server
-Elastic Package Registry
-Elastic Synthetics Monitoring
-Elasticsearch
 Enjin Blockchain
 Eno® Browser Extension
 Enterprise Audio/Video
@@ -723,7 +704,6 @@ Finicity Decisioning
 Finicity- Data Services
 Finicity- Open Banking Payment History application
 FireTV
-Fleet Server
 Forge Platform
 FortniteClient-Android-Shipping-arm64-es2.apk
 FortniteClient-Win64-Shipping.exe
@@ -812,7 +792,6 @@ K105G
 K9
 K9Pro
 K9s
-Kibana
 Kindle E-Reader
 Klarna Android App (com.myklarnamobile)
 Klarna iOS App (com.klarna.app)
@@ -881,7 +860,6 @@ Logitech MIXLINE
 Logitech Mice & Keyboards
 Logitech Options PC/MAC
 Logitech Sync
-Logstash
 Low Level Properties and Test environment
 Low impact, individually exposed Google Docs with no common root cause (see “Publicly accessible Google Document or Drive Links” in the “Corporate Targets” section)
 Luna
@@ -960,8 +938,6 @@ OKX Wallet Chrome Extension
 OKX Wallet Edge Add-ons
 OKX Wallet Safari Extension
 OKX iOS APP
-Observability - APM Agents
-Observability - APM Server
 Official Clients
 Official WordPress plugins
 Okta
@@ -1732,7 +1708,6 @@ cleveland.gleague.nba.com
 clicks.koho.ca
 client-api.arkoselabs.com
 cloud.app.box.com
-cloud.elastic.co
 cloud.forescout.com
 cloud.malwarebytes.com
 cloud.threatdown.com
@@ -2567,6 +2542,8 @@ http://sso-demo.gocardless-staging.io
 http://testnet.bybit.eu
 http://tsock.us1.twilio.com
 http://twilio.com/blog
+http://unifysquare.com/
+http://unisys.com/
 http://urc-auth-uefn.live.ucs.on.epicgames.com/
 http://urc-uefn.live.ucs.on.epicgames.com
 http://verified.clearme.com/dashboard
@@ -3830,7 +3807,6 @@ https://marketplace.atlassian.com/apps/1222649/macrosuite-easy-html-button-hide-
 https://marketplace.atlassian.com/apps/1222714/scio-search-crawler-for-confluence?hosting=cloud&tab=overview
 https://marketplace.atlassian.com/apps/1222715/scio-search-crawler-for-jira?hosting=cloud&tab=overview
 https://marketplace.atlassian.com/apps/1222737/jsbarcode-for-confluence?tab=overview&hosting=cloud
-https://marketplace.atlassian.com/apps/1222843/aio-tests-for-jira?hosting=cloud&tab=overview
 https://marketplace.atlassian.com/apps/1222932/speedy-pdf-sign-offs-for-jira-cloud?hosting=cloud&tab=overview
 https://marketplace.atlassian.com/apps/1222978/dynamic-fields-for-jira?hosting=cloud
 https://marketplace.atlassian.com/apps/1223149/azure-devops-confluence-connector?hosting=cloud&tab=overview

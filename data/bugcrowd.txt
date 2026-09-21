@@ -552,6 +552,11 @@ https://api.cloudinary.com
 https://res.cloudinary.com
 https://mediaflows.cloudinary.com/
 https://dimensions.cloudinary.com
+https://cloudinary.com/console
+https://api.cloudinary.com
+https://res.cloudinary.com
+https://mediaflows.cloudinary.com/
+https://dimensions.cloudinary.com
 ████████████████████
 ███████████████████████
 ███████████████████████
@@ -1407,7 +1412,6 @@ https://marketplace.atlassian.com/apps/1236139/capybara-github-azure-devops-for-
 https://market.android.com/details?id=com.myfitnesspal.android&rdid=com.myfitnesspal.android
 https://apps.apple.com/us/app/myfitnesspal-calorie-counter/id341232718
 https://app.navan.com
-https://marketplace.atlassian.com/apps/1222843/aio-tests-for-jira?hosting=cloud&tab=overview
 https://marketplace.atlassian.com/apps/1219230/advanced-portal-reports-for-service-desk?hosting=cloud&tab=overview
 https://marketplace.atlassian.com/apps/1238203/self-service-portal-report?hosting=cloud&tab=overview
 https://marketplace.atlassian.com/apps/1234378/modify-my-request?hosting=cloud&tab=overview
@@ -2472,6 +2476,8 @@ https://vtxappd.underarmour.com/
 54.83.32.16
 3.133.230.28
 3.19.172.158
+http://unisys.com/
+http://unifysquare.com/
 https://id.unity.com
 https://api.unity.com
 https://cloud.unity.com

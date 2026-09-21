@@ -2875,35 +2875,10 @@ Open Scope
 accounts.cloud.databricks.com
 databricks.com
 https://dbc-9a3f8ed1-7608.cloud.databricks.com
-Beats
-Beats - Auditbeat
-Beats - Filebeat
-Beats - Heartbeat
-Beats - Metricbeat
-Beats - Osquerybeat
-Beats - Packetbeat
-Beats - Winlogbeat
-Elastic Agent
-Elastic Clients
-Elastic Cloud Enterprise (ECE)
-Elastic Cloud on Kubernetes (ECK)
 Elastic Credentials
-Elastic Defend
-Elastic Distributions of OpenTelemetry (EDOT)
-Elastic Enterprise Search
-Elastic Maps Server
-Elastic Package Registry
-Elastic Synthetics Monitoring
-Elasticsearch
-Fleet Server
-Kibana
-Logstash
-Observability - APM Agents
-Observability - APM Server
 Other
 Software Supply Chain
 Subdomain takeover
-cloud.elastic.co
 GS Select iOS app
 api.foliofn.com
 apigw.foliofn.com
