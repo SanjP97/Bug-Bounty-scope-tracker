@@ -110,25 +110,6 @@ net.bitstamp.app
 nummus.robinhood.com
 www.bitstamp.net
 www.tradepmr.com
-Tier 1 OSS
-Tier 2 OSS
-Tier 3 OSS
-https://github.com/nitrojs/nitro
-https://github.com/nuxt/nuxt
-https://github.com/sveltejs/svelte
-https://github.com/vercel-labs/agent-skills
-https://github.com/vercel-labs/skills
-https://github.com/vercel/ai
-https://github.com/vercel/async-sema
-https://github.com/vercel/chat
-https://github.com/vercel/eve
-https://github.com/vercel/flags
-https://github.com/vercel/ms
-https://github.com/vercel/next.js
-https://github.com/vercel/swr
-https://github.com/vercel/turborepo
-https://github.com/vercel/vercel
-https://github.com/vercel/workflow
 1w.cash
 1w.run
 1win.com
@@ -1291,6 +1272,28 @@ vfo01.vodafone.om
 vfo02.vodafone.om
 vfo03.vodafone.om
 www.vodafone.om
+Vercel sandbox
+https://github.com/nitrojs/nitro
+https://github.com/nuxt/nuxt
+https://github.com/sveltejs/svelte
+https://github.com/vercel
+https://github.com/vercel-labs/agent-skills
+https://github.com/vercel-labs/skills
+https://github.com/vercel/ai
+https://github.com/vercel/async-sema
+https://github.com/vercel/chat
+https://github.com/vercel/eve
+https://github.com/vercel/flags
+https://github.com/vercel/ms
+https://github.com/vercel/next.js
+https://github.com/vercel/swr
+https://github.com/vercel/turborepo
+https://github.com/vercel/vercel
+https://github.com/vercel/workflow
+v0.app
+v0.dev
+vercel.app
+vercel.com
 ab-platform-api.eu-east-1.indriverapp.com
 alternativa.film
 api.ryadom.kz
@@ -3246,6 +3249,10 @@ www.semrush.com
 com.quora.android
 com.quora.app.mobile
 http://poe.com
+Brave Browser Desktop
+Brave websites
+com.brave.browser
+com.brave.ios.browser
 Burp Collaborator
 Burp Suite DAST
 Burp Suite Extension (BApps)
