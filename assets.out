@@ -303,7 +303,6 @@
 3d.cs.money
 3rd Party Integrations (Hytale-side issues only)
 3rd-Party Provider Vulnerability
-3rdparty-apis.coinmarketcap.com
 403546234
 403684733
 406056744
@@ -541,10 +540,6 @@ Backend endpoint: bug-bounty-be.glean.com
 Basecamp.app
 Beeper
 BigQuery
-Binance Desktop Application
-Binance Mobile Application for Android
-Binance Mobile Application for iOS
-Binance macOS Application
 Bitdefender Antimalware Engines
 Bitdefender BOX v2
 Bitdefender Total Security
@@ -620,8 +615,6 @@ Cloudkey
 Cluster-To-Cluster sync
 Coda Chrome Extension
 Codex Desktop
-CoinMarketCap Android app
-CoinMarketCap iOS app
 ColorOS
 Community Management & Communications
 Compass
@@ -1152,9 +1145,6 @@ Trello Desktop Client
 Trello Mobile App for Android
 Trello Mobile App for iOS
 Trello Third Party Powerups
-Trustwallet Android App
-Trustwallet Chrome Extension
-Trustwallet iOS App
 Twilio APIs
 UCRM
 UEFN
@@ -1349,13 +1339,11 @@ api.8x8.com
 api.adm.cloud.com
 api.airbnb.com
 api.anthropic.com
-api.binance.com
 api.blockchain.info
 api.box.com
 api.chainabuse-staging.com
 api.circle.com
 api.cloudflare.com
-api.coinmarketcap.com
 api.creditkarma.com
 api.deriv.com
 api.dicey.com
@@ -1732,7 +1720,6 @@ code.playcanvas.com
 code.yoti.com
 codeofconduct.visa.com
 codex.wordpress.org,codex.bbpress.org,codex.buddypress.org
-coinmarketcap.com
 collections.portswigger.net
 com.3mosquitos.MercadoLibre
 com.Hyatt
@@ -2863,7 +2850,6 @@ https://basescan.org/address/0xf469eC9dEBf7F0adEBA4d1Db2FF5c70707bEeB30
 https://bb1.simplisafe.com
 https://bb2.simplisafe.com
 https://beta.arlo.com
-https://binance.tr
 https://bistro.sk
 https://bitbucket.org
 https://bitgo.ae/
@@ -3338,7 +3324,6 @@ https://github.com/square/wire
 https://github.com/sveltejs/svelte
 https://github.com/tempus-ex
 https://github.com/tronprotocol/java-tron
-https://github.com/trustwallet/wallet-core/
 https://github.com/valvesoftware
 https://github.com/vercel
 https://github.com/vercel-labs/agent-skills
@@ -4671,8 +4656,6 @@ https://www.atlassian.com/software/jira/work-management
 https://www.atlassian.com/software/rovo
 https://www.atlassian.com/software/rovo-dev
 https://www.authy.com/download/
-https://www.binance.com/
-https://www.binance.us/
 https://www.bitdefender.com/business/smb-products/business-security.html?cid=ppc|b|google|smb&s_kwcid=AL!6076!3!514235572261!p!!g!!bitdefender%20business&utm_term=bitdefender%20business&utm_campaign=USA+SMB+Branded+30&utm_source=adwords&utm_medium=ppc&hsa_acc=8155205354&hsa_cam=7848657822&hsa_grp=124745713150&hsa_ad=514235572261&hsa_src=g&hsa_tgt=kwd-308396066873&hsa_kw=bitdefender%20business&hsa_mt=p&hsa_net=adwords&hsa_ver=3&gclid=CjwKCAjwqIiFBhAHEiwANg9szk-Rr3iSn4mrwsvAUOn-pzrO12ufWDmyCLopWigaLQW0t_xtlBE65RoCr6kQAvD_BwE
 https://www.bitpanda.com/
 https://www.bitpanda.com/academy/en/
@@ -5507,7 +5490,6 @@ playerhealthvideo.nba.com
 playwonderbox.com
 playwonderbox.com.br
 pmtcards.newegg.com
-portal-api.coinmarketcap.com
 portal.23andme.com
 portal.arkoselabs.com
 portal.myconnect.com.au
@@ -5534,8 +5516,6 @@ presentationtracking.netflix.com
 press.priceline.com
 priceline.com
 priority.eu-east-1.indriverapp.com
-pro-api.coinmarketcap.com
-pro.coinmarketcap.com
 pro.faraday.ai
 prod-mipaasiaasservices.marriott.com
 prod.meeshoapi.com
