@@ -487,7 +487,6 @@ Anker
 Anker soundcore Work D3200
 Any FIS asset is in scope
 Any Other Sophos Product or Service
-Any Verified Dell-Controlled Endpoint (domains/IP space/etc.)	
 Any host verified to be owned by Tesla Motors Inc. (domains/IP space/etc.)
 Any host/web property verified to be owned by Twilio et al.
 Any host/web property/mobile app verified to be owned by Indeed
@@ -2617,6 +2616,7 @@ https://api-ws.thefork.com
 https://api.20min.ch/
 https://api.aiven.io/login
 https://api.bitpanda.com
+https://api.bugcrowd.com
 https://api.bykea.net
 https://api.canva.com
 https://api.classdojo.com
@@ -2887,6 +2887,7 @@ https://bugcrowd-pam-###.at.oktapreview.com
 https://bugcrowd-pam-###.oktapreview.com
 https://bugcrowd-pam-###.workflows.oktapreview.com
 https://bugcrowd.charm.felixforus.ca/home
+https://bugcrowd.com/programs
 https://bugcrowd.lucky.felixforus.ca
 https://bugs.opera.com/
 https://bullish.com/
@@ -2953,9 +2954,6 @@ https://connect.soundcloud.com
 https://consensus2026.sandbox.events.coindesk.com/
 https://console-stage.neon.build/
 https://console.aiven.io/login
-https://console.delltechnologies.com/nav/administration
-https://console.delltechnologies.com/nav/billing
-https://console.delltechnologies.com/nav/invoice
 https://console.neon.tech/
 https://console.neon.tech/api/v2/
 https://console.ort-one-pingone.com/?env=361b34ef-2725-4fd9-af1b-a2b189df3d05
@@ -3014,6 +3012,7 @@ https://digits.t-mobile.com
 https://dimensions.cloudinary.com
 https://disclosure-test.six-exchange-regulation.com/
 https://docker-staging.adstruc.com
+https://docs.bugcrowd.com/
 https://docs.eazybi.com/
 https://docs.keeper.io/en/keeperpam
 https://docs.keeper.io/en/keeperpam/commander-cli/overview
@@ -3367,6 +3366,7 @@ https://gitlab.com/gitlab-org/gitlab-shell
 https://gitlab.com/gitlab-org/gitlab-vscode-extension
 https://go.elementor.com/
 https://gomastercard.com.au
+https://gov.bugcrowd.net
 https://gpt.lime.bike
 https://graphql.acorns.com
 https://graphql.seek.com
@@ -3396,6 +3396,7 @@ https://ibconnect.internetbrands.com
 https://id.atlassian.com/login
 https://id.recordedfuture.com
 https://id.unity.com
+https://identity.bugcrowd.com/
 https://identity.majidalfuttaim.com
 https://identity.monash.edu
 https://identity.monash.edu/
@@ -4538,6 +4539,7 @@ https://ticket.multiplayer.classdojo.com
 https://tidal.com/
 https://tools-api.cryptocompare.com/
 https://tr.ee
+https://tracker.bugcrowd.com
 https://tracker.naspers.com/
 https://transcodes-cdn.vistarmedia.com
 https://transfer.underarmour.com/
