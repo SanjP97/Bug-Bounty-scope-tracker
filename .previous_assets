@@ -3802,6 +3802,8 @@ https://gate.sendbird.com
 https://gateway-api.nutaku.net
 https://gateway.optus.com.au/api/ai-search/search/v1
 https://gatewaydsapdev2.marriott.com/
+https://gatewaydsapprd.marriott.com/v1/
+https://gatewaydsapprd.marriott.com/v2/
 https://gatewaydsaptst1.marriott.com/
 https://gatewaydsaptst2.marriott.com/
 https://gcsm.oppoit.com/
@@ -6334,6 +6336,7 @@ kit.snapchat.com
 klarna.com
 klarna.net
 klarnacdn.net
+kmc.kaltura.com
 knowledge.nextcloud.com
 knox.beta.blendlabs.com
 konghq.com
@@ -6520,6 +6523,7 @@ medias.watsons.com.ph
 medias.watsons.com.sg
 medias.watsons.com.tw
 medias.watsons.vn
+mediaspace.kaltura.com
 medical.23andme.com
 meechum.netflix.com
 meesho.io
