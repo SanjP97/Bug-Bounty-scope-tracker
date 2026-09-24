@@ -624,7 +624,6 @@ CoinMarketCap iOS app
 ColorOS
 Community Management & Communications
 Compass
-Confidence Domains
 Content Authorization Targets
 Content authorization vulnerabilities affecting only the in-browser player
 Copilot
@@ -1484,6 +1483,7 @@ app.koho.ca
 app.krisp.ai
 app.larksuite.com
 app.launchdarkly.com
+app.livenation.com
 app.moderntreasury.com
 app.mona.co
 app.moonpay.com
@@ -1500,6 +1500,13 @@ app.snapchat.com
 app.starbucks.com
 app.stg.inspectorio.com
 app.taxjar.com
+app.ticketmaster.ca
+app.ticketmaster.co.uk
+app.ticketmaster.com
+app.ticketmaster.com.au
+app.ticketmaster.com.mx
+app.ticketmaster.eu
+app.ticketmaster.ie
 app.whoop.com
 app3.rewire.to
 applause1.magisto.com
@@ -2267,6 +2274,7 @@ digili.s-cloud.fi
 direct-demo.currencycloud.com
 direct.playstation.com
 distribution-xml.booking.com
+dk.royalarena.app
 dl.boxcloud.com
 dns0.optus.net.au
 dns1.optus.net.au
@@ -2379,6 +2387,7 @@ forum.playcanvas.com
 forum.sketchfab.com
 forums.malwarebytes.com
 fp-sg.tiktokv.com
+frontgatetickets.com
 fulfillment.23andme.com
 funding-webhooks.remitly.io
 furycloud.io
@@ -2746,6 +2755,7 @@ https://apps.apple.com/mo/app/%E7%BE%8E%E9%AB%98%E6%A2%85%E6%9C%83%E5%93%A1%E6%9
 https://apps.apple.com/mx/app/debix/id1581440132
 https://apps.apple.com/mx/app/schweizer-finanzmuseum/id1225222871
 https://apps.apple.com/mx/app/six-id/id1620496931
+https://apps.apple.com/no/app/royal-arena/id1181913144
 https://apps.apple.com/no/app/world-app-worldcoin-wallet/id1560859847
 https://apps.apple.com/nz/developer/just-eat-com/id383091095
 https://apps.apple.com/pl/app/opera-gx/id1559740799
@@ -2813,6 +2823,7 @@ https://apps.apple.com/us/app/soundcloud-music-audio/id336353151
 https://apps.apple.com/us/app/square-point-of-sale-pos/id335393788
 https://apps.apple.com/us/app/t-life/id1111876388
 https://apps.apple.com/us/app/tesla/id582007913
+https://apps.apple.com/us/app/ticketmaster-buy-sell-tickets/id500003565
 https://apps.apple.com/us/app/tripadvisor-plan-book-trips/id284876795
 https://apps.apple.com/us/app/under-armour/id1092704571
 https://apps.apple.com/us/app/usaa-mobile/id312325565
@@ -4494,6 +4505,7 @@ https://sign.originzero.com.au
 https://signal.pulsepoint.com/hcp365/#/dashboard/advertiser/6603/overview
 https://signal.pulsepoint.com/hcpexplorer/#/dashboard/eventsExplorer
 https://signature.blis.com
+https://signup.ticketmaster.com/bugbountytest
 https://simnext.bullish-test.com
 https://simplisafe.co.uk
 https://simplisafe.com
@@ -5092,7 +5104,6 @@ kartaview.org
 kayak.ai
 kidswebservices.com
 kit.snapchat.com
-kmc.kaltura.com
 knowledge.nextcloud.com
 knox.beta.blendlabs.com
 konghq.com
@@ -5126,6 +5137,8 @@ list-v2--netlify-plugins.netlify.app
 lists.nextcloud.com
 live-backstage.tiktok.com
 live-service.whatnot.com
+livenation.com
+livenation.me
 ljc-test.tw.coupang.com
 ljc.tw.coupang.com
 loanbuilder.com
@@ -5228,7 +5241,6 @@ media.remitly.io
 media.simplisafe.com
 mediaavail.nba.com
 mediaday.nba.com
-mediaspace.kaltura.com
 meechum.netflix.com
 meesho.io
 meetings.hyatt.com
@@ -5968,6 +5980,12 @@ texas-qa.gleague.nba.com
 texas.gleague.nba.com
 thebrowser.company
 thisiswhyweplay.nba.com
+ticketmaster.ca
+ticketmaster.co.uk
+ticketmaster.com
+ticketmaster.com.br
+ticketmaster.com.mx
+ticketmaster.de
 tickets.crypto.com
 tiktok.com
 tomoe.bykea.net
@@ -6260,7 +6278,9 @@ www.kiwi.com
 www.koho.ca
 www.lastminute.co.nz
 www.lastminute.com.au
+www.lineup.com.mx
 www.linkedin.com
+www.livenation.co.uk
 www.loanbuilder.com
 www.logicool.co.jp
 www.logitech-partner.com
@@ -6290,6 +6310,7 @@ www.mrjet.se
 www.mundi.com.br
 www.nba.com
 www.netflix.com
+www.onthewaterfrontfestival.com
 www.orbitz.com
 www.pangleglobal.com
 www.pixiv.net
@@ -6304,6 +6325,7 @@ www.quip.com
 www.redoxengine.com
 www.ritzcarlton.com/
 www.rockstargames.com
+www.royalarena.dk
 www.s-pankki.fi
 www.sa.dyson.com
 www.semrush.com
