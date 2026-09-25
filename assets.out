@@ -1345,7 +1345,6 @@ api-eu.floqast.app
 api-gateway.polygon.technology
 api-partner.spotify.com
 api-polygon-tokens.polygon.technology/
-api-sandbox.gocardless.com
 api-staging.airtable.com
 api-uat-bugbounty.nonprod.syfe.com
 api-wallet.web3auth.io
@@ -1548,7 +1547,6 @@ auth.privy.io
 auth.remitly.com
 auth.skypicker.com
 auth0.com	
-auth0.gocardless.com
 auth0.net
 authentication.clearme.com
 authentication.wolt.com
@@ -1566,7 +1564,6 @@ bal-uat.nba.com
 bal.nba.com
 ballistic.com
 ballistic.com.br
-bankaccountdata.gocardless.com
 basecamp-setup.exe
 bbPress Core
 bcny.com
@@ -2102,7 +2099,6 @@ competitive.fortnite.com
 concierge.clearme.com
 config.cic-bug-bounty.auth0app.com
 confluence.hyattdev.com
-connect-sandbox.gocardless.com
 connect.8x8.com
 connect.secure.wellsfargo.com
 console.anthropic.com
@@ -2254,7 +2250,6 @@ developer.authorize.net
 developer.crypto.com
 developer.currencycloud.com
 developer.cybersource.com
-developer.gocardless.com
 developer.gs.com
 developer.konghq.com
 developer.playcanvas.com
@@ -2314,6 +2309,7 @@ education.github.com
 eero Devices
 efast.marriott.com
 effecthouse.tiktok.com
+eg.ht
 eidhelp.marriott.com
 elm.nba.com
 embed.tumblr.com
@@ -2561,7 +2557,6 @@ http://ourhouse.underarmour.com/
 http://pay.monashcollege.edu.au/
 http://poe.com
 http://secure-iphone-xml.booking.com/json/
-http://sso-demo.gocardless-staging.io
 http://testnet.bybit.eu
 http://tsock.us1.twilio.com
 http://twilio.com/blog
@@ -3229,7 +3224,6 @@ https://github.com/fireblocks/mpc-lib
 https://github.com/freedomofpress/securedrop
 https://github.com/freedomofpress/securedrop-client
 https://github.com/freedomofpress/securedrop-workstation
-https://github.com/gocardless
 https://github.com/immutable/ts-immutable-sdk/tree/main/packages/passport/
 https://github.com/innocraft/
 https://github.com/jitsi
@@ -4234,7 +4228,6 @@ https://nubank.com.mx
 https://nvio.ar/
 https://nvio.mx/
 https://nvoice.usaa.com/
-https://ob-sandbox.gocardless.io
 https://octopus.com
 https://octopus.com/downloads
 https://odesli.co
@@ -5197,7 +5190,6 @@ maine-qa.gleague.nba.com
 maine.gleague.nba.com
 maintenance.logitech.com
 manage-dev.nba.com
-manage-sandbox.gocardless.com
 manage-teams-dev.nba.com
 manage-teams-qa.nba.com
 manage-teams-uat.nba.com
@@ -5448,9 +5440,7 @@ ns2.optusnet.com.au
 nummus.robinhood.com
 nycbasketball.nba.com
 oasisprod.marriott.com
-oauth-sandbox.gocardless.com
 oauth.deriv.com
-ob.gocardless.com
 obs-sensors.iris.acceptance.forescoutcloud.net
 obs-sensors.iris.production.forescoutcloud.net
 ocijlbex1prd.marriott.com
@@ -5513,7 +5503,6 @@ passport.larksuite.com
 passwordchallenge.marriott.com
 pastela.app
 pay-admin.exodus.io
-pay-sandbox.gocardless.com
 pay.8x8.com
 pay.exodus.io
 pay.ibex.exchange
@@ -5521,7 +5510,6 @@ pay.tokopediax.com
 pay.tw.coupang.com
 pay.wallet.tg
 paybridge.booking.com
-payer-details-sandbox.gocardless.com
 payment.pixiv.net
 payment.tw.coupang.com
 paymentcomponent.booking.com
@@ -6260,7 +6248,6 @@ www.geneva-staging.chat
 www.geneva-staging.com
 www.getaroom.com
 www.giving.marriott.com
-www.gocardless.com
 www.goodrx.com
 www.gr.dyson.com
 www.greenhouse.io
