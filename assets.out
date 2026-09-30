@@ -535,6 +535,7 @@ ArubaOS-CX Switches
 Atlas Charts
 Atlas Data Federation
 Atlas IAM
+Atlas Infinite
 Atlas Payments/Billing
 Authentication & ATO
 Backend endpoint: bug-bounty-be.glean.com
@@ -902,6 +903,8 @@ Mi/Redmi Phone
 Microsites
 MongoDB Assistant
 MongoDB Atlas
+MongoDB Atlas Agent Engine 
+MongoDB Atlas Agent Engine CLI and First Party Libraries
 MongoDB Community Server
 MongoDB Connectors
 MongoDB IntelliJ Plugin
@@ -2827,6 +2830,7 @@ https://apps.apple.com/us/app/under-armour/id1092704571
 https://apps.apple.com/us/app/usaa-mobile/id312325565
 https://apps.apple.com/us/app/verily-me/id6448808133
 https://apps.apple.com/us/app/viator-tours-activities/id434832826
+https://apps.apple.com/us/app/vinted-pre-loved-marketplace/id632064380
 https://apps.apple.com/us/app/wise-ex-transferwise/id612261027
 https://apps.apple.com/us/developer/10bis-co-il-ltd/id434368194
 https://apps.apple.com/us/developer/skipthedishes/id969229980
@@ -2873,6 +2877,7 @@ https://b2blsapi-a.usaa.com
 https://b2blsapi.usaa.com
 https://backblaze.com
 https://backend.ibotta.com/
+https://badger.it.vinted.com
 https://basescan.org/address/0xf469eC9dEBf7F0adEBA4d1Db2FF5c70707bEeB30
 https://bb1.simplisafe.com
 https://bb2.simplisafe.com
@@ -2918,6 +2923,7 @@ https://c.realme.com/ru/
 https://carecredit.com.au
 https://careers.etsy.com
 https://careers.thetradedesk.com
+https://careers.vinted.com
 https://cas-cf.euce1.indriverapp.com/api/passkey
 https://cash.app
 https://cashback.opera.com/
@@ -2961,6 +2967,7 @@ https://communities.epicgames.com
 https://community.etsy.com
 https://community.oppo.com/
 https://communityin.oppo.com/
+https://company.vinted.com
 https://compulsoryunits.monash.edu/
 https://confluence.atlassian.com/doc/install-atlassian-companion-992678880.html
 https://confluence.requirementyogi.com
@@ -4220,6 +4227,7 @@ https://neon.opera.com/cards/
 https://net.geo.opera.com
 https://newrelic.com/
 https://newrelic.com/blog
+https://news.vinted.com
 https://next.flatmates.com.au
 https://nice.wfmusaa.com
 https://nominatim.bykea.net
@@ -4394,6 +4402,7 @@ https://play.google.com/store/apps/details?id=edu.monash.monashmobile
 https://play.google.com/store/apps/details?id=ee.mtakso.client
 https://play.google.com/store/apps/details?id=es.grupobme.bmeconecta
 https://play.google.com/store/apps/details?id=exodusmovement.exodus&hl=en_IN
+https://play.google.com/store/apps/details?id=fr.vinted
 https://play.google.com/store/apps/details?id=io.opensea&hl=en_US&gl=US
 https://play.google.com/store/apps/details?id=jp.moneytree.moneytree&hl=en_AU&gl=US
 https://play.google.com/store/apps/details?id=mo.mgm.app
@@ -4464,6 +4473,8 @@ https://s2.utv.usaa.com
 https://safe.heytap.com/
 https://salesforce.quip.com/blog/desktop
 https://sandbox-api.fireblocks.io
+https://sandbox.vinted.com
+https://sandbox.vintedgo.com
 https://sb-console-api.fireblocks.io
 https://sb-mobile-api.fireblocks.io
 https://schulenwien.onmicrosoft.com
@@ -4574,6 +4585,7 @@ https://telemetry-polling.devicecloud.acceptance.forescoutcloud.net/v1/polling
 https://telemetry-polling.devicecloud.acceptance.forescoutcloud.net/v1/upload
 https://tempus-ex.com
 https://tess.service-now.com
+https://test-escalations.vintedgo.com
 https://testflight.apple.com/join/Y4cHu289
 https://testflight.apple.com/join/vwFxXX7t
 https://testnet-blockexplorer.electroneum.com
@@ -4919,6 +4931,9 @@ https://www.usaa.com
 https://www.usaainsurance.com/
 https://www.venturatvos.com
 https://www.verisign.com
+https://www.vinted.com
+https://www.vinted.net
+https://www.vintedgo.com
 https://www.visa.com.az/az_az/account/registration
 https://www.visa.com.ua/
 https://www.vr.fi/
@@ -6075,6 +6090,7 @@ voapi.8x8.com
 voices.nba.com
 volans.tech
 vote.nba.com
+voyageai.com
 vpn01.syd.optusnet.com.au
 vroid.com
 vth.nba.com
