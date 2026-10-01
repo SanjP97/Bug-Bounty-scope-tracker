@@ -466,7 +466,6 @@ Aiven for PostgreSQL
 Aiven for Valkey
 All Assets (other than Blinkit)
 All Chime Assets
-All Evergreen Assets (Excluding staging)
 All In Scope Targets
 All Motorola Devices running Android 13 and above. 
 All internet facing Sky DACH assets
@@ -676,6 +675,7 @@ Enterprise Audio/Video
 Enterprise Edition Products and Tools
 EpicGamesLauncher.exe    
 EpicOnlineServices
+Evergreen
 Exness Investor
 Exness Trade: Online Trading
 Exodus Desktop Wallet
@@ -906,12 +906,12 @@ MongoDB Assistant
 MongoDB Atlas
 MongoDB Atlas Agent Engine 
 MongoDB Atlas Agent Engine CLI and First Party Libraries
-MongoDB Community Server
 MongoDB Connectors
 MongoDB IntelliJ Plugin
 MongoDB MCP Server
 MongoDB Owned GitHub Repositories
 MongoDB Partner Integrations
+MongoDB Server
 MongoDB Shell
 MongoDB Toolchain
 Munkisrv Open Source Project
@@ -4125,6 +4125,7 @@ https://marketplace.atlassian.com/apps/133/custom-space-user-management-csum-for
 https://marketplace.atlassian.com/apps/133/custom-space-user-management-csum-for-dc-and-cloud?hosting=datacenter&tab=overview
 https://marketplace.atlassian.com/apps/1442498121/asset-manager-for-jira?hosting=cloud&tab=overview
 https://marketplace.atlassian.com/apps/1741353933/browserstack-test-management-for-jira?hosting=cloud&tab=overview
+https://marketplace.atlassian.com/apps/1752044660/cumulative-flow-diagram-cfd-charts-for-agile-scrum-kanban?hosting=cloud&tab=overview
 https://marketplace.atlassian.com/apps/187209184/sprintretro-free-retrospective-metrics-suite?hosting=cloud&tab=overview
 https://marketplace.atlassian.com/apps/1899492230/live-tables-from-csv-json-for-confluence?hosting=cloud&tab=overview
 https://marketplace.atlassian.com/apps/207/latex-and-mathjax?hosting=datacenter&tab=overview
