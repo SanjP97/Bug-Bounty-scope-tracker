@@ -301,7 +301,6 @@
 3CX Phone System
 3CX SBC
 3d.cs.money
-3rd Party Integrations (Hytale-side issues only)
 3rd-Party Provider Vulnerability
 3rdparty-apis.coinmarketcap.com
 403546234
@@ -773,11 +772,7 @@ HubSpot Android Mobile App
 HubSpot Sales Office 365 add-in
 HubSpot iOS Mobile App
 Hyperdrive
-Hypixel Public APIs
 HyprUnlock.exe
-Hytale Game Client
-Hytale Game Server
-Hytale Launcher
 Ibotta App Data & Memory
 Id1406825640
 Images
@@ -2560,7 +2555,6 @@ http://api.koho.ca/partner
 http://api.na1.insightly.com/v3.1/
 http://app.scaleft.com/
 http://apps.connect.monash.edu/
-http://arcanitegames.ca/
 http://artists.soundcloud.com/
 http://auth.ripio.com
 http://backend-api.devicecloud.production.forescoutcloud.net/api/v1/settings
@@ -2648,7 +2642,6 @@ https://account.bitpanda.com
 https://account.business.t-mobile.com
 https://account.t-mobile.com
 https://accounts.cmp.optimizely.com/
-https://accounts.hytale.com/login
 https://accounts.lastpass.com
 https://accounts.opera.com
 https://accounts.webmd.com
@@ -3451,8 +3444,6 @@ https://hq.breadcrumb.com/hq/restaurants/bounty-cafe-2/
 https://hr.neogov.com
 https://hr.prosus.com/
 https://hub.immutable.com/
-https://hytale.com/
-https://hytale.dev/
 https://ibconnect.internetbrands.com
 https://id.atlassian.com/login
 https://id.recordedfuture.com
@@ -4619,7 +4610,6 @@ https://static.usaa.com
 https://status.mobile.monash/
 https://storage.googleapis.com/kubernetes-release/
 https://store.epicgames.com/p/amiko-arena-a5986d
-https://store.hytale.com/
 https://store.retail.lightspeed.app
 https://store.steampowered.com/app/4245930/Amiko_Legends/
 https://store.unity.com
