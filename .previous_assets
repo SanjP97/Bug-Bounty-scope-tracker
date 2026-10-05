@@ -7132,6 +7132,7 @@ promos.tvg.com
 prow.k8s.io
 proxy-production.lime.bike
 ps-cf.euce1.indriverapp.com
+ps-gw-cf.euce1.indriverapp.com
 ps5.np.playstation.net
 pscp.tv
 psp.marriott.com
@@ -7157,6 +7158,9 @@ pwapi.ex2b.com
 py.pl
 qa.stats.nba.com
 r.etoro.com
+ra-cf.euce1.indriverapp.com
+ra-gw-cf.euce1.indriverapp.com
+ra-gw-scf.euce1.indriverapp.com
 rafflee.co.uk
 rankings.etoro.com
 raptors905-dev.gleague.nba.com
@@ -7164,6 +7168,8 @@ raptors905-qa.gleague.nba.com
 raptors905.gleague.nba.com
 ras1.optus.com.au 
 rates.rewire.com
+rc-cf.africa.afso1.aws.indriverapp.com
+rc-gw-scf.sa.apse1.aws.indriverapp.com
 rea-group.com
 reach.hostinger.com
 read.amazon.com
@@ -7280,11 +7286,14 @@ rockstarnorth.com
 roominglist.hyatt.com
 router.geneva-staging.com
 row.pro
+rp-gw-scf.sa.apse1.aws.indriverapp.com
 rpc.blockdaemon.testnet.arc.network
 rpc.drpc.testnet.arc.network
 rpc.quicknode.testnet.arc.network
 rpc.testnet.arc.network
 rps.3cx.com
+rs-gw-cf.africa.afso1.aws.indriverapp.com
+rs-gw-scf.sa.apse1.aws.indriverapp.com
 rs-open-api.tw.coupang.com
 rs.visa.com
 rt.playcanvas.com
@@ -7312,6 +7321,9 @@ santacruz-dev.gleague.nba.com
 santacruz-qa.gleague.nba.com
 santacruz.gleague.nba.com
 sap.api-xperience.com
+sc-cf.euce1.indriverapp.com
+sc-gw-cf.euce1.indriverapp.com
+sc-gw-scf.euce1.indriverapp.com
 scan.clearme.com
 scan.nextcloud.com
 scan.snapchat.com
@@ -7343,6 +7355,7 @@ seraphicsecurity.com
 service.tvg.com
 session-share.playstation.com
 settings.superhuman.com
+sfc-gw-scf.sa.apse1.aws.indriverapp.com
 sftp://ftp.developersites.com.au:45875
 sgnl.ai
 sgnl.cloud
@@ -7397,6 +7410,7 @@ smarttrader.deriv.com
 smetrics.marriott.com
 smtp.sendgrid.net
 smtp2go.com
+sn-api-gw-scf.sa.apse1.aws.indriverapp.com
 snappublisher.snapchat.com
 snaps.metamask.io
 soaext.oft.hyatt.com
@@ -7437,6 +7451,8 @@ splunk-phantom-nlb.marriott.com
 sr-staging-1.com
 sr.visa.com
 ssm-marriottms.saviyntcloud.com
+ssn-lb-cf.africa.afso1.aws.indriverapp.com
+ssn-lb-scf.sa.apse1.aws.indriverapp.com
 sso-sprint.dynatracelabs.com
 sso.8x8.com
 sso.8x8pilot.com
@@ -7530,6 +7546,8 @@ support.rockstargames.com
 support.steampowered.com
 support.varonis.com
 supportal.netlify.app
+sur-gw-cf.euce1.indriverapp.com
+sur-gw-scf.euce1.indriverapp.com
 survey.visa.com
 surveyserver.nextcloud.com
 sustentabilidadmercadolibre.com/
@@ -7593,6 +7611,10 @@ tomoe.bykea.net
 toolsforhumanity.com
 townhall.nba.com
 tpp.nba.com
+tr-cf.euce1.indriverapp.com
+tr-gw-cf.euce1.indriverapp.com
+tr-gw-scf.euce1.indriverapp.com
+tr-scf.euce1.indriverapp.com
 trade.ripio.com
 training.ui.com
 transact.playstation.com
@@ -7609,6 +7631,7 @@ tria.ge
 trs.nba.com
 truck-api.eu-east-1.indriverapp.com
 trust.23andme.com
+trv-cf.euce1.indriverapp.com
 try.discourse.org
 tucarro.com
 tucarro.com.co
@@ -7620,6 +7643,9 @@ tw.coupang.com
 tw.coupangcorp.com
 tw.coupangls.com
 twinmotion.unrealengine.com
+txd-cf.cis.euce1.aws.indriverapp.com
+txf-cf.cis.euce1.aws.indriverapp.com
+txm-gw-cf.cis.euce1.aws.indriverapp.com
 uapi-front.etoro.com
 uat-bugbounty.nonprod.syfe.com
 uber.com
@@ -7696,6 +7722,8 @@ visa.in
 visainnovationprogram.com
 visaonchainanalytics.com
 visasgic.api-xperience.com
+vm-cf.mena.meso1.aws.indriverapp.com
+vm-gw-scf.sa.apse1.aws.indriverapp.com
 voapi.8x8.com
 voices.nba.com
 volans.tech
@@ -7717,10 +7745,14 @@ wallets.api.playstation.com
 wallettg.com
 wallettg.net
 walt.io
+was-cf.africa.afso1.aws.indriverapp.com
+was-gw-scf.sa.apse1.aws.indriverapp.com
 watch-ng.nba.com
 watch.global.nba.com
 watchdocs.indriverapp.com
 watchlistapi.etoro.com
+wd1-cf.euce1.indriverapp.com
+wd1-gw-cf.euce1.indriverapp.com
 weather.opera-api.com
 web-edge.clearme.com
 web-message-high.lime.bike
@@ -7760,6 +7792,8 @@ wings.wnba.com
 wisconsin-dev.gleague.nba.com
 wisconsin-qa.gleague.nba.com
 wisconsin.gleague.nba.com
+wlr-cf.euce1.indriverapp.com
+wlr-scf.euce1.indriverapp.com
 wmr.3cx.net
 wnbabroadcastmanuals.nba.com
 wolt.com
