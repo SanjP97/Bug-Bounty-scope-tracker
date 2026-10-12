@@ -454,7 +454,6 @@ Acronis DeviceLock DLP
 Acronis Snap Deploy
 Acronis True Image (formerly Acronis Cyber Protect Home Office)
 Additional Loyalty scope included under resources tab
-AdwCleaner
 Affiliates or entities such as recently acquired companies
 Agent SDKs
 Agentic Tools
@@ -490,8 +489,6 @@ Any host verified to be owned by Tesla Motors Inc. (domains/IP space/etc.)
 Any host/web property verified to be owned by Twilio et al.
 Any host/web property/mobile app verified to be owned by Indeed
 Any other Epic games owned asset not listed in the out of scope section
-Any other Malwarebytes asset
-Any other ThreatDown asset
 Any public (Internet-facing) infrastructure owned and operated by Palantir.
 Any public cloud (e.g. Amazon AWS, Microsoft Azure) resource or infrastructure operated and managed by Palantir.
 Any public cloud resource or infrastructure operated and managed by REI.
@@ -558,7 +555,6 @@ Box Tools
 Braintree SDK
 Broken Link
 Browser Isolation
-BrowserGuard (Firefox/Chrome/Safari browser extension)
 BuddyPress Core
 Burp Collaborator
 Burp Suite DAST
@@ -879,15 +875,6 @@ Magic Firewall
 Magic Transit
 Magic WAN
 Main corporate site
-Malwarebytes Anti-Exploit
-Malwarebytes Privacy (VPN)
-Malwarebytes Remediation for CrowdStrike
-Malwarebytes Support Tool (MBST)
-Malwarebytes ToolSet (MBTS)
-Malwarebytes Windows Firewall Control
-Malwarebytes for Mac
-Malwarebytes for Teams
-Malwarebytes for Windows
 Managed OpenClaw
 Managed Property Assets
 Megaphone
@@ -1133,11 +1120,6 @@ Third Party Targets
 Third-party dependency versions
 ThousandEyes Endpoint Agent 
 ThousandEyes Enterprise Agent
-ThreatDown Browser Phishing Protection
-ThreatDown Device Control
-ThreatDown Endpoint Detection & Response (EDR)
-ThreatDown Endpoint Protection
-ThreatDown Patch Management
 Tier 1
 Tier 1 Assets
 Tier 1 Studios
@@ -1162,7 +1144,6 @@ UFiber
 UID
 UISP
 UNMS
-USB Flash Drive Control
 USB Unifying and LightSpeed Receivers
 Ultimate Ears Speakers
 UniFi
@@ -1601,7 +1582,6 @@ blocklist.opera-api.com
 blog.creditkarma.com
 blog.cs.money
 blog.indrive.com
-blog.malwarebytes.com
 blog.playcanvas.com
 blog.remitly.com
 blog.ui.com
@@ -1743,8 +1723,6 @@ clicks.koho.ca
 client-api.arkoselabs.com
 cloud.app.box.com
 cloud.forescout.com
-cloud.malwarebytes.com
-cloud.threatdown.com
 cloud8.8x8.com
 cloudflareworkers.com
 cm-cf.euce1.indriverapp.com
@@ -1958,7 +1936,6 @@ com.logitech.ueboom
 com.luxuryretreats.ios
 com.lyst.lystapp
 com.magisto
-com.malwarebytes.Malwarebytes
 com.marcus.android
 com.marcus.android.uk
 com.marcus.ios-uk
@@ -2432,7 +2409,6 @@ fortwayne-qa.gleague.nba.com
 fortwayne.gleague.nba.com
 forum.playcanvas.com
 forum.sketchfab.com
-forums.malwarebytes.com
 fp-cf.global.aws.indriverapp.com
 fp-sg.tiktokv.com
 frontgatetickets.com
@@ -4342,7 +4318,6 @@ https://onboard.neogov.com
 https://onchain.cc/
 https://one-sit.uat.proptrack.com/
 https://one.newrelic.com
-https://oneview.threatdownstage.com
 https://online.monash.edu/
 https://open.sincera.io
 https://openai.com/
@@ -5417,7 +5392,6 @@ my.account.sony.com
 my.clearme.com
 my.exness.com
 my.loanbuilder.com
-my.malwarebytes.com
 my.plaid.com
 my.playstation.com
 my.pressable.com
@@ -5575,7 +5549,6 @@ onboarding.cloud.com
 onboarding.greenhouse.io
 one.airbnb.com
 one.dash.cloudflare.com
-oneview.threatdown.com
 online.s-pankki.fi
 ontario.gleague.nba.com
 open.airbnb.com
@@ -5587,7 +5560,6 @@ opposhop.cn
 ops.lime.bike
 ops.wolt.com
 org.hartfordhealthcare.hhc247
-org.malwarebytes.antimalware
 org.piwik.mobile2
 org.toshi
 org.toshi.distribution
@@ -6070,7 +6042,6 @@ support.creditkarma.ca
 support.cs.money
 support.greenhouse.io
 support.logi.com
-support.malwarebytes.com
 support.nextcloud.com
 support.rockstargames.com
 support.steampowered.com
@@ -6446,7 +6417,6 @@ www.logitech.com.cn
 www.logitechclub.com
 www.logitechg.com
 www.logitechstore.com.br
-www.malwarebytes.com
 www.marriott.com
 www.meesho.com
 www.members.marriott.com
