@@ -553,6 +553,8 @@ Bot Management
 Box Drive
 Box Tools
 Braintree SDK
+Brave Browser Desktop
+Brave websites
 Broken Link
 Browser Isolation
 BuddyPress Core
@@ -1104,7 +1106,6 @@ Subdomain Takeover (SDTO)
 Subdomain Takeover - konghq.com
 Subdomain takeover
 Superhuman Go
-Superhuman Mail
 Superhuman Mail Chrome Extension
 Superhuman Mail Desktop App
 T&P Servers (Temporarily Out of Scope)
@@ -1264,7 +1265,6 @@ aces-qa.wnba.com
 aces-qa2.wnba.com
 aces.wnba.com
 activate.3cx.com
-activities.marriott.com
 adb.nba.com
 adm.cloud.com
 admin-portal.api-xperience.com
@@ -1625,7 +1625,6 @@ ca-gw-cf.latam-mx.usea1.aws.indriverapp.com
 ca.account.sony.com
 ca.koho
 cache.judge.me
-cache.marriott.com
 caldav.larksuite.com
 calendar.notion.so
 callbacks.airbnb.com
@@ -1646,7 +1645,6 @@ cardpayments.remitly.io
 cards.remitly.io
 careers.booking.com
 careers.indrive.com
-careers.marriott.com
 careers.remitly.com
 careers.tiktok.com
 careers.ui.com
@@ -1820,6 +1818,8 @@ com.boozt
 com.boozt.app
 com.boozt.booztlet
 com.booztlet
+com.brave.browser
+com.brave.ios.browser
 com.bumble.app
 com.bumblebff.app
 com.bykea.pk
@@ -2325,7 +2325,6 @@ edgeapi.slack.com
 editionhotels.com
 education.github.com
 eero Devices
-efast.marriott.com
 effecthouse.tiktok.com
 eg.ht
 eidhelp.marriott.com
@@ -2436,9 +2435,7 @@ geofilters.snapchat.com
 getorigen.com
 getsurenow.com
 gift.starbucks.co.jp
-giftcards.marriott.com
 gifts.grab.com
-gifts.marriott.com
 gist.github.com
 github.com
 github.com/anthropics
@@ -2525,8 +2522,6 @@ horizonchase.com.br
 horizonchaseturbo.com
 horizons.hostinger.com
 hostinger.com
-hotel-deals.marriott.com
-hotel-development.marriott.com
 hotornot.com
 hotshoppeservices.com
 hpanel.hostinger.com
@@ -2614,7 +2609,6 @@ http://www.byreal.io
 http://www.kiwi.com/stories
 http://www.lululemon.co.kr/
 http://www.rei.com/learn/expert-advice
-http://www.shopmarriott.com
 http://www.underarmour.com.sg
 https://10bis.co.il
 https://1win.com/betting
@@ -2727,6 +2721,7 @@ https://app.insomnia.rest/
 https://app.intercom.com
 https://app.intercom.io/
 https://app.latitudepayapps.com/
+https://app.magicestimations.com
 https://app.navan.com
 https://app.opsgenie.com
 https://app.optimizely.com/
@@ -3034,7 +3029,6 @@ https://data.limeinternal.com
 https://data.prosus.com/
 https://dataportal.originenergy.com.au
 https://dbc-9a3f8ed1-7608.cloud.databricks.com
-https://dcfgatewaytst1.marriott.com/
 https://ddosportal.optus.com.au
 https://dealflow.prosus.com
 https://dealflowapi.prosus.com
@@ -3175,11 +3169,8 @@ https://forms.apps.monash.edu/
 https://forum.newrelic.com
 https://fx-qa.np.bolsasymercados.es/
 https://gateway.optus.com.au/api/ai-search/search/v1
-https://gatewaydsapdev2.marriott.com/
 https://gatewaydsapprd.marriott.com/v1/
 https://gatewaydsapprd.marriott.com/v2/
-https://gatewaydsaptst1.marriott.com/
-https://gatewaydsaptst2.marriott.com/
 https://gcsm.oppoit.com/
 https://gemcreditline.co.nz
 https://gemfinance.co.nz
@@ -4277,6 +4268,7 @@ https://napoleongames.be
 https://napoleonsports.be
 https://neon.opera.com/cards/
 https://net.geo.opera.com
+https://new-food.bolt.eu
 https://newrelic.com/
 https://newrelic.com/blog
 https://news.vinted.com
@@ -5083,7 +5075,6 @@ idp-cf.euce1.indriverapp.com
 idp-gw-cf.latam-mx.usea1.aws.indriverapp.com
 idp-scf.euce1.indriverapp.com
 idpay-uat.unico.io
-ifast.marriott.com
 iframe.arkoselabs.com
 iframe.moonx-dev.com
 ignite-dev.gleague.nba.com
@@ -5140,7 +5131,6 @@ jlml-wf.indrive.com
 jlml.indrive.com
 job.ryadom.kz
 jobs.kiwi.com
-jobs.marriott.com
 join.marriott.com
 join.whoop.com
 joinmarriottbonvoy.com
@@ -5275,7 +5265,6 @@ marketing.na1.insightly.com
 marketplace.gamemaker.io
 marketplace.tw.coupangcorp.com
 marquee.gs.com
-marriottfranchisetransactions.marriott.com
 marrtool.com
 matomo.cloud
 matrix.redditspace.com
@@ -5347,7 +5336,6 @@ mgmtpod-1-dashboard.production.forescoutcloud.net
 mgmtpod-1.production.forescoutcloud.net
 mgs.marriott.com
 minerva.robinhood.com
-mipartnerprivileges.marriott.com
 mobile.clearme.com
 mobile.s-pankki.fi
 mobileapi.insightly.com
@@ -5356,7 +5344,6 @@ mobileapi.na1.insightly.com
 mobileapp.hyatt.com
 mod.reddit.com
 modefestival.com
-moments.marriott.com
 moments.marriottbonvoy.com
 money.x.com
 moneybird.com
@@ -5516,7 +5503,6 @@ ns1.optusnet.com.au
 ns2.optusnet.com.au
 nummus.robinhood.com
 nycbasketball.nba.com
-oasisprod.marriott.com
 oauth.deriv.com
 obs-sensors.iris.acceptance.forescoutcloud.net
 obs-sensors.iris.production.forescoutcloud.net
@@ -5679,7 +5665,6 @@ ps-cf.euce1.indriverapp.com
 ps-gw-cf.euce1.indriverapp.com
 ps5.np.playstation.net
 pscp.tv
-psp.marriott.com
 psychobunny.me
 ptiw.nba.com
 public.hyatt.com
@@ -6434,7 +6419,6 @@ www.practicalmoneyskills.org
 www.priceline.com
 www.quip.com
 www.redoxengine.com
-www.ritzcarlton.com/
 www.rockstargames.com
 www.royalarena.dk
 www.s-pankki.fi
