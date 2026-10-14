@@ -172,6 +172,7 @@
 198.142.235.18
 198.142.65.253
 199.66.248.0/22
+1console.twilio.com
 1w.cash
 1w.run
 1win.com
@@ -1139,7 +1140,6 @@ Trello Third Party Powerups
 Trustwallet Android App
 Trustwallet Chrome Extension
 Trustwallet iOS App
-Twilio APIs
 UCRM
 UEFN
 UFiber
@@ -2603,7 +2603,6 @@ http://falcon-bug-bounty-flag-pgsql-dev-sandbox.e.aivencloud.com/
 http://github.com/circlefin/noble-cctp
 http://github.com/cloudflare
 http://greenchannel.payoneer.com.cn/gcportal
-http://help.twilio.com
 http://ibotta.com
 http://ibt-test.six-group.com
 http://itunes.apple.com/us/app/ibotta/id559887125
@@ -2630,8 +2629,6 @@ http://secure-iphone-xml.booking.com/json/
 http://t.me/wallet
 http://t.me/walt
 http://testnet.bybit.eu
-http://tsock.us1.twilio.com
-http://twilio.com/blog
 http://unifysquare.com/
 http://unisys.com/
 http://urc-auth-uefn.live.ucs.on.epicgames.com/
@@ -3485,6 +3482,7 @@ https://investor.irobot.com
 https://io.getdelta.android
 https://io.getdelta.ios
 https://iphone-xml.booking.com/json/
+https://it-fivetran.com
 https://itunes.apple.com/app/carrefour-uae/id626805470
 https://itunes.apple.com/us/app/quizlet-flashcards/id546473125
 https://itunes.apple.com/us/app/vacation-rentals-owner-app-by-tripadvisor/id1045663228?mt=8
@@ -4570,7 +4568,6 @@ https://securesignin.neogov.com
 https://securesignin.powerdms.com/
 https://securitytrails.com
 https://seekcdn.com
-https://segment.com/docs/connections/sources/
 https://selector.viator.com
 https://send2.co/
 https://service.platform.tripadvisor.com
@@ -4793,7 +4790,6 @@ https://www.atlassian.com/software/jira/service-management
 https://www.atlassian.com/software/jira/work-management
 https://www.atlassian.com/software/rovo
 https://www.atlassian.com/software/rovo-dev
-https://www.authy.com/download/
 https://www.binance.com/
 https://www.binance.us/
 https://www.bitdefender.com/business/smb-products/business-security.html?cid=ppc|b|google|smb&s_kwcid=AL!6076!3!514235572261!p!!g!!bitdefender%20business&utm_term=bitdefender%20business&utm_campaign=USA+SMB+Branded+30&utm_source=adwords&utm_medium=ppc&hsa_acc=8155205354&hsa_cam=7848657822&hsa_grp=124745713150&hsa_ad=514235572261&hsa_src=g&hsa_tgt=kwd-308396066873&hsa_kw=bitdefender%20business&hsa_mt=p&hsa_net=adwords&hsa_ver=3&gclid=CjwKCAjwqIiFBhAHEiwANg9szk-Rr3iSn4mrwsvAUOn-pzrO12ufWDmyCLopWigaLQW0t_xtlBE65RoCr6kQAvD_BwE
@@ -4984,11 +4980,6 @@ https://www.thuisbezorgd.nl/
 https://www.tickets.mgm.mo/
 https://www.tilalalghaf.com/en
 https://www.tripadvisor.com
-https://www.twilio.com/docs/authy/api
-https://www.twilio.com/docs/libraries
-https://www.twilio.com/docs/verify/api
-https://www.twilio.com/en-us/blog/get-started-webrtc
-https://www.twilio.com/login?g=%2fconsole%3f&t=2b1c98334b25c1a785ef15b6556396290e3c704a9b57fc40687cbccd79c46a8c
 https://www.underarmour.cn
 https://www.underarmour.co.uk
 https://www.underarmour.com
