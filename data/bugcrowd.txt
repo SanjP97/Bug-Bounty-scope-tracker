@@ -111,33 +111,6 @@ https://marketplace.atlassian.com/apps/1224654/multilevel-select-for-jira?hostin
 https://marketplace.atlassian.com/apps/1229162/issue-templates-agent-for-jira?hosting=cloud&tab=overview
 https://marketplace.atlassian.com/apps/1218221/feature-bundle-for-jira-service-management?hosting=cloud&tab=overview
 https://marketplace.atlassian.com/apps/1238103/appsvio-test-management-for-jira?hosting=cloud&tab=overview
-Arlo Safe Android App
-Arlo Safe iOS App
-Arlo Secure Android App
-Arlo Secure iOS App
-Arlo All-In-One Sensor (Home Security System)
-Arlo Base Station
-Arlo Cellular & Battery Backup (Home Security System)
-Arlo Chime 2
-Arlo Essential 2 & 3 (indoor & outdoor camera, doorbell)
-Arlo Wired Floodlight
-Arlo Go v2
-Arlo Home Security System
-Arlo Pro 3 Floodlight
-Arlo Pro SmartHub
-Arlo Pro 5S
-Arlo Pro 6
-Arlo Safe Button
-Arlo Ultra 2
-Arlo Wireless Video Doorbell
-Arlo Wire-Free Outdoor Siren (Home Security System)
-https://beta.arlo.com
-https://mcs.arlo.com
-https://my.arlo.com
-https://myapi.arlo.com
-https://www.arlo.com
-https://updates.arlo.com
-https://partnerapi.arlo.com
 https://app.asana.com
 https://asana.com
 https://asana.com/apps?category=made-by-asana
@@ -1858,6 +1831,24 @@ https://api-portal.originzero.com.au
 https://sign.originzero.com.au
 https://businessportal.origin.com.au
 https://api-businessportal.origin.com.au
+https://www.originenergy.com.au/
+https://dataportal.originenergy.com.au
+https://api.rx.originenergy.com.au/v1/lpg/graphql
+https://www.winconnect.com.au/moving-out/
+https://www.winconnect.com.au/get-connected/
+https://customerportal.winconnect.com.au/login
+portal.myconnect.com.au
+myconnect.com.au
+portal.myconnect.com.au/new-connection
+hub.myconnect.com.au
+https://ssu.staging.myconnect.com.au/get-connected
+https://portal.anz.kinergysolutions.com
+https://portal-api.anz.kinergysolutions.com
+https://portal.originzero.com.au
+https://api-portal.originzero.com.au
+https://sign.originzero.com.au
+https://businessportal.origin.com.au
+https://api-businessportal.origin.com.au
 https://www.osl.com/hk-en
 https://www.osl.com/en
 https://play.google.com/store/apps/details?id=com.oslmobile.global
@@ -2183,6 +2174,9 @@ SAP Concur
 https://marketplace.atlassian.com/apps/1218251/s-notify-email-encryption-for-jira?hosting=datacenter
 https://marketplace.atlassian.com/apps/1218509/s-notify-email-encryption-for-confluence?hosting=datacenter
 https://marketplace.atlassian.com/apps/1226720/s-notify-email-encryption-for-bitbucket?hosting=datacenter
+https://marketplace.atlassian.com/apps/1218251/s-notify-email-encryption-for-jira?hosting=datacenter
+https://marketplace.atlassian.com/apps/1218509/s-notify-email-encryption-for-confluence?hosting=datacenter
+https://marketplace.atlassian.com/apps/1226720/s-notify-email-encryption-for-bitbucket?hosting=datacenter
 https://marketplace.atlassian.com/apps/1226453/secureflag-knowledge-base?tab=overview&hosting=cloud
 https://marketplace.atlassian.com/apps/1232491?tab=overview&hosting=cloud
 https://seekcdn.com
@@ -2232,11 +2226,6 @@ https://www.skroutz.gr
 All internet facing Sky UK/ROI assets
 All internet facing Sky Italy assets 
 All internet facing Sky DACH assets
-Skyscanner iOS App
-Skyscanner Android App
-Skyscanner Android app
-Skyscanner iOS app
-AWS Infrastructure
 https://github.com/electroneum/electroneum-sc/
 https://blockexplorer.electroneum.com
 https://testnet-blockexplorer.electroneum.com
