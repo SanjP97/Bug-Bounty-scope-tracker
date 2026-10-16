@@ -557,8 +557,6 @@ Bot Management
 Box Drive
 Box Tools
 Braintree SDK
-Brave Browser Desktop
-Brave websites
 Broken Link
 Browser Isolation
 BuddyPress Core
@@ -1831,8 +1829,6 @@ com.boozt
 com.boozt.app
 com.boozt.booztlet
 com.booztlet
-com.brave.browser
-com.brave.ios.browser
 com.bumble.app
 com.bumblebff.app
 com.bykea.pk
@@ -2434,6 +2430,7 @@ frontline-api.twilio.com
 fsf-gw-cf.euce1.indriverapp.com
 fsf-scf.euce1.indriverapp.com
 fulfillment.23andme.com
+fullbarhomologa.modoblackfullbar.com.br
 funding-webhooks.remitly.io
 furycloud.io
 furydocs.io
@@ -5372,6 +5369,7 @@ memphis-qa.gleague.nba.com
 memphis.gleague.nba.com
 mercadobackoffice.com
 mercadoenvios.com.ve
+mercadolivreexperience.mercadolivre.com.br
 mercadopago.com.ve
 mercadoplay.co
 mercadoplay.com.pe
@@ -6187,6 +6185,7 @@ txd-cf.cis.euce1.aws.indriverapp.com
 txf-cf.cis.euce1.aws.indriverapp.com
 txm-gw-cf.cis.euce1.aws.indriverapp.com
 uat-bugbounty.nonprod.syfe.com
+uat.marriott.com
 uber.com
 uber.marriott.com
 uc.8x8pilot.com
