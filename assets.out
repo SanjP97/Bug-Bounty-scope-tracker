@@ -538,7 +538,6 @@ Atlas Infinite
 Atlas Payments/Billing
 Authentication & ATO
 Backend endpoint: bug-bounty-be.glean.com
-Basecamp.app
 Beeper
 BigQuery
 Binance Desktop Application
@@ -753,8 +752,6 @@ Grammarly Desktop for macOS
 GraphQL API (bugbounty-test-<bugcrowd-name>.atlassian.net/gateway/api/graphql)
 Gutenberg
 H5G/Agency
-HEY.app
-HEY.exe
 HPE Aruba Networking Central - New UI (see Scope Details)
 HPE Aruba Networking ClearPass Policy Manager
 HPE Aruba Networking EdgeConnect SD-WAN Orchestrator
@@ -1326,6 +1323,7 @@ api-gateway.polygon.technology
 api-gw-scf.sa.apse1.aws.indriverapp.com
 api-partner.spotify.com
 api-polygon-tokens.polygon.technology/
+api-sandbox.gocardless.com
 api-staging.airtable.com
 api-uat-bugbounty.nonprod.syfe.com
 api.23andme.com
@@ -1444,13 +1442,11 @@ api2.grofers.com
 apigw.foliofn.com
 apix.vodafone.om
 app-insiders.marriott.com
-app.basecamp.com
 app.box.com
 app.circle.com
 app.deriv.com
 app.faraday.ai
 app.files.com
-app.fizzy.do
 app.frontapp.com
 app.geneva-staging.chat
 app.geneva-staging.com
@@ -1530,6 +1526,7 @@ auth.privy.io
 auth.remitly.com
 auth.skypicker.com
 auth0.com	
+auth0.gocardless.com
 auth0.net
 authentication.clearme.com
 authentication.wolt.com
@@ -1552,7 +1549,7 @@ balance-api-front.eu-east-1.indriverapp.com
 balance-api.eu-east-1.indriverapp.com
 ballistic.com
 ballistic.com.br
-basecamp-setup.exe
+bankaccountdata.gocardless.com
 bbPress Core
 bc-cf.latam-co.saea1.aws.indriverapp.com
 bc-gw-cf.latam-pe.saea1.aws.indriverapp.com
@@ -1819,9 +1816,6 @@ com.authy
 com.authy.authy
 com.badoo.mobile
 com.badoo.twa
-com.basecamp.bc3
-com.basecamp.bc3-ios
-com.basecamp.hey
 com.bigblueparrot.pokerfriends
 com.bitstrips.imoji
 com.blinkit.bistro
@@ -1891,7 +1885,6 @@ com.gsn.android.casino
 com.gsn.android.tripeaks
 com.gsn.grandcasino
 com.hcom.android
-com.hey.app.ios
 com.heytap.book
 com.heytap.browser
 com.heytap.cloud
@@ -2116,6 +2109,7 @@ coms.ryadom.kz
 concierge.clearme.com
 config.cic-bug-bounty.auth0app.com
 confluence.hyattdev.com
+connect-sandbox.gocardless.com
 connect.8x8.com
 connect.secure.wellsfargo.com
 connectedapps.dev
@@ -2307,6 +2301,7 @@ dns1.optus.net.au
 doaction.org
 docs.anthropic.com
 docs.gitlab.com
+docs.gocardless.com
 docs.launchdarkly.com
 docs.nextcloud.com
 docs.redoxengine.com
@@ -2544,7 +2539,6 @@ help.ui.com
 help.uisp.com
 helpcenter-tw.coupangcorp.com
 helpseller.tw.coupangcorp.com
-hey-mail
 hilton.com
 hilton.io
 hiltonbusinessonline.com
@@ -2626,6 +2620,7 @@ http://ourhouse.underarmour.com/
 http://pay.monashcollege.edu.au/
 http://poe.com
 http://secure-iphone-xml.booking.com/json/
+http://sso-demo.gocardless-staging.io
 http://t.me/wallet
 http://t.me/walt
 http://testnet.bybit.eu
@@ -3243,9 +3238,6 @@ https://github.com/auth0/lock
 https://github.com/auth0/nextjs-auth0
 https://github.com/auth0/react-native-auth0
 https://github.com/backstage/backstage
-https://github.com/basecamp/once-campfire
-https://github.com/basecamp/trix
-https://github.com/basecamp/writebook
 https://github.com/circlefin/aptos-cctp
 https://github.com/circlefin/arc-node
 https://github.com/circlefin/arc-remote-signer
@@ -3278,6 +3270,7 @@ https://github.com/fireblocks/mpc-lib
 https://github.com/freedomofpress/securedrop
 https://github.com/freedomofpress/securedrop-client
 https://github.com/freedomofpress/securedrop-workstation
+https://github.com/gocardless
 https://github.com/immutable/ts-immutable-sdk/tree/main/packages/passport/
 https://github.com/innocraft/
 https://github.com/jitsi
@@ -4338,6 +4331,7 @@ https://nubank.com.mx
 https://nvio.ar/
 https://nvio.mx/
 https://nvoice.usaa.com/
+https://ob-sandbox.gocardless.io
 https://octopus.com
 https://octopus.com/downloads
 https://odesli.co
@@ -5228,7 +5222,6 @@ landing.ryadom.kz
 lark-frontier.byteoversea.com
 larksuite.com
 launch.playcanvas.com
-launchpad.37signals.com
 lawmanager.marriott.com
 lego.me
 liberty-dev.wnba.com
@@ -5309,6 +5302,7 @@ maine-qa.gleague.nba.com
 maine.gleague.nba.com
 maintenance.logitech.com
 manage-dev.nba.com
+manage-sandbox.gocardless.com
 manage-teams-dev.nba.com
 manage-teams-qa.nba.com
 manage-teams-uat.nba.com
@@ -5570,8 +5564,10 @@ ns2.optusnet.com.au
 numbers.twilio.com
 nummus.robinhood.com
 nycbasketball.nba.com
+oauth-sandbox.gocardless.com
 oauth.deriv.com
 oauth.twilio.com
+ob.gocardless.com
 obs-sensors.iris.acceptance.forescoutcloud.net
 obs-sensors.iris.production.forescoutcloud.net
 ocijlbex1prd.marriott.com
@@ -5636,6 +5632,7 @@ passwordchallenge.marriott.com
 pastela.app
 pata.wnba.com
 pay-admin.exodus.io
+pay-sandbox.gocardless.com
 pay.8x8.com
 pay.exodus.io
 pay.ibex.exchange
@@ -5643,6 +5640,7 @@ pay.tokopediax.com
 pay.tw.coupang.com
 pay.wallet.tg
 paybridge.booking.com
+payer-details-sandbox.gocardless.com
 payment.pixiv.net
 payment.tw.coupang.com
 paymentcomponent.booking.com
@@ -6326,7 +6324,6 @@ wordpressfoundation.org
 work-staging.8x8.com
 work.8x8.com
 workflows.semrush.com
-world.hey.com
 world.hyatt.com
 world.org
 worldcoin.org
@@ -6439,6 +6436,7 @@ www.geneva-staging.chat
 www.geneva-staging.com
 www.getaroom.com
 www.giving.marriott.com
+www.gocardless.com
 www.goodrx.com
 www.gr.dyson.com
 www.greenhouse.io
