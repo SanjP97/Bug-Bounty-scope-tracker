@@ -556,6 +556,8 @@ Bot Management
 Box Drive
 Box Tools
 Braintree SDK
+Brave Browser Desktop
+Brave websites
 Broken Link
 Browser Isolation
 BuddyPress Core
@@ -1108,7 +1110,6 @@ Subdomain takeover
 Superhuman Go
 Superhuman Mail Chrome Extension
 Superhuman Mail Desktop App
-T&P Servers (Temporarily Out of Scope)
 Tablets
 Tap to Pay (Android)
 Tap to Pay (iOS)
@@ -1823,6 +1824,8 @@ com.boozt
 com.boozt.app
 com.boozt.booztlet
 com.booztlet
+com.brave.browser
+com.brave.ios.browser
 com.bumble.app
 com.bumblebff.app
 com.bykea.pk
@@ -2561,6 +2564,7 @@ hotshoppeservices.com
 hpanel.hostinger.com
 http1mustdie.com
 http://--your-own-1password-account--.1password.com
+http://10.72.218.66/flag.txt
 http://activitylog.io/
 http://analytics.prosus.com
 http://api.insightly.com/v3.1/
