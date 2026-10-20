@@ -538,6 +538,7 @@ Atlas Infinite
 Atlas Payments/Billing
 Authentication & ATO
 Backend endpoint: bug-bounty-be.glean.com
+Basecamp.app
 Beeper
 BigQuery
 Binance Desktop Application
@@ -754,6 +755,8 @@ Grammarly Desktop for macOS
 GraphQL API (bugbounty-test-<bugcrowd-name>.atlassian.net/gateway/api/graphql)
 Gutenberg
 H5G/Agency
+HEY.app
+HEY.exe
 HPE Aruba Networking Central - New UI (see Scope Details)
 HPE Aruba Networking ClearPass Policy Manager
 HPE Aruba Networking EdgeConnect SD-WAN Orchestrator
@@ -1443,11 +1446,13 @@ api2.grofers.com
 apigw.foliofn.com
 apix.vodafone.om
 app-insiders.marriott.com
+app.basecamp.com
 app.box.com
 app.circle.com
 app.deriv.com
 app.faraday.ai
 app.files.com
+app.fizzy.do
 app.frontapp.com
 app.geneva-staging.chat
 app.geneva-staging.com
@@ -1551,6 +1556,7 @@ balance-api.eu-east-1.indriverapp.com
 ballistic.com
 ballistic.com.br
 bankaccountdata.gocardless.com
+basecamp-setup.exe
 bbPress Core
 bc-cf.latam-co.saea1.aws.indriverapp.com
 bc-gw-cf.latam-pe.saea1.aws.indriverapp.com
@@ -1817,6 +1823,9 @@ com.authy
 com.authy.authy
 com.badoo.mobile
 com.badoo.twa
+com.basecamp.bc3
+com.basecamp.bc3-ios
+com.basecamp.hey
 com.bigblueparrot.pokerfriends
 com.bitstrips.imoji
 com.blinkit.bistro
@@ -1888,6 +1897,7 @@ com.gsn.android.casino
 com.gsn.android.tripeaks
 com.gsn.grandcasino
 com.hcom.android
+com.hey.app.ios
 com.heytap.book
 com.heytap.browser
 com.heytap.cloud
@@ -2542,6 +2552,7 @@ help.ui.com
 help.uisp.com
 helpcenter-tw.coupangcorp.com
 helpseller.tw.coupangcorp.com
+hey-mail
 hilton.com
 hilton.io
 hiltonbusinessonline.com
@@ -3242,6 +3253,9 @@ https://github.com/auth0/lock
 https://github.com/auth0/nextjs-auth0
 https://github.com/auth0/react-native-auth0
 https://github.com/backstage/backstage
+https://github.com/basecamp/once-campfire
+https://github.com/basecamp/trix
+https://github.com/basecamp/writebook
 https://github.com/circlefin/aptos-cctp
 https://github.com/circlefin/arc-node
 https://github.com/circlefin/arc-remote-signer
@@ -5226,6 +5240,7 @@ landing.ryadom.kz
 lark-frontier.byteoversea.com
 larksuite.com
 launch.playcanvas.com
+launchpad.37signals.com
 lawmanager.marriott.com
 lego.me
 liberty-dev.wnba.com
@@ -5670,6 +5685,7 @@ pigeon.swiftfinancial.com
 plaid.com
 planet.wordpress.org
 plannerrequest.hyatt.com
+plata.co
 platform.8x8.com
 platform.8x8pilot.com
 platform.enjin.io
@@ -5720,6 +5736,7 @@ press.priceline.com
 preview.twilio.com
 priceline.com
 pricing.twilio.com
+prime.plata.co
 pristegnimechty.indrive.com
 pro-api.coinmarketcap.com
 pro.coinmarketcap.com
@@ -6329,6 +6346,7 @@ wordpressfoundation.org
 work-staging.8x8.com
 work.8x8.com
 workflows.semrush.com
+world.hey.com
 world.hyatt.com
 world.org
 worldcoin.org
