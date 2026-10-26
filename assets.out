@@ -1964,8 +1964,6 @@ com.miui.cloudbackup
 com.miui.cloudservice
 com.miui.micloudsync
 com.monaco.mobile
-com.moneybird.Moneybird
-com.moneybird.android
 com.moveit.app.customer
 com.nbaimd.gametime.nba2011
 com.nbaimd.gametime.universal
@@ -4105,7 +4103,6 @@ https://marketplace.atlassian.com/apps/1230243/worklogs-time-tracking-timesheets
 https://marketplace.atlassian.com/apps/1230303/project-templates-for-jira?hosting=cloud&tab=overview
 https://marketplace.atlassian.com/apps/1230344/issue-templates-for-jira-cloud?hosting=cloud
 https://marketplace.atlassian.com/apps/1230481/kantega-user-management-license-optimizer-for-jira?hosting=cloud&tab=overview
-https://marketplace.atlassian.com/apps/1230481/kantega-user-management-license-optimizer-for-jira?hosting=datacenter
 https://marketplace.atlassian.com/apps/1230540/cosmos-intranet-for-confluence?hosting=cloud&tab=overview
 https://marketplace.atlassian.com/apps/1230671/extension-point-finder-for-confluence?hosting=cloud
 https://marketplace.atlassian.com/apps/1230672/extension-point-finder-for-jira?hosting=cloud
@@ -4147,7 +4144,6 @@ https://marketplace.atlassian.com/apps/1233346/audio-recorder-for-confluence?hos
 https://marketplace.atlassian.com/apps/1233398/easy-clone-for-jira-cloud-free?hosting=cloud&tab=overview
 https://marketplace.atlassian.com/apps/1233491/google-chat-for-jira?tab=overview&hosting=cloud
 https://marketplace.atlassian.com/apps/1233591/kantega-user-management-license-optimizer-for-confluence?hosting=cloud&tab=overview
-https://marketplace.atlassian.com/apps/1233591/kantega-user-management-license-optimizer-for-confluence?hosting=datacenter&tab=overview
 https://marketplace.atlassian.com/apps/1233642/workflow-building-blocks-for-jira?hosting=cloud&tab=overview
 https://marketplace.atlassian.com/apps/1233681/smart-ai-release-notes-for-jira?tab=overview&hosting=cloud
 https://marketplace.atlassian.com/apps/1233769/content-retention-manager-for-confluence?hosting=cloud
@@ -4218,7 +4214,6 @@ https://marketplace.atlassian.com/apps/187209184/sprintretro-free-retrospective-
 https://marketplace.atlassian.com/apps/1899492230/live-tables-from-csv-json-for-confluence?hosting=cloud&tab=overview
 https://marketplace.atlassian.com/apps/207/latex-and-mathjax?hosting=datacenter&tab=overview
 https://marketplace.atlassian.com/apps/2077076462/wip-run-wip-aging-charts-for-scrum-kanban-scaled-agile?hosting=cloud&tab=overview
-https://marketplace.atlassian.com/apps/2121739236/kantega-user-management-license-optimizer-for-bitbucket?hosting=datacenter
 https://marketplace.atlassian.com/apps/22817756/procuro-complete-procurement-management-in-jsm?hosting=cloud&tab=overview
 https://marketplace.atlassian.com/apps/23337/elements-connect-external-data-fields?hosting=cloud
 https://marketplace.atlassian.com/apps/23915/atlassian-universal-plugin-manager?hosting=datacenter
@@ -5422,8 +5417,6 @@ mod.reddit.com
 modefestival.com
 moments.marriottbonvoy.com
 money.x.com
-moneybird.com
-moneybirdstorage.com
 monitor.twilio.com
 moonpay.com
 motorcity.gleague.nba.com
