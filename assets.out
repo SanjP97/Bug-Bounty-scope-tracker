@@ -1968,6 +1968,8 @@ com.miui.cloudbackup
 com.miui.cloudservice
 com.miui.micloudsync
 com.monaco.mobile
+com.moneybird.Moneybird
+com.moneybird.android
 com.moveit.app.customer
 com.nbaimd.gametime.nba2011
 com.nbaimd.gametime.universal
@@ -2633,6 +2635,7 @@ http://secure-iphone-xml.booking.com/json/
 http://sso-demo.gocardless-staging.io
 http://t.me/wallet
 http://t.me/walt
+http://test.payworks.io/uis/mngr/
 http://testnet.bybit.eu
 http://unifysquare.com/
 http://unisys.com/
@@ -5421,6 +5424,8 @@ mod.reddit.com
 modefestival.com
 moments.marriottbonvoy.com
 money.x.com
+moneybird.com
+moneybirdstorage.com
 monitor.twilio.com
 moonpay.com
 motorcity.gleague.nba.com
