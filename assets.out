@@ -1116,7 +1116,6 @@ Tap to Pay (Android)
 Tap to Pay (iOS)
 Tesla Energy hardware you own
 Tesla vehicle hardware that you own
-Texts
 Third Party Application
 Third Party Marketplace Apps
 Third Party Targets
@@ -2735,7 +2734,6 @@ https://api.riskrecon.eu
 https://api.rx.originenergy.com.au/v1/lpg/graphql
 https://api.shop.ua.com/graphql
 https://api.simnext.bullish-test.com
-https://api.staging.luno.com/
 https://api.t-mobile.com
 https://api.test.latitudefinancial.com
 https://api.thefork.com
@@ -2777,7 +2775,6 @@ https://app.recordedfuture.com
 https://app.requirementyogi.com
 https://app.ripio.com
 https://app.saltlabs.com/
-https://app.staging.luno.com/
 https://app.staging.saltlabs.com/
 https://app.thousandeyes.com/
 https://app.web.com
@@ -2787,7 +2784,6 @@ https://app.wisdomtreeconnect.com/api/
 https://app.wisdomtreeconnect.com/o/token/
 https://apphouse.underarmour.com/
 https://apps.apple.com/app/bitpanda-buy-bitcoin-crypto/id1449018960
-https://apps.apple.com/app/bitx-wallet/id927362479
 https://apps.apple.com/app/chia-signer/id6504493785 
 https://apps.apple.com/app/id1216446440
 https://apps.apple.com/app/id1503045795
@@ -4302,7 +4298,6 @@ https://mintmobile.com
 https://mlivetickets.monash.edu
 https://mobile.monash/ 
 https://mobile.usaa.com
-https://mobileapi.staging.luno.com/
 https://mobileapp.opsgenie.com
 https://mobileapps.usaa.com/
 https://monash.app.nutrip.com
@@ -4418,7 +4413,6 @@ https://platform.openai.com/playground
 https://platform.rc.blis.com
 https://play.fga.dev/
 https://play.google.com/store/apps/datasafety?id=com.expediapartnercentral&hl=en
-https://play.google.com/store/apps/details?hl=en&id=co.bitx.android.wallet
 https://play.google.com/store/apps/details?id=au.com.optus.selfservice&hl=en_AU&gl=US
 https://play.google.com/store/apps/details?id=au.com.realestate.app
 https://play.google.com/store/apps/details?id=au.com.seek&hl=en_AU&gl=US
@@ -4648,8 +4642,6 @@ https://staging-trafficking.vistarmedia.com
 https://staging.claytonapp.com
 https://staging.claytonapp.com/api
 https://staging.gearset.com/
-https://staging.luno.com.ng
-https://staging.luno.com/
 https://start.atlassian.com
 https://static-images.ifood.com.br
 https://static.mgm.mo
@@ -4976,6 +4968,7 @@ https://www.osl.com/en
 https://www.osl.com/hk-en
 https://www.outsourcing.optus.net.au/eFRAMS3/
 https://www.outsourcing2.optus.net.au/eFRAMS3/
+https://www.pacsun.me/
 https://www.partycasino.com
 https://www.partypoker.com
 https://www.pexels.com/
