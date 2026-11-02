@@ -29,7 +29,6 @@
 1218902777
 1223338261
 1235601864
-1245772818
 1257641454
 1265170914
 1276296103
@@ -276,9 +275,7 @@
 23andme.org/research
 23andmeresearchinstitute.org
 281796108
-284803487
 284910350
-284971959
 288429040
 297606951
 3.0 API
@@ -309,24 +306,20 @@
 3rd Party Integrations (Hytale-side issues only)
 3rd-Party Provider Vulnerability
 3rdparty-apis.coinmarketcap.com
-403546234
 403684733
 406056744
 407558537
 425194759
-427916203
 434613896
 447553564
 455004730
 469463298
 476639005
 480523695
-483394780
 486781045
 493086499
 4njbets.com
 4njbets.us.betfair.com
-506426310
 510855668
 52.220.158.49
 52.44.176.187
@@ -335,14 +328,12 @@
 52.86.17.52
 524362642
 529996768
-531549799
 54.175.255.192/27
 54.83.32.16
 542767785
 545519333
 545599256
 547702041
-566635048
 586634331
 594802437
 597940518
@@ -359,7 +350,6 @@
 64.47.18.80/29
 64.84.60.0/24
 641062073
-642441300
 6444040977
 6444868926
 6449737830
@@ -390,7 +380,6 @@
 835599320
 868013618
 878577184
-880759727
 8x8 Communication APIs
 8x8 Partner Portal
 8x8-work
@@ -411,7 +400,6 @@
 978516833
 982922982
 983980808
-987675995
 988788863
 993135524
 9nqwjwnqjj5n
@@ -557,6 +545,8 @@ Bot Management
 Box Drive
 Box Tools
 Braintree SDK
+Brave Browser Desktop
+Brave websites
 Broken Link
 Browser Isolation
 BuddyPress Core
@@ -731,7 +721,6 @@ Games Tier 3
 Gardener
 Gateway
 Git Repositories (b2-sdk-java & B2 Command Line Tool)
-GitHub Actions in our Public Repositories 
 GitHub CLI
 GitHub CSP
 GitHub Desktop
@@ -844,10 +833,6 @@ Klaviyo Infrastructure - 64.71.19.71/32
 Klaviyo Infrastructure - 82.144.244.58/32
 Klaviyo Infrastructure - 82.144.244.59/32
 Kohl’s entire public digital footprint that is not Out-Of-Scope(See list below)
-Kong Gateway Enterprise
-Kong Gateway OSS
-Kong Gateway Plugins (Kong-Supported Only)
-Kong Mesh
 Lakebase-Supported extensions
 LaunchDarkly Open Source SDKs
 Leaked Credentials
@@ -1106,7 +1091,6 @@ Stripe fiat-to-crypto onramp
 Stripe for Visual Studio Code
 Subdomain Takeover
 Subdomain Takeover (SDTO)
-Subdomain Takeover - konghq.com
 Subdomain takeover
 Superhuman Go
 Superhuman Mail Chrome Extension
@@ -1834,12 +1818,12 @@ com.boozt
 com.boozt.app
 com.boozt.booztlet
 com.booztlet
+com.brave.browser
+com.brave.ios.browser
 com.bumble.app
 com.bumblebff.app
 com.bykea.pk
 com.bykea.pk.partner
-com.carrentals
-com.cheaptickets
 com.clay.ios
 com.clearme.Clear
 com.clearme.clearapp
@@ -1857,14 +1841,11 @@ com.dd.doordash
 com.deribit
 com.dolap.android
 com.dyson.mobile.android
-com.ebookers
 com.eero.android
 com.einnovation.temu
 com.enjin.mobile.wallet
 com.evernote
 com.exness.android.pa
-com.expedia.bookings
-com.expediapartnercentral
 com.fanduel.android.self
 com.fanduel.casino
 com.fanduel.racing
@@ -1893,7 +1874,6 @@ com.gs.pwmdigital.external.android
 com.gsn.android.casino
 com.gsn.android.tripeaks
 com.gsn.grandcasino
-com.hcom.android
 com.hey.app.ios
 com.heytap.book
 com.heytap.browser
@@ -1923,9 +1903,7 @@ com.heytap.wearable.research
 com.heytap.wearable.themestore
 com.heytap.xgame
 com.hilton.android.hhonors
-com.homeaway.android
 com.hotornot.app
-com.hotwire.hotels
 com.hypr.one
 com.imdbtv.livingroom
 com.immediasemi.android.blink
@@ -1990,7 +1968,6 @@ com.oppo.market
 com.oppo.quicksearchbox
 com.oppo.speechassist
 com.oppo.store
-com.orbitz
 com.pacificinteractive.HouseOfFun
 com.paypal.android.p2pmobile
 com.paypal.merchant
@@ -2043,7 +2020,6 @@ com.tiktokshop.seller
 com.tinder
 com.tinyspeck.chatlyio
 com.toyopagroup.picaboo
-com.travelocity.android
 com.trendyol.go
 com.trendyol.milla.android
 com.trip.android
@@ -2063,7 +2039,6 @@ com.venmo
 com.vilcsak.bitcoin2
 com.vimeo.android.videoapp
 com.vimeocreate.videoeditor.moviemaker
-com.vrbo.android
 com.wealthsimple
 com.wealthsimple.predict
 com.wealthsimple.wealthsimple
@@ -2080,7 +2055,6 @@ com.withbuddies.dice.free
 com.wolt.android
 com.wolt.courierapp
 com.wooga.pearlsperil
-com.wotif.android
 com.xiaomi.account
 com.xiaomi.market
 com.xiaomi.mibrain.speech
@@ -2281,7 +2255,6 @@ developer.crypto.com
 developer.currencycloud.com
 developer.cybersource.com
 developer.gs.com
-developer.konghq.com
 developer.playcanvas.com
 developer.plus.authorize.net
 developer.valvesoftware.com
@@ -2512,7 +2485,6 @@ green.nba.com
 greensboro-dev.gleague.nba.com
 greensboro-qa.gleague.nba.com
 greensboro.gleague.nba.com
-grok-build
 grok.com
 grokipedia.com
 gs://faraday-secret
@@ -2583,7 +2555,6 @@ http://artists.soundcloud.com/
 http://auth.ripio.com
 http://backend-api.devicecloud.production.forescoutcloud.net/api/v1/settings
 http://bumba.global
-http://cloud.konghq.com
 http://collaboration.rei.com
 http://data-api.coindesk.com/
 http://datapod-1-druid-ingest.production.forescoutcloud.net/v1/upload
@@ -2761,7 +2732,6 @@ https://app.ecwid.com/api/v3/
 https://app.fin.ai/
 https://app.glean.com/login?qe=https://bug-bounty-be.glean.com&skip_to_sso=1
 https://app.ibotta.com/sign-in 
-https://app.insomnia.rest/
 https://app.intercom.com
 https://app.intercom.io/
 https://app.latitudepayapps.com/
@@ -2812,7 +2782,6 @@ https://apps.apple.com/gb/app/partycasino-play-casino-games/id818432894
 https://apps.apple.com/gb/app/partypoker-texas-holdem-poker/id687740281
 https://apps.apple.com/ie/app/new-relic/id594038638
 https://apps.apple.com/in/app/city-centres/id1448471823
-https://apps.apple.com/in/app/expedia-group-partner-central/id987675995
 https://apps.apple.com/in/app/flipkart-online-shopping-app/id742044692
 https://apps.apple.com/in/app/mall-of-egypt-official-app/id1441905105
 https://apps.apple.com/in/app/mall-of-the-emirates-moe/id1449578693
@@ -4415,7 +4384,6 @@ https://platform.infiniteathlete.ai
 https://platform.openai.com/playground
 https://platform.rc.blis.com
 https://play.fga.dev/
-https://play.google.com/store/apps/datasafety?id=com.expediapartnercentral&hl=en
 https://play.google.com/store/apps/details?id=au.com.optus.selfservice&hl=en_AU&gl=US
 https://play.google.com/store/apps/details?id=au.com.realestate.app
 https://play.google.com/store/apps/details?id=au.com.seek&hl=en_AU&gl=US
@@ -5209,7 +5177,6 @@ kit.snapchat.com
 knowledge.nextcloud.com
 knowledge.twilio.com
 knox.beta.blendlabs.com
-konghq.com
 krisp.ai
 kronor.io
 kubernetes-csi.github.io
@@ -6352,7 +6319,6 @@ www-qa.wnba.com
 www-uat.nba.com
 www.23andme.org
 www.4njbets.com
-www.abritel.fr
 www.airbnb.com
 www.analvids.com
 www.applevacations.com
@@ -6365,15 +6331,12 @@ www.bitstamp.net
 www.bitstrips.com
 www.blueskytours.com
 www.bolsasymercados.es
-www.bookabach.co.nz
 www.bookingholdings.com
 www.bumble.com
-www.carrentals.com
 www.cart.starbucks.co.jp/
 www.certos.com
 www.cheapcaribbean.com
 www.cheapflights.com
-www.cheaptickets.com
 www.checkfelix.com
 www.clearme.com
 www.coinspot.com.au
@@ -6425,16 +6388,8 @@ www.dyson.se
 www.dyson.tw
 www.dyson.vn
 www.dysoncanada.ca
-www.ebookers.com
-www.ebookers.fi
 www.evernote.com
-www.expedia-aarp.com
-www.expedia.com
-www.expediagroup.com
-www.expediapartnercentral.com
-www.expediataap.com
 www.fareharbor.com
-www.fewo-direkt.de
 www.fi.dyson.com
 www.figma.com
 www.files.com
@@ -6450,10 +6405,8 @@ www.goodrx.com
 www.gr.dyson.com
 www.greenhouse.io
 www.hackerone.com
-www.hotels.com
 www.hotelscombined.com
 www.hoteltonight.com
-www.hotwire.com
 www.hyatt.com
 www.hyattconnect.com
 www.hyattinclusivecollection.com
@@ -6464,8 +6417,6 @@ www.juntasllegamos.indrive.com
 www.kayak.com
 www.kiwi.com
 www.koho.ca
-www.lastminute.co.nz
-www.lastminute.com.au
 www.lineup.com.mx
 www.linkedin.com
 www.livenation.co.uk
@@ -6493,12 +6444,10 @@ www.mercadolibre.com.sv
 www.mercadolivre.com
 www.mercadopago.com.ec
 www.momondo.com
-www.mrjet.se
 www.mundi.com.br
 www.nba.com
 www.netflix.com
 www.onthewaterfrontfestival.com
-www.orbitz.com
 www.pangleglobal.com
 www.pixiv.net
 www.playstation.com
@@ -6523,7 +6472,6 @@ www.starbucks.co.jp
 www.starbucks.com
 www.starbucks.com.cn/
 www.starbucksreserve.com
-www.stayz.com.au
 www.stripe.partners
 www.swiftcapital.com
 www.swiftfinancial.com
@@ -6533,11 +6481,8 @@ www.teamfortress.com
 www.temu.com
 www.tgoyemek.com
 www.tink.com
-www.tiqets.com
 www.tradepmr.com
 www.travel-brilliantly.marriott.com
-www.travelocity.ca
-www.travelocity.com
 www.trendyol-milla.com
 www.trendyol.com
 www.trialpay.com
@@ -6622,13 +6567,11 @@ www.visaitalia.com
 www.visakorea.com
 www.visasoutheasteurope.com
 www.vodafone.om
-www.vrbo.com
 www.wearehackerone.com
 www.whatismode.com
 www.whatnot.com
 www.wickr.com
 www.wnba.com
-www.wotif.com
 www.wynnvacations.com
 www.xnxx.com
 www.xnxx.gold
