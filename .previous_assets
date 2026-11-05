@@ -2985,6 +2985,7 @@ file-storage-front.aws.indriverapp.com
 file-storage-front.eu-east-1.indriverapp.com
 file.larksuite.com
 files-stg.inspectorio.com
+files.stripe.com
 fileupload-video.tw.coupang.com
 fileupload.tw.coupang.com
 fintech-aml-kyc-tw.coupang.com
@@ -7707,6 +7708,8 @@ streaming-gw.iris.production.forescoutcloud.net
 streaming.iris.acceptance.forescoutcloud.net
 streaming.iris.production.forescoutcloud.net
 streams.etoro.com
+stripe.com
+stripe.dev
 sts.etoro.com
 studio.twilio.com
 style.23andme.com

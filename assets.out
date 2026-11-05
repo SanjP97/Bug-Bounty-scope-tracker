@@ -2388,6 +2388,7 @@ fic-cf.euce1.indriverapp.com
 file-storage-front.aws.indriverapp.com
 file.larksuite.com
 files-stg.inspectorio.com
+files.stripe.com
 fileupload-video.tw.coupang.com
 fileupload.tw.coupang.com
 fintech-aml-kyc-tw.coupang.com
@@ -6036,6 +6037,8 @@ streaming-api.iris.production.forescoutcloud.net
 streaming-gw.iris.production.forescoutcloud.net
 streaming.iris.acceptance.forescoutcloud.net
 streaming.iris.production.forescoutcloud.net
+stripe.com
+stripe.dev
 studio.twilio.com
 style.23andme.org
 sun-dev.wnba.com
