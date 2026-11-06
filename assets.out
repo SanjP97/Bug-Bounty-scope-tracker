@@ -1216,6 +1216,7 @@ Zendesk Marketplace Apps created by Zendesk
 Zendesk Mobile Applications
 Zendesk Public Repositories
 Zendesk Suite
+Zenserver
 [Unico] Liveness Bypass
 a.root-servers.net (DNS service; DNS related)
 a5s.hackerone-ext-content.com
@@ -2949,6 +2950,7 @@ https://bridge.ripio.com/
 https://browser-notifications.opera.com
 https://bug-bounty-api.k8s.tools-001.d-use-1.braze-dev.com/
 https://bug-bounty-dashboard.k8s.tools-001.d-use-1.braze-dev.com/
+https://bug-bounty-mcp.k8s.tools-001.d-use-1.braze-dev.com/mcp
 https://bug-bounty-rest.k8s.tools-001.d-use-1.braze-dev.com/
 https://bugcrowd-pam-###-admin.oktapreview.com
 https://bugcrowd-pam-###.at.oktapreview.com
@@ -3477,7 +3479,6 @@ https://investor.bullish.com/
 https://io.getdelta.android
 https://io.getdelta.ios
 https://iphone-xml.booking.com/json/
-https://it-fivetran.com
 https://itunes.apple.com/app/carrefour-uae/id626805470
 https://itunes.apple.com/us/app/quizlet-flashcards/id546473125
 https://itunes.apple.com/us/app/vacation-rentals-owner-app-by-tripadvisor/id1045663228?mt=8
@@ -5033,7 +5034,6 @@ hub.yoti.com
 hubspot.net
 huddle.nba.com
 hungrygowhere.com
-hyatt.com
 hybrid-analysis.com
 hypermint.com
 iOS App

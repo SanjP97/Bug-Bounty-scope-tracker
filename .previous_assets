@@ -1548,6 +1548,7 @@ Zendesk Marketplace Apps created by Zendesk
 Zendesk Mobile Applications
 Zendesk Public Repositories
 Zendesk Suite
+Zenserver
 [Unico] Liveness Bypass
 _16928ca3f53f40a48a751be40fa24e4c.bitstamp.net
 _domainconnect.bitstamp.net
@@ -3688,6 +3689,7 @@ https://bridge.ripio.com/
 https://browser-notifications.opera.com
 https://bug-bounty-api.k8s.tools-001.d-use-1.braze-dev.com/
 https://bug-bounty-dashboard.k8s.tools-001.d-use-1.braze-dev.com/
+https://bug-bounty-mcp.k8s.tools-001.d-use-1.braze-dev.com/mcp
 https://bug-bounty-rest.k8s.tools-001.d-use-1.braze-dev.com/
 https://bugbounty-ctf.1password.com/
 https://bugcrowd-pam-###-admin.oktapreview.com
