@@ -545,6 +545,8 @@ Bot Management
 Box Drive
 Box Tools
 Braintree SDK
+Brave Browser Desktop
+Brave websites
 Broken Link
 Browser Isolation
 BuddyPress Core
@@ -1764,7 +1766,6 @@ com.affirm.internal.hackerone
 com.airbnb.android
 com.airbnb.app
 com.amazon.aba.application
-com.amazon.amazonone.androidapp
 com.amazon.amazonvideo.livingroom
 com.amazon.astro
 com.amazon.avod.thirdpartyclient
@@ -1824,6 +1825,8 @@ com.boozt
 com.boozt.app
 com.boozt.booztlet
 com.booztlet
+com.brave.browser
+com.brave.ios.browser
 com.bumble.app
 com.bumblebff.app
 com.bykea.pk
@@ -2447,10 +2450,10 @@ github.com/binary-com
 github.com/deriv-com
 github.com/kubernetes-csi
 github.com/kubernetes-retired
+github.com/oasisprotocol/explorer
 github.com/segmentio
 github.com/sendgrid
 github.com/stytchauth/is-agent
-github.com/stytchauth/samlshield
 github.com/stytchauth/stytch-android
 github.com/stytchauth/stytch-browser
 github.com/stytchauth/stytch-dotnet
@@ -2584,10 +2587,12 @@ http://datapod-1-druid-query.production.forescoutcloud.net/v2/services
 http://datapod-1-druid-query.production.forescoutcloud.net/v3/matrixoverview
 http://datapod-1-druid-query.production.forescoutcloud.net/v3/query/overlappingzones
 http://datapod-1-druid-query.production.forescoutcloud.net/v3/query/zonetozone
+http://emerald.oasis.dev
 http://falcon-bug-bounty-flag-pgsql-dev-sandbox.e.aivencloud.com/
 http://github.com/circlefin/noble-cctp
 http://github.com/cloudflare
 http://greenchannel.payoneer.com.cn/gcportal
+http://grpc.oasis.dev
 http://ibotta.com
 http://ibt-test.six-group.com
 http://itunes.apple.com/us/app/ibotta/id559887125
@@ -2610,6 +2615,8 @@ http://open.oppomobile.com
 http://ourhouse.underarmour.com/
 http://pay.monashcollege.edu.au/
 http://poe.com
+http://rosetta.oasis.dev/api/mainnet
+http://sapphire.oasis.io
 http://secure-iphone-xml.booking.com/json/
 http://sso-demo.gocardless-staging.io
 http://t.me/wallet
@@ -3370,6 +3377,12 @@ https://github.com/nextcloud/tables
 https://github.com/nitrojs/nitro
 https://github.com/nodejs/node
 https://github.com/nuxt/nuxt
+https://github.com/oasisprotocol/curve25519-voi
+https://github.com/oasisprotocol/deoxysii
+https://github.com/oasisprotocol/deoxysii-rust
+https://github.com/oasisprotocol/oasis-core
+https://github.com/oasisprotocol/oasis-sdk
+https://github.com/oasisprotocol/oasis-wallet-web
 https://github.com/okx/go-wallet-sdk
 https://github.com/omacom/omarchy
 https://github.com/pinterest/
@@ -6017,6 +6030,7 @@ stats.nba.com
 stats.nextcloud.com
 stats.wnba.com
 status.larksuite.com
+status.oasis.io
 steamcommunity.com
 stockton-dev.gleague.nba.com
 stockton-qa.gleague.nba.com
@@ -6242,6 +6256,7 @@ vroid.com
 vth.nba.com
 vttp.nba.com
 vwcm.visa.com
+wallet.oasis.io
 wallet.tg
 walletbot.me
 wallets.api.playstation.com

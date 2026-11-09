@@ -3061,6 +3061,7 @@ github.com/binary-com
 github.com/deriv-com
 github.com/kubernetes-csi
 github.com/kubernetes-retired
+github.com/oasisprotocol/explorer
 github.com/segmentio
 github.com/sendgrid
 github.com/stytchauth/is-agent
@@ -3221,6 +3222,7 @@ http://datapod-1-druid-query.production.forescoutcloud.net/v3/matrixoverview
 http://datapod-1-druid-query.production.forescoutcloud.net/v3/query/overlappingzones
 http://datapod-1-druid-query.production.forescoutcloud.net/v3/query/zonetozone
 http://digitalplayground.com/
+http://emerald.oasis.dev
 http://es.mydirtyhobby.com/
 http://exchange-server.exodus.io
 http://falcon-bug-bounty-flag-pgsql-dev-sandbox.aivencloud.com/
@@ -3230,6 +3232,7 @@ http://flightdeck.staples.com/#/login
 http://github.com/circlefin/noble-cctp
 http://github.com/cloudflare
 http://greenchannel.payoneer.com.cn/gcportal
+http://grpc.oasis.dev
 http://help.twilio.com
 http://ibotta.com
 http://ibt-test.six-group.com
@@ -3265,6 +3268,8 @@ http://probiller.realitykings.com/
 http://probiller.seancody.com/
 http://probiller.transangels.com/
 http://probiller.twistys.com/
+http://rosetta.oasis.dev/api/mainnet
+http://sapphire.oasis.io
 http://secure-iphone-xml.booking.com/json/
 http://skumapper-splus.pnimedia.com/
 http://sso-demo.gocardless-staging.io
@@ -4228,6 +4233,12 @@ https://github.com/nextcloud/tables
 https://github.com/nitrojs/nitro
 https://github.com/nodejs/node
 https://github.com/nuxt/nuxt
+https://github.com/oasisprotocol/curve25519-voi
+https://github.com/oasisprotocol/deoxysii
+https://github.com/oasisprotocol/deoxysii-rust
+https://github.com/oasisprotocol/oasis-core
+https://github.com/oasisprotocol/oasis-sdk
+https://github.com/oasisprotocol/oasis-wallet-web
 https://github.com/okx/go-wallet-sdk
 https://github.com/omacom/omarchy
 https://github.com/openai/codex/
@@ -7693,6 +7704,7 @@ stats.nextcloud.com
 stats.wnba.com
 status.bitstamp.net
 status.larksuite.com
+status.oasis.io
 steamcommunity.com
 stock.adobe.com
 stockton-dev.gleague.nba.com
@@ -7953,6 +7965,7 @@ vttp.nba.com
 vwcm.visa.com
 waf.cumulusfire.net
 wallet.etoro.com
+wallet.oasis.io
 wallet.passkeys.foundation
 wallet.tg
 wallet.web3auth.io
