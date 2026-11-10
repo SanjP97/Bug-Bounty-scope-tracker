@@ -654,9 +654,6 @@ Dia on Windows
 Direct Contracts
 Discovered Leaked Credentials
 Drivers
-Dynatrace ActiveGate
-Dynatrace MobileAgent
-Dynatrace OneAgent
 Dyson Connected Products (IoT Hardware)
 EOS C# SDK
 Echo Family Devices
@@ -1231,7 +1228,6 @@ academy-outbound-ads.tiktok.com
 access-sandbox.remitly.com
 access.remitly.com
 accommodations.booking.com
-account-sprint.dynatracelabs.com
 account.acronis.com
 account.booking.com
 account.box.com
@@ -3227,7 +3223,6 @@ https://github.com/Chia-Network/chiavdf
 https://github.com/Chia-Network/clvm_rs
 https://github.com/ClickHouse/ClickHouse
 https://github.com/DopplerHQ/cli
-https://github.com/Dynatrace
 https://github.com/ExodusOSS/bytes
 https://github.com/ExodusOSS/crypto
 https://github.com/ExodusOSS/hydra
@@ -4811,7 +4806,6 @@ https://www.bitpanda.com/academy/en/
 https://www.blockchain.com/
 https://www.bluehost.com/
 https://www.bwin.com
-https://www.bybit.com/en/ai-bot/home
 https://www.bybit.com/en/stocks
 https://www.canva.com
 https://www.canva.com/developers/
@@ -5146,6 +5140,7 @@ invisionu.education
 invoices.razorpay.com
 io.coda
 io.coda.codaapp
+io.walt.app
 iowa-dev.gleague.nba.com
 iowa-qa.gleague.nba.com
 iowa.gleague.nba.com
@@ -5420,7 +5415,6 @@ my.tw.coupang.com
 my.varonis.com
 my.visa.fr
 myaccount-cn.payoneer.com
-myaccount-hardening.dynatracelabs.com
 myaccount.payoneer.com
 myanmar.visa.com
 myconnect.com.au
@@ -5999,7 +5993,6 @@ speedtest-townsville.optusnet.com.au
 splunk-phantom-nlb.marriott.com
 ssn-lb-cf.africa.afso1.aws.indriverapp.com
 ssn-lb-scf.sa.apse1.aws.indriverapp.com
-sso-sprint.dynatracelabs.com
 sso.8x8.com
 sso.8x8pilot.com
 sso.marriott.com
