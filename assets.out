@@ -524,7 +524,6 @@ Atlas Data Federation
 Atlas IAM
 Atlas Infinite
 Atlas Payments/Billing
-Authentication & ATO
 Backend endpoint: bug-bounty-be.glean.com
 Basecamp.app
 Beeper
@@ -1032,10 +1031,12 @@ Secondary Assets
 Secure Custom Fields
 Self-Register Account on T-Mobile Microsoft Entra ID
 Services/Mobile/GenAI
+Shop Minis
 Shopify Developed Apps
 Shopify Mobile Applications
 Shopify Third Party Apps
 Shopify Third Party Store
+Sidekick
 Skyscanner Android App
 Skyscanner Android app
 Skyscanner iOS App
@@ -2521,6 +2522,7 @@ help.marriott.com
 help.netflix.com
 help.nextcloud.com
 help.redoxengine.com
+help.shop.app
 help.sketchfab.com
 help.steampowered.com
 help.twilio.com
@@ -5220,7 +5222,6 @@ licensemgmt.varonis.com
 lineemup-dev.wnba.com
 lineemup.wnba.com
 link.tw.coupang.com
-linkpop.com
 links.geneva-staging.chat
 links.geneva-staging.com
 links.portswigger.net
@@ -5928,6 +5929,7 @@ share.doppler.com
 share.portswigger.net
 shop-id.tokopedia.com
 shop.app
+shop.com
 shop.dyson.co.za
 shop.dyson.tw
 shop.judge.me
