@@ -461,6 +461,7 @@ All Assets (other than Blinkit)
 All Chime Assets
 All In Scope Targets
 All Motorola Devices running Android 13 and above. 
+All Other BitMEX Assets
 All internet facing Sky DACH assets
 All internet facing Sky Italy assets 
 All internet facing Sky UK/ROI assets
@@ -3636,7 +3637,7 @@ https://marketplace.atlassian.com/apps/1211923/k-sso-saml-sso-oauth-kerberos-use
 https://marketplace.atlassian.com/apps/1211976/gauge-gadget?hosting=cloud
 https://marketplace.atlassian.com/apps/1212012/discussion-for-confluence?hosting=cloud&tab=overview
 https://marketplace.atlassian.com/apps/1212035/edit-custom-field-values?hosting=cloud&tab=overview
-https://marketplace.atlassian.com/apps/1212078/easy-agile-user-story-maps-for-jira?hosting=cloud&tab=overview
+https://marketplace.atlassian.com/apps/1212078/easy-agile-teamrhythm-story-map-insights-retrospectives?hosting=cloud&tab=overview
 https://marketplace.atlassian.com/apps/1212096/customfield-editor-for-jira?hosting=cloud&tab=overview
 https://marketplace.atlassian.com/apps/1212096/customfield-editor-for-jira?hosting=datacenter&tab=overview
 https://marketplace.atlassian.com/apps/1212120/agile-reports-and-gadgets?hosting=cloud&tab=overview
@@ -3808,7 +3809,7 @@ https://marketplace.atlassian.com/apps/1219401/users-sync-groups-sync-bitbucket?
 https://marketplace.atlassian.com/apps/1219429/status-progress-report-structure-jira-dashboard-gadget?hosting=cloud&tab=overview
 https://marketplace.atlassian.com/apps/1219476/comment-custom-fields-for-jira?hosting=cloud
 https://marketplace.atlassian.com/apps/1219487/simple-timesheet-worklog-dashboard-gadget-for-jira?hosting=cloud&tab=overview
-https://marketplace.atlassian.com/apps/1219491/easy-agile-programs-for-jira?hosting=cloud&tab=overview
+https://marketplace.atlassian.com/apps/1219491/easy-agile-programs-pi-planning-program-board-dependencies?hosting=cloud&tab=overview
 https://marketplace.atlassian.com/apps/1219504/eazybi-reports-and-charts-for-confluence?hosting=cloud
 https://marketplace.atlassian.com/apps/1219504/eazybi-reports-and-charts-for-confluence?hosting=datacenter
 https://marketplace.atlassian.com/apps/1219514/merge-agent-for-jira?hosting=cloud
@@ -3865,7 +3866,6 @@ https://marketplace.atlassian.com/apps/1221271/easy-heading-macro-floating-table
 https://marketplace.atlassian.com/apps/1221301/jira-cloud-for-excel-official?hosting=cloud
 https://marketplace.atlassian.com/apps/1221312/opsgenie-incident-timeline-eu?hosting=cloud
 https://marketplace.atlassian.com/apps/1221322/refined-for-confluence-cloud?hosting=cloud&tab=overview
-https://marketplace.atlassian.com/apps/1221392/easy-agile-personas-for-jira?hosting=cloud&tab=overview
 https://marketplace.atlassian.com/apps/1221399/security-for-bitbucket-enhanced-secret-scanner-by-soteri?hosting=datacenter&tab=overview
 https://marketplace.atlassian.com/apps/1221462/time-between-statuses?hosting=cloud&tab=overview
 https://marketplace.atlassian.com/apps/1221519/roadmap-portal-for-jira-service-desk?tab=overview&hosting=cloud
@@ -4220,7 +4220,6 @@ https://marketplace.atlassian.com/apps/2974674253/assets-analytics-custom-dashbo
 https://marketplace.atlassian.com/apps/3076252818/gliffy-zero-egress-compliance-ready-diagramming?hosting=cloud&tab=overview
 https://marketplace.atlassian.com/apps/31399/jql-tricks-plugin?hosting=cloud&tab=overview
 https://marketplace.atlassian.com/apps/3402280988/laya-board?hosting=cloud&tab=overview
-https://marketplace.atlassian.com/apps/3443905353?hosting=cloud&tab=overviewPartner
 https://marketplace.atlassian.com/apps/3684126567/laya-workflowos-ai-automation-for-jira?hosting=cloud&tab=overview
 https://marketplace.atlassian.com/apps/3709319691/monte-carlo-simulations-for-scrum-kanban-agile-gadgets?hosting=cloud&tab=overview
 https://marketplace.atlassian.com/apps/3747688267/simple-gantt-roadmap-timeline-dashboard-gadget-for-jira?hosting=cloud&tab=overview
@@ -6127,6 +6126,7 @@ test.stytch.com
 testapi.redoxengine.com
 testapp.redoxengine.com
 testbank.xs2a.com
+testnet.bitmex.com
 texas-dev.gleague.nba.com
 texas-qa.gleague.nba.com
 texas.gleague.nba.com
@@ -6345,6 +6345,7 @@ www.arkoselabs.com
 www.astrogaming.com
 www.authorize.net
 www.beachbound.com
+www.bitmex.com
 www.bitmoji.com
 www.bitstamp.net
 www.bitstrips.com
