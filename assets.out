@@ -1376,6 +1376,7 @@ api.gx.games/pub
 api.gx.games/session
 api.gx.me/me
 api.hackerone.com
+api.humantoken.unico.app
 api.instacart.com
 api.krisp.ai
 api.larksuite.com
@@ -2216,6 +2217,7 @@ dashboard.plaid.com
 dashboard.privy.io
 dashboard.qa.ai.8x8.com
 dashboard.razorpay.com
+dashboard.unico.app
 data-test.nba.com
 databricks.com
 datapod-1-100-druid-ingest.development.forescoutcloud.net
@@ -2256,7 +2258,6 @@ dev.courtside.nba.com
 dev.stats.gleague.nba.com
 dev.stats.nba.com
 dev.stats.wnba.com
-devcenter.unico.io
 developer-api.crypto.com
 developer-platform-api.crypto.com
 developer.8x8.com
@@ -2267,6 +2268,7 @@ developer.cybersource.com
 developer.gs.com
 developer.playcanvas.com
 developer.plus.authorize.net
+developer.unico.io
 developer.valvesoftware.com
 developer.visa.com
 developer.worldcoin.org
@@ -5045,6 +5047,7 @@ hub.vroid.com
 hub.yoti.com
 hubspot.net
 huddle.nba.com
+humantoken.unico.app
 hungrygowhere.com
 hybrid-analysis.com
 hypermint.com

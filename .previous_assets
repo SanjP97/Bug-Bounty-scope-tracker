@@ -1752,6 +1752,7 @@ api.gx.games/pub
 api.gx.games/session
 api.gx.me/me
 api.hackerone.com
+api.humantoken.unico.app
 api.iciparisxl.be
 api.iciparisxl.lu
 api.iciparisxl.nl
@@ -2787,6 +2788,7 @@ dashboard.plaid.com
 dashboard.privy.io
 dashboard.qa.ai.8x8.com
 dashboard.razorpay.com
+dashboard.unico.app
 dashboard.web3auth.io
 dashboard.xoswap.com
 data-test.nba.com
@@ -2846,6 +2848,7 @@ developer.metamask.io
 developer.mozilla.org
 developer.playcanvas.com
 developer.plus.authorize.net
+developer.unico.io
 developer.valvesoftware.com
 developer.visa.com
 developer.worldcoin.org
@@ -6528,6 +6531,7 @@ hub.vroid.com
 hub.yoti.com
 hubspot.net
 huddle.nba.com
+humantoken.unico.app
 hungrygowhere.com
 hyatt.com
 hybrid-analysis.com
