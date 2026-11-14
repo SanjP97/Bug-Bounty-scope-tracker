@@ -545,8 +545,6 @@ Bot Management
 Box Drive
 Box Tools
 Braintree SDK
-Brave Browser Desktop
-Brave websites
 Broken Link
 Browser Isolation
 BuddyPress Core
@@ -1824,8 +1822,6 @@ com.boozt
 com.boozt.app
 com.boozt.booztlet
 com.booztlet
-com.brave.browser
-com.brave.ios.browser
 com.bumble.app
 com.bumblebff.app
 com.bykea.pk
@@ -4129,7 +4125,6 @@ https://marketplace.atlassian.com/apps/1233591/kantega-user-management-license-o
 https://marketplace.atlassian.com/apps/1233642/workflow-building-blocks-for-jira?hosting=cloud&tab=overview
 https://marketplace.atlassian.com/apps/1233681/smart-ai-release-notes-for-jira?tab=overview&hosting=cloud
 https://marketplace.atlassian.com/apps/1233769/content-retention-manager-for-confluence?hosting=cloud
-https://marketplace.atlassian.com/apps/1233908/connectors-for-jira-free?hosting=cloud
 https://marketplace.atlassian.com/apps/1233931/snyk-for-compass?tab=overview&hosting=cloud
 https://marketplace.atlassian.com/apps/1233942/pagerduty-for-compass?tab=overview&hosting=cloud
 https://marketplace.atlassian.com/apps/1233977/sentry-for-compass?tab=overview&hosting=cloud
@@ -4216,6 +4211,7 @@ https://marketplace.atlassian.com/apps/2576221793/easy-markdown-exporter-for-con
 https://marketplace.atlassian.com/apps/27447/table-filter-and-charts-for-confluence?hosting=cloud
 https://marketplace.atlassian.com/apps/27447/table-filter-and-charts-for-confluence?hosting=datacenter
 https://marketplace.atlassian.com/apps/2785074762/cumulative-flow-diagrams-cfd-for-jira-agile-charts-gadgets?hosting=cloud&tab=overview
+https://marketplace.atlassian.com/apps/2831389750/requira-requirements-traceability-for-jira
 https://marketplace.atlassian.com/apps/2836020067/created-vs-resolved-charts-for-jira-agile-gadgets-reports?hosting=cloud&tab=overview
 https://marketplace.atlassian.com/apps/2903137599/sprintretro-pro-retrospective-metrics-suite?hosting=cloud&tab=overview
 https://marketplace.atlassian.com/apps/29496/jira-workflow-toolbox?hosting=cloud&tab=overview
@@ -6679,3 +6675,4 @@ zooplus.net
 ██████████████████████████████████████████████████████████████████████████████████████████████████████
 ██████████████████████████████████████████████████████████████████████████████████████████████████████████████
 ████████████████████████████████████████████████████████████████████████████████████████████████████████████████
+███████████████████████████████████████████████████████████████████████████████████████████████████████████████████████████████████████
