@@ -661,7 +661,7 @@ Enjin Blockchain
 Eno® Browser Extension
 Enterprise Audio/Video
 Enterprise Edition Products and Tools
-EpicGamesLauncher.exe    
+EpicGamesLauncher v2
 EpicOnlineServices
 Evergreen
 Exness Investor
@@ -1391,7 +1391,6 @@ api.neon.opera.com/neon/store
 api.neon.opera.com/pub
 api.ort-one-pingone.com
 api.paybox.sh
-api.prd.commerce.simplisafe.com
 api.privy.io
 api.pro.faraday.ai
 api.prod.whoop.com
@@ -2040,6 +2039,8 @@ com.ubnt.ucrm
 com.ubnt.umobile
 com.urbanclap.provider
 com.urbanclap.urbanclap
+com.valmo.ops
+com.valmo.rider
 com.valmo.valmo
 com.valvesoftware.Steam
 com.venmo
@@ -2108,6 +2109,7 @@ console.circle.com
 console.ort-one-pingone.com
 console.tink.com
 console.twilio.com
+console.valmo.in
 console.x.ai
 console.x.com
 contact-dev.nba.com
@@ -2495,6 +2497,7 @@ green.nba.com
 greensboro-dev.gleague.nba.com
 greensboro-qa.gleague.nba.com
 greensboro.gleague.nba.com
+grocery-supplier.meesho.com
 grok.com
 grokipedia.com
 gs://faraday-secret
@@ -4589,8 +4592,6 @@ https://signal.pulsepoint.com/hcpexplorer/#/dashboard/eventsExplorer
 https://signature.blis.com
 https://signup.ticketmaster.com/bugbountytest
 https://simnext.bullish-test.com
-https://simplisafe.co.uk
-https://simplisafe.com
 https://sitepixel.blis.com
 https://sitepixel.dev.blis.com
 https://skippayments.com
@@ -5410,7 +5411,6 @@ my.loanbuilder.com
 my.plaid.com
 my.playstation.com
 my.pressable.com
-my.sheer.com
 my.snapchat.com
 my.swiftfinancial.com
 my.tw.coupang.com
@@ -6480,7 +6480,6 @@ www.royalarena.dk
 www.s-pankki.fi
 www.sa.dyson.com
 www.semrush.com
-www.sheer.com
 www.six-group.com
 www.soundon.global
 www.starbucks.ca
