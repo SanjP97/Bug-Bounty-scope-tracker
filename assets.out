@@ -404,8 +404,6 @@
 993135524
 9nqwjwnqjj5n
 9wzdncrfj3mb
-<Your own 1Password account> —> Latest stable, beta, or nightly Browser Extension (Chrome, Brave, Firefox, Edge, and Safari)
-<Your own 1Password account> —> Latest stable, beta, or nightly Command Line Interface (CLI)
 <locale>.trip.com
 @privy-io controlled namespace dependencies
 A16k
@@ -2558,7 +2556,6 @@ hotornot.com
 hotshoppeservices.com
 hpanel.hostinger.com
 http1mustdie.com
-http://--your-own-1password-account--.1password.com
 http://10.72.218.66/flag.txt
 http://activitylog.io/
 http://analytics.prosus.com
@@ -3184,7 +3181,6 @@ https://etherscan.io/token/0xfe18ae03741a5b84e39c295ac9c856ed7991c38e
 https://etoropartners.com
 https://etorox.com
 https://etsypayments.com
-https://events.1password.com/api/
 https://evigilation.monash.edu
 https://example-jssdk-integ.uidapi.com
 https://example-srvonly-integ.uidapi.com
