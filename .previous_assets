@@ -639,6 +639,14 @@ C103149579
 C2PA Tool
 CDNJS
 CHP Cloud Portal
+COUPANG (AOS)
+COUPANG (IOS)
+COUPANG EATS (AOS)
+COUPANG EATS (IOS)
+COUPANG LIVE CREATOR (AOS)
+COUPANG LIVE CREATOR (IOS)
+COUPANG PLAY (AOS)
+COUPANG PLAY (IOS)
 Canva (Android)
 Canva (Chrome Extension)
 Canva (iOS)
@@ -1307,6 +1315,7 @@ Secondary Assets
 Secure Custom Fields
 Self Register Account on T-Mobile Microsoft Entra ID
 Self-Register Account on T-Mobile Microsoft Entra ID
+Self-Register Account on T-Mobile Microsoft Entra ID and Access Tenant Resources
 Services/Mobile/GenAI
 Shop Minis
 Shopify Developed Apps
@@ -1705,6 +1714,8 @@ api.cloudflare.com
 api.codacy.com
 api.coinbase.com
 api.coinmarketcap.com
+api.coupangeats.com
+api.coupangstreaming.com
 api.creditkarma.com
 api.custody.coinbase.com
 api.dashlane.com
@@ -1939,6 +1950,7 @@ aquiristech.com
 arc.net
 arrive-server.shopifycloud.com
 arsentomsky.indrive.com
+as.coupang.com
 ask.khealth.com
 askpeopleteam.visa.com
 assets.airbnb.com
@@ -2138,17 +2150,20 @@ cares.nba.com
 cargo.indrive.com
 cars.booking.com
 cart-front-api.tw.coupang.com
+cart.coupang.com
 cart.starbucks.co.jp
 cart.tw.coupang.com
 cas-cf.euce1.indriverapp.com
 cas-gw-cf.euce1.indriverapp.com
 cas-gw-scf.euce1.indriverapp.com
 cas.eu-east-1.indriverapp.com
+cash.coupang.com
 cash.tw.coupang.com
 cashier-src.etoro.com
 cashier.deriv.com
 cashier.etoro.com
 cashier.robinhood.com
+cast.coupangstreaming.com
 cca-cf.latam-mx.usea1.aws.indriverapp.com
 ccardseu1.badoo.com
 ccardsus1.badoo.com
@@ -2172,6 +2187,8 @@ cdn.moderntreasury.com
 cdn.nba.com
 cdn.plaid.com
 cdna.lystit.com
+centaurs-rest.coupang.com
+centaurs.coupang.com
 chain.link
 chainabuse-staging.com
 channel-portal.homes-and-villas.marriott.com
@@ -2183,6 +2200,7 @@ chat.x.com
 chatdate.app
 chatspot.ai
 chaturbate.com
+checkout.coupang.com
 checkout.playstation.com
 checkout.rapyd.net
 checkout.razorpay.com
@@ -2217,6 +2235,8 @@ cloud.threatdown.com
 cloud8.8x8.com
 cloudflareworkers.com
 cm-cf.euce1.indriverapp.com
+cmapi.coupang.com
+cmapi.coupang.kr
 cmapi.tw.coupang.com
 cmf-cf.euce1.indriverapp.com
 cms.nba.com
@@ -2717,9 +2737,11 @@ corp.nba.com
 corporate.abercrombie.com
 corporate.wolt.com
 cosmo.fdeb.live.use1a.on.epicgames.com
+coupang.com
 courier-gw-cf.cis.euce1.aws.indriverapp.com
 couriers.indrive.com
 courtside.nba.com
+cousms.coupang.com
 cover-photos-us-east-2.hackerone-user-content.com
 cover-photos.hackerone-user-content.com
 cpanel.hostinger.com
@@ -2739,6 +2761,7 @@ crm.na1.insightly.com
 crm.nextcloud.com
 cruises.priceline.com
 cs.money
+csmessenger.coupang.com
 csp-pci.prod.codebig2.net
 ct.deriv.com
 ctf.hacker101.com
@@ -2808,6 +2831,7 @@ datapod-2-druid-ingest.production.forescoutcloud.net
 datapod-2-ingest.acceptance.forescoutcloud.net
 datapod-2-query.acceptance.forescoutcloud.net
 daw-cf.euce1.indriverapp.com
+dco.coupang.com
 dco.tw.coupang.com
 de.forescout.cloud
 debug.8x8.com
@@ -2861,6 +2885,7 @@ developers.reddit.com
 developers.tiktok.com
 developers.tw.coupangcorp.com
 device.marriott.com
+dfs.coupang.com
 dh-cf.mena.meso1.aws.indriverapp.com
 dh-gw-scf.sa.apse1.aws.indriverapp.com
 diabrowser.com
@@ -2871,6 +2896,7 @@ digili.s-cloud.fi
 direct-demo.currencycloud.com
 direct.playstation.com
 discover.23andme.com
+discover.coupangstreaming.com
 distribution-xml.booking.com
 dk.royalarena.app
 dl.boxcloud.com
@@ -2906,6 +2932,7 @@ dx-demo.deriv.com
 dx.deriv.com
 e-Commerce
 eassessment.monash.edu
+eats-mobile-web.coupang.com
 ebctest.cybersource.com
 ebsext.oft.hyatt.com
 ec2-redirect-west.nba.com
@@ -2919,6 +2946,7 @@ eero Devices
 efast.marriott.com
 effecthouse.tiktok.com
 eg.ht
+egift.coupang.com
 eidhelp.marriott.com
 elastic.co credentials
 eligibility.khealth.com
@@ -2979,6 +3007,7 @@ fch-gw-cf.euce1.indriverapp.com
 fch-gw-scf.euce1.indriverapp.com
 fch-scf.euce1.indriverapp.com
 fe-gw-scf.sa.apse1.aws.indriverapp.com
+feed-web.coupang.com
 feed-web.tw.coupang.com
 feedback.logitech.com
 fetlife.com
@@ -3001,6 +3030,7 @@ file.larksuite.com
 files-stg.inspectorio.com
 files.stripe.com
 fileupload-video.tw.coupang.com
+fileupload.coupang.com
 fileupload.tw.coupang.com
 fintech-aml-kyc-tw.coupang.com
 fire-dev.wnba.com
@@ -3946,6 +3976,7 @@ https://ebctest.cybersource.com/tms
 https://ebctest.cybersource.com/tss
 https://ebctest.cybersource.com/ums
 https://ebctest.cybersource.com/underwriting
+https://ebctest.cybersource.com/unifiedpayments
 https://ebctest.cybersource.com/varm
 https://ebctest.cybersource.com/vdm
 https://ebctest.cybersource.com/vroom
@@ -6568,6 +6599,7 @@ icl-cf.euce1.indriverapp.com
 icl-gw-cf.euce1.indriverapp.com
 icl-gw-scf.euce1.indriverapp.com
 icl-scf.euce1.indriverapp.com
+id.coupang.com
 id.heytap.com
 id.logi.com
 id.nba.com
@@ -6623,6 +6655,7 @@ ignite-dev.gleague.nba.com
 ignite-qa.gleague.nba.com
 ignite.gleague.nba.com
 images.demand.cybersource.com
+img.coupangstreaming.com
 imx.community
 in-gw-scf.sa.apse1.aws.indriverapp.com
 in.amazon.mShop.android.business.shopping
@@ -6773,9 +6806,15 @@ lists.nextcloud.com
 lists.wordpress.org
 live-backstage.tiktok.com
 live-service.whatnot.com
+live.coupang.com
+live.coupangcorp.com
+livecreator.coupang.com
+liveh5.coupang.com
 livenation.com
 livenation.me
+ljc-test.coupang.com
 ljc-test.tw.coupang.com
+ljc.coupang.com
 ljc.tw.coupang.com
 loanbuilder.com
 localizestaging.com
@@ -6793,6 +6832,7 @@ login-qa.wnba.com
 login-sandbox.nba.com
 login-uat.nba.com
 login-uat.wnba.com
+login.coupang.com
 login.databricks.com
 login.exodus.com
 login.insightly.com
@@ -6822,6 +6862,7 @@ longisland.gleague.nba.com
 lookatme.com.ph
 lookup.nextcloud.com
 lookups.twilio.com
+loyalty.coupang.com
 loyalty.tw.coupang.com
 lrc20.lightspark.com
 lynx-dev.wnba.com
@@ -6834,6 +6875,7 @@ m.airbnb.com
 m.badoo.com
 m.box.com
 m.chaturbate.com
+m.coupang.com
 m.reddit.com
 m.trendyol.com
 m.tw.coupang.com
@@ -6878,6 +6920,7 @@ marrtool.com
 matomo.cloud
 matrix.redditspace.com
 mauth.tw.coupang.com
+mc.coupang.com
 mc.sendgrid.com
 mc.tw.coupang.com
 mcd-dev.nba.com
@@ -6897,6 +6940,7 @@ mcp.faraday.ai
 mcp.staging.airtable.com
 mcp.stripe.com
 mds.marriott.com
+media-log.coupang.com
 media.drogas.lt
 media.drogas.lv
 media.iciparisxl.be
@@ -6964,6 +7008,7 @@ merchantsignagejp.visa.com
 mercury-dev.wnba.com
 mercury-qa.wnba.com
 mercury-qa2.wnba.com
+mercury.coupang.com
 mercury.wnba.com
 merino.services.mozilla.com
 messaging.twilio.com
@@ -7016,6 +7061,7 @@ mta-sts.wearehackerone.com
 mus1.badoo.com
 my.account.sony.com
 my.clearme.com
+my.coupang.com
 my.exness.com
 my.loanbuilder.com
 my.malwarebytes.com
@@ -7034,6 +7080,7 @@ myaccount-hardening.dynatracelabs.com
 myaccount.payoneer.com
 myanmar.visa.com
 myconnect.com.au
+myself.coupang.com
 myself.tw.coupang.com
 mystics-dev.wnba.com
 mystics-qa.wnba.com
@@ -7224,10 +7271,12 @@ outlook.insightly.com
 ovo.id
 owa.marriott.com
 oymyakon.indriver.io
+p.coupang.com
 p.grabtaxi.com
 p2p.walletbot.me
 pa-gw-scf.sa.apse1.aws.indriverapp.com
 pabets.tvg.com
+pages.coupang.com
 pages.indriverapp.com
 pages.tw.coupang.com
 pangea.cloud
@@ -7252,6 +7301,7 @@ pata.wnba.com
 pay-admin.exodus.io
 pay-sandbox.gocardless.com
 pay.8x8.com
+pay.coupang.com
 pay.exodus.io
 pay.ibex.exchange
 pay.tokopediax.com
@@ -7259,6 +7309,8 @@ pay.tw.coupang.com
 pay.wallet.tg
 paybridge.booking.com
 payer-details-sandbox.gocardless.com
+payment.coupang.com
+payment.coupangpay.com
 payment.pixiv.net
 payment.tw.coupang.com
 paymentcomponent.booking.com
@@ -7429,6 +7481,7 @@ realme P3 Lite 5G
 realme P4 5G
 realme P4 Pro 5G
 reastatic.net
+reco.coupang.com
 reco.tw.coupang.com
 recovery.privy.io
 redditforbusiness.com
@@ -7504,6 +7557,7 @@ resmax.hilton.com
 resolve.8x8.com
 resources.krisp.ai
 restaurant-api.wolt.com
+review.coupang.com
 review.tw.coupang.com
 reviewer.pullrequest.com
 rewire.com
@@ -7521,6 +7575,7 @@ rise.stg.inspectorio.com
 rma.ui.com
 ro.superbet.games
 ro.superbet.sport
+rocketpay.coupang.com
 rockstarnorth.com
 roominglist.hyatt.com
 router.geneva-staging.com
@@ -7609,6 +7664,8 @@ shipit.rubygems.org
 shop-id.tokopedia.com
 shop.app
 shop.com
+shop.coupang.com
+shop.coupangpay.com
 shop.dyson.co.za
 shop.dyson.tw
 shop.judge.me
@@ -7767,6 +7824,7 @@ sts.etoro.com
 studio.twilio.com
 style.23andme.com
 style.23andme.org
+subscribe-order.coupang.com
 sun-dev.wnba.com
 sun-qa.wnba.com
 sun-qa2.wnba.com
@@ -7804,6 +7862,7 @@ sync.services.mozilla.com
 sync.twilio.com
 syndication-dev.nba.com
 syndication-qa.nba.com
+syndication.coupang.com
 syndication.nba.com
 syndication.tw.coupang.com
 t.co
@@ -7878,6 +7937,7 @@ treatments.khealth.com
 trello.com
 trendyol.com
 tria.ge
+trip.coupang.com
 trs.nba.com
 truck-api.eu-east-1.indriverapp.com
 trunking.twilio.com
@@ -8015,6 +8075,8 @@ web-edge.clearme.com
 web-message-high.lime.bike
 web-message.lime.bike
 web-production.lime.bike
+web.coupangeats.com
+web.coupangstreaming.com
 web.crypto.com
 web.geneva-staging.com
 web.grindr.com
@@ -8027,6 +8089,7 @@ web3.moonpay.com
 webauthn.me	
 webgateway.koho.ca
 webhooks.booking.com
+weblog.coupang.com
 webtask.run
 wechat.api.marriott.com
 westchester-dev.gleague.nba.com
@@ -8050,6 +8113,7 @@ wings.wnba.com
 wisconsin-dev.gleague.nba.com
 wisconsin-qa.gleague.nba.com
 wisconsin.gleague.nba.com
+wish-web.coupang.com
 wlr-cf.euce1.indriverapp.com
 wlr-scf.euce1.indriverapp.com
 wmr.3cx.net
@@ -8114,6 +8178,9 @@ www.coinhako.com
 www.coinspot.com.au
 www.compass.com
 www.counter-strike.net
+www.coupang.com
+www.coupangeats.com
+www.coupangplay.com
 www.creditkarma.ca
 www.crowdstrike.com
 www.crowdstrike.org
