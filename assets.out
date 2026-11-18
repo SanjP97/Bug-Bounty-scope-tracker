@@ -286,7 +286,6 @@
 328407587
 335187483
 336381998
-339041767
 34.237.130.2
 342576766
 348712880
@@ -297,7 +296,6 @@
 374254473
 379693831
 38.140.238.56/29
-383915209
 3CX Live chat WordPress plugin
 3CX Phone System
 3CX SBC
@@ -917,6 +915,8 @@ Nintendo Switch 2 applications for which Nintendo is the publisher worldwide
 Nintendo Switch System
 Nintendo Switch applications for which Nintendo is the publisher worldwide
 Non-Core Assets
+Nord Security VPN servers
+Nord Security backend services and website
 Notion AI
 Notion Authentication
 Notion Desktop App
@@ -1228,7 +1228,6 @@ a5s.hackerone-ext-content.com
 ab-api-gw-cf.global.aws.indriverapp.com
 ab-api-gw-scf.global.aws.indriverapp.com
 ab2b0c50cdc7b445391f99d4957850c5-cd4ccfdb37dfafad.elb.us-east-1.amazonaws.com
-abercrombie.com
 ablink.info.remitly.com
 about.gitlab.com
 academy-outbound-ads.tiktok.com
@@ -1313,7 +1312,6 @@ amp-nba.nba.com
 amp.reddit.com
 analytics.krisp.ai
 anduril.com
-anfcorp.com
 anker-nebula/id1319092174
 anthropic.atlassian.com
 aoa-ws-fis.earlywarning.com
@@ -1771,8 +1769,6 @@ com.Hyatt
 com.Seriously.BestFiends
 com.Seriously.Phoenix
 com.Slack
-com.abercrombie.abercrombie
-com.abercrombie.hollister
 com.acronis.abc
 com.acronis.acronistrueimage
 com.affirm.central.audit
@@ -2168,7 +2164,6 @@ coronavirus.nba.com
 corp-dev.nba.com
 corp.badoo.com
 corp.nba.com
-corporate.abercrombie.com
 corporate.wolt.com
 cosmo.fdeb.live.use1a.on.epicgames.com
 coupang.com
@@ -2567,7 +2562,6 @@ hilton.io
 hiltonbusinessonline.com
 hiltonlocalbiz.com
 hmxservices.com
-hollisterco.com
 home.deriv.com
 home.privy.io
 homeloans.wellsfargo.com
@@ -2739,6 +2733,7 @@ https://api.mafshoppingmalls.com
 https://api.mafshoppingmalls.com/
 https://api.myntra.com
 https://api.neogov.com
+https://api.nordlayer.com/
 https://api.openai.com
 https://api.optimizely.com/
 https://api.pinterest.com
@@ -3031,11 +3026,13 @@ https://chrome.google.com/webstore/detail/ibotta-browser-extension/mfaedmjlefifh
 https://chrome.google.com/webstore/detail/pinterest-save-button/gpdjojdkbbmdfjfahjcgigfpmkopogic?hl=en
 https://chromewebstore.google.com/detail/indeed-recruiter-extensio/kiodpphbmnmcmnfgpnmkkhmkllnlflef
 https://chromewebstore.google.com/detail/loom-%E2%80%93-screen-recorder-sc/liecbddmkiiihnedobmlmillhodjkdmb?hl=en-US&pli=1
+https://chromewebstore.google.com/detail/nordlayer-browser-extensi/pilehkefiejmhdldhbajgajlcgggohkj
 https://citycentredeira.com/
 https://clickhou.se/bugcrowd
 https://clients.adstruc.com
 https://clients.multiplayer.classdojo.com/launcher/prod/latest
 https://cloud.langfuse.com/
+https://cloud.nordlocker.com/
 https://cloud.oppo.com/
 https://cloud.unity.com
 https://cloudinary.com/console
@@ -3143,12 +3140,14 @@ https://e-global.heytap.com/marketing/login
 https://e.oppo.com/
 https://ebc2test.cybersource.com/settings
 https://ebctest.cybersource.com/CGK2
+https://ebctest.cybersource.com/apm
 https://ebctest.cybersource.com/bin
 https://ebctest.cybersource.com/boarding/v1/registrations
 https://ebctest.cybersource.com/boarding/v1/templates
 https://ebctest.cybersource.com/bos
 https://ebctest.cybersource.com/casemanagement
 https://ebctest.cybersource.com/cds/
+https://ebctest.cybersource.com/devicemanagement
 https://ebctest.cybersource.com/dmconfigapi
 https://ebctest.cybersource.com/epcapi
 https://ebctest.cybersource.com/identity
@@ -4350,6 +4349,34 @@ https://news.vinted.com
 https://next.flatmates.com.au
 https://nice.wfmusaa.com
 https://nominatim.bykea.net
+https://nordlayer.com/browser/download/
+https://nordlayer.com/download/android/
+https://nordlayer.com/download/ios/
+https://nordlayer.com/download/linux/
+https://nordlayer.com/download/macos/
+https://nordlayer.com/download/windows/
+https://nordlocker.com/download/android/
+https://nordlocker.com/download/ios/
+https://nordlocker.com/download/windows/
+https://nordpass.com/apps/web-vault/
+https://nordpass.com/download/android/
+https://nordpass.com/download/chrome/
+https://nordpass.com/download/edge/
+https://nordpass.com/download/firefox/
+https://nordpass.com/download/ios/
+https://nordpass.com/download/linux/
+https://nordpass.com/download/macos/
+https://nordpass.com/download/windows/
+https://nordvpn.com/download/android-tv/
+https://nordvpn.com/download/android/
+https://nordvpn.com/download/apple-tv/
+https://nordvpn.com/download/chrome-extension/
+https://nordvpn.com/download/edge-extension/
+https://nordvpn.com/download/firefox-extension/
+https://nordvpn.com/download/ios/
+https://nordvpn.com/download/linux/
+https://nordvpn.com/download/mac/
+https://nordvpn.com/download/windows
 https://northwesternmutual.com
 https://nubank.com.br/
 https://nubank.com.co

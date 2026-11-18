@@ -1156,6 +1156,8 @@ Nintendo Switch 2 applications for which Nintendo is the publisher worldwide
 Nintendo Switch System
 Nintendo Switch applications for which Nintendo is the publisher worldwide
 Non-Core Assets
+Nord Security VPN servers
+Nord Security backend services and website
 NordPass - Linux Executable
 NordPass - MacOS Executable
 NordPass - Windows Executable
@@ -3444,6 +3446,7 @@ https://api.mafshoppingmalls.com/
 https://api.myntra.com
 https://api.neogov.com
 https://api.netgear.com
+https://api.nordlayer.com/
 https://api.openai.com
 https://api.optimizely.com/
 https://api.pinterest.com
@@ -3796,6 +3799,7 @@ https://chrome.google.com/webstore/detail/pinterest-save-button/gpdjojdkbbmdfjfa
 https://chrome.google.com/webstore/detail/xverse-wallet/idnnbdplmphpflfnlkomgpfbpcgelopg
 https://chromewebstore.google.com/detail/indeed-recruiter-extensio/kiodpphbmnmcmnfgpnmkkhmkllnlflef
 https://chromewebstore.google.com/detail/loom-%E2%80%93-screen-recorder-sc/liecbddmkiiihnedobmlmillhodjkdmb?hl=en-US&pli=1
+https://chromewebstore.google.com/detail/nordlayer-browser-extensi/pilehkefiejmhdldhbajgajlcgggohkj
 https://citycentredeira.com/
 https://clearpay.co.uk
 https://clearpay.com
@@ -3803,6 +3807,7 @@ https://clickhou.se/bugcrowd
 https://clients.adstruc.com
 https://clients.multiplayer.classdojo.com/launcher/prod/latest
 https://cloud.langfuse.com/
+https://cloud.nordlocker.com/
 https://cloud.oppo.com/
 https://cloud.unity.com
 https://cloudinary.com/console
@@ -3939,12 +3944,14 @@ https://e-global.heytap.com/marketing/login
 https://e.oppo.com/
 https://ebc2test.cybersource.com/settings
 https://ebctest.cybersource.com/CGK2
+https://ebctest.cybersource.com/apm
 https://ebctest.cybersource.com/bin
 https://ebctest.cybersource.com/boarding/v1/registrations
 https://ebctest.cybersource.com/boarding/v1/templates
 https://ebctest.cybersource.com/bos
 https://ebctest.cybersource.com/casemanagement
 https://ebctest.cybersource.com/cds/
+https://ebctest.cybersource.com/devicemanagement
 https://ebctest.cybersource.com/dmconfigapi
 https://ebctest.cybersource.com/epcapi
 https://ebctest.cybersource.com/identity
@@ -5575,6 +5582,34 @@ https://news.vinted.com
 https://next.flatmates.com.au
 https://nice.wfmusaa.com
 https://nominatim.bykea.net
+https://nordlayer.com/browser/download/
+https://nordlayer.com/download/android/
+https://nordlayer.com/download/ios/
+https://nordlayer.com/download/linux/
+https://nordlayer.com/download/macos/
+https://nordlayer.com/download/windows/
+https://nordlocker.com/download/android/
+https://nordlocker.com/download/ios/
+https://nordlocker.com/download/windows/
+https://nordpass.com/apps/web-vault/
+https://nordpass.com/download/android/
+https://nordpass.com/download/chrome/
+https://nordpass.com/download/edge/
+https://nordpass.com/download/firefox/
+https://nordpass.com/download/ios/
+https://nordpass.com/download/linux/
+https://nordpass.com/download/macos/
+https://nordpass.com/download/windows/
+https://nordvpn.com/download/android-tv/
+https://nordvpn.com/download/android/
+https://nordvpn.com/download/apple-tv/
+https://nordvpn.com/download/chrome-extension/
+https://nordvpn.com/download/edge-extension/
+https://nordvpn.com/download/firefox-extension/
+https://nordvpn.com/download/ios/
+https://nordvpn.com/download/linux/
+https://nordvpn.com/download/mac/
+https://nordvpn.com/download/windows
 https://northwesternmutual.com
 https://nubank.com.br/
 https://nubank.com.co
