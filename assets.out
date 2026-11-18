@@ -1969,8 +1969,6 @@ com.miui.cloudbackup
 com.miui.cloudservice
 com.miui.micloudsync
 com.monaco.mobile
-com.moneybird.Moneybird
-com.moneybird.android
 com.moveit.app.customer
 com.nbaimd.gametime.nba2011
 com.nbaimd.gametime.universal
@@ -2232,6 +2230,7 @@ cweb-slot6-preview-ott-dev.nba.com
 d-you Wallet Android Test
 d-you Wallet iOS Test
 dash.cloudflare.com
+dashboard.algolia.com
 dashboard.doppler.com
 dashboard.mergify.com
 dashboard.plaid.com
@@ -5433,8 +5432,6 @@ mod.reddit.com
 modefestival.com
 moments.marriottbonvoy.com
 money.x.com
-moneybird.com
-moneybirdstorage.com
 monitor.twilio.com
 moonpay.com
 motorcity.gleague.nba.com
@@ -6396,6 +6393,7 @@ www-uat.nba.com
 www.23andme.org
 www.4njbets.com
 www.airbnb.com
+www.algolia.com
 www.analvids.com
 www.applevacations.com
 www.arkoselabs.com
