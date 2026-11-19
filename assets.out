@@ -2623,6 +2623,7 @@ http://market.android.com/details?id=com.ibotta.android
 http://marlo.ext.tripadvisor.com
 http://mcp.intercom.com
 http://mcp.klaviyo.com/
+http://mcp.opensea.io/sse
 http://media.itsfogo.com/media/upload/mobile/android/apk/partycasino_com.apk
 http://member-qa.chime.com/enroll
 http://mgmtpod-1.production.forescoutcloud.net/oauth/token
@@ -2680,7 +2681,6 @@ https://accounts.cmp.optimizely.com/
 https://accounts.hytale.com/login
 https://accounts.lastpass.com
 https://accounts.opera.com
-https://accounts.webmd.com
 https://accounts.welcomesoftware.com/
 https://acorns.com/
 https://addons.mozilla.org/en-US/firefox/addon/pinterest/
@@ -3211,8 +3211,6 @@ https://etsypayments.com
 https://evigilation.monash.edu
 https://example-jssdk-integ.uidapi.com
 https://example-srvonly-integ.uidapi.com
-https://exchange.pulsepoint.com
-https://exchange.pulsepoint.com/AdminPortal/AdminDashBoard.aspx
 https://explore-sit.uat.proptrack.com
 https://explorer.cronos.org/token/0x2e53c5586e12a99d4CAE366E9Fc5C14fE9c6495d
 https://externalconnect.usaa.com/
@@ -3490,7 +3488,6 @@ https://hr.prosus.com/
 https://hub.immutable.com/
 https://hytale.com/
 https://hytale.dev/
-https://ibconnect.internetbrands.com
 https://id.atlassian.com/login
 https://id.recordedfuture.com
 https://id.unity.com
@@ -3575,10 +3572,6 @@ https://legacy-blockexplorer.electroneum.com
 https://lensstudio.snapchat.com/api/
 https://library.elementor.com/
 https://lieferando.de
-https://life.pulsepoint.com/Buyer/#/campaign
-https://life.pulsepoint.com/EngagementAudience/#/dashboard
-https://life.pulsepoint.com/MediaPlanner/#/dashboard/targetview
-https://lifeapi.pulsepoint.com
 https://linktr.ee
 https://linktree.app.link/LinktreeWebsite?utm_medium=Linktree_Footer
 https://linktree.com
@@ -3590,7 +3583,6 @@ https://liveassist22.usaa.com/
 https://liveassist23.usaa.com
 https://liveassist24.usaa.com
 https://login.bitpanda.com
-https://login.medscape.com
 https://login.neogov.com
 https://lp.lime.bike/
 https://m.thefork.com
@@ -4291,12 +4283,11 @@ https://mattermost.com/apps/
 https://mcp-server.zomato.com/mcp
 https://mcp-staging.getmoneytree.com/
 https://mcp.atlassian.com
-https://mcp.opensea.io
+https://mcp.opensea.io/mcp
 https://mcp.recordedfuture.com
 https://mcs.arlo.com
 https://mediaflows.cloudinary.com/
 https://mein.wien.gv.at/
-https://member.webmd.com
 https://metrobyt-mobile.com
 https://metroconnect.app.ridewithvia.com
 https://mg.n0c.com/
@@ -4400,8 +4391,6 @@ https://one.newrelic.com
 https://online.monash.edu/
 https://open.sincera.io
 https://openai.com/
-https://openapi.pulsepoint.com
-https://openapitest.pulsepoint.com
 https://opendata-demo.test-socrata.com
 https://opendata.test-socrata.com
 https://opensea.io/
@@ -4438,7 +4427,6 @@ https://pentest-app.onetrust.com/
 https://peopleview.naspers.com
 https://performance.neogov.com
 https://performancemarketing.mastercard.com/portal/
-https://pets.webmd.com
 https://pioneer.truata.com/
 https://pixabay.com/
 https://platform.blis.com
@@ -4574,10 +4562,8 @@ https://portal.originzero.com.au
 https://portal.riskrecon.com
 https://portal.riskrecon.eu
 https://portal.unifiedid.com
-https://portalv2.lh360.com
 https://portfolio-manager-sit.uat.proptrack.com/
 https://powerdms.com/
-https://powerpak.com
 https://priceless.com/golf/
 https://privacy.blismedia.com
 https://prod.euid.eu
@@ -4586,7 +4572,6 @@ https://production-delivery-metrics-svc.vistarmedia.com
 https://production-dynam-creative.vistarmedia.com
 https://production.maf.auth0.com
 https://production.maf.auth0.com/api/v2/
-https://profreg.medscape.com
 https://projects.epam.com
 https://property.com.au
 https://pt-runner.app.ridewithvia.com
@@ -4642,8 +4627,6 @@ https://shop.ifood.com.br
 https://shop.lululemon.com
 https://shop.monash.edu/
 https://sign.originzero.com.au
-https://signal.pulsepoint.com/hcp365/#/dashboard/advertiser/6603/overview
-https://signal.pulsepoint.com/hcpexplorer/#/dashboard/eventsExplorer
 https://signature.blis.com
 https://signup.ticketmaster.com/bugbountytest
 https://simnext.bullish-test.com
@@ -4870,7 +4853,6 @@ https://www.canva.com/developers/
 https://www.canva.com/en_au/help/chatgpt-templates/
 https://www.canva.com/integrations/slack/
 https://www.carrefouruae.com/
-https://www.carsdirect.com
 https://www.cb2.ae/en
 https://www.chime.com
 https://www.chipotle.co.uk
@@ -4887,7 +4869,6 @@ https://www.creditkarma.com/reviews/
 https://www.creditkarma.com/savings
 https://www.cultbeauty.co.uk/
 https://www.currencycloud.com/
-https://www.demandforced3.com/
 https://www.designify.com
 https://www.developersites.com.au/testing-2505-houston/
 https://www.developersites.com.au/testing-2505-lms/
@@ -4904,14 +4885,12 @@ https://www.galacasino.com
 https://www.gamemaker.io
 https://www.gesundheitsverbund.at
 https://www.ghafwoods.com/en
-https://www.globalacademycme.com
 https://www.governmentjobs.com
 https://www.hostgator.com.br/
 https://www.hostgator.com/
 https://www.ifood.com.br
 https://www.imperva.com
 https://www.intercom.com/
-https://www.internetbrands.com
 https://www.just-eat.co.uk
 https://www.justeattakeaway.com
 https://www.kaleido.ai
@@ -4946,7 +4925,6 @@ https://www.mastercard.com.au/en-au.html
 https://www.mastercard.nl/nl-nl.html
 https://www.mastercard.us/en-us.html
 https://www.matalan.co.uk
-https://www.mdedge.com
 https://www.mgmmacau.com
 https://www.microsoft.com/en-us/p/keeperchat/9pdqtcpn4kxn#activetab=pivot:overviewtab
 https://www.minhaconta.zoop.com.br
@@ -5071,7 +5049,6 @@ https://www.vwfs.nl
 https://www.vwfs.pl
 https://www.vwfs.pt
 https://www.vwfs.sk
-https://www.webmd.com
 https://www.whosampled.com/
 https://www.wien.gv.at
 https://www.winconnect.com.au/get-connected/
@@ -5641,7 +5618,6 @@ ontario.gleague.nba.com
 open.airbnb.com
 open.larksuite.com
 openapi.starbucks.com
-openfinance.unico.io
 openidconnect.net	
 opposhop.cn
 ops.lime.bike
@@ -6756,7 +6732,9 @@ zooplus.net
 ███████████████████████████████████████████████████████████
 ███████████████████████████████████████████████████████████████
 ███████████████████████████████████████████████████████████████████
+████████████████████████████████████████████████████████████████████
 ████████████████████████████████████████████████████████████████████████
+█████████████████████████████████████████████████████████████████████████
 ███████████████████████████████████████████████████████████████████████████████████████████████████
 ████████████████████████████████████████████████████████████████████████████████████████████████████
 ██████████████████████████████████████████████████████████████████████████████████████████████████████
