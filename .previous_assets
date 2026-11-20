@@ -4274,10 +4274,12 @@ https://github.com/matomo-org/tracker-proxy
 https://github.com/mattermost/mattermost-plugin-ai
 https://github.com/mattermost/mattermost-plugin-boards
 https://github.com/mattermost/mattermost-plugin-calls
+https://github.com/mattermost/mattermost-plugin-channel-export
 https://github.com/mattermost/mattermost-plugin-confluence
 https://github.com/mattermost/mattermost-plugin-github
 https://github.com/mattermost/mattermost-plugin-gitlab
 https://github.com/mattermost/mattermost-plugin-jira 
+https://github.com/mattermost/mattermost-plugin-metrics
 https://github.com/mattermost/mattermost-plugin-mscalendar
 https://github.com/mattermost/mattermost-plugin-msteams
 https://github.com/mattermost/mattermost-plugin-msteams-meetings
@@ -8404,6 +8406,7 @@ www.royalarena.dk
 www.s-kaupat.fi
 www.s-pankki.fi
 www.sa.dyson.com
+www.sellingpilot.com
 www.sembcorp.com
 www.semrush.com
 www.sheer.com
