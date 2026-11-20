@@ -1537,6 +1537,7 @@ authentication.wolt.com
 autocomplete.booking.com
 av.indrive.com
 b5s.hackerone-ext-content.com
+backend-sdk.prod.private.unico.run
 backend-sdk.uat.private.unico.run
 backstage.io
 badoo.com
@@ -1593,7 +1594,6 @@ blog.playcanvas.com
 blog.remitly.com
 blog.twilio.com
 blog.ui.com
-blog.unico.io
 blox.link
 bluecoats-qa.gleague.nba.com
 bluecoats.gleague.nba.com
@@ -1634,6 +1634,7 @@ ca-gw-cf.latam-mx.usea1.aws.indriverapp.com
 ca.account.sony.com
 ca.koho
 cache.judge.me
+cadastro.unico.app
 caldav.larksuite.com
 calendar.notion.so
 callbacks.airbnb.com
@@ -1965,6 +1966,8 @@ com.miui.cloudbackup
 com.miui.cloudservice
 com.miui.micloudsync
 com.monaco.mobile
+com.moneybird.Moneybird
+com.moneybird.android
 com.moveit.app.customer
 com.nbaimd.gametime.nba2011
 com.nbaimd.gametime.universal
@@ -5443,6 +5446,8 @@ mod.reddit.com
 modefestival.com
 moments.marriottbonvoy.com
 money.x.com
+moneybird.com
+moneybirdstorage.com
 monitor.twilio.com
 moonpay.com
 motorcity.gleague.nba.com
