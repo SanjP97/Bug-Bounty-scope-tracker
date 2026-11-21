@@ -1175,8 +1175,6 @@ docs.launchdarkly.com
 https://launchdarkly.com/docs
 https://github.com/electroneum/electroneum/
 https://legacy-blockexplorer.electroneum.com
-https://github.com/electroneum/electroneum/
-https://legacy-blockexplorer.electroneum.com
 https://manager.trial.lsk.lightspeed.app/
 https://mylightspeed.app
 https://hq.breadcrumb.com/hq/restaurants/bounty-cafe-2/
@@ -2577,6 +2575,15 @@ https://vtxappd.underarmour.com/
 3.19.172.158
 http://unisys.com/
 http://unifysquare.com/
+https://id.unity.com
+https://api.unity.com
+https://cloud.unity.com
+https://store.unity.com
+https://pay.unity.com
+player-login.unity.com
+https://unity3d.com/get-unity/download/archive
+https://services.unity.com
+https://unity.com/download
 https://www.upwork.com
 Upwork - Android Application
 Upwork - iOS Application
