@@ -632,7 +632,6 @@ https://marketplace.atlassian.com/apps/1212096/customfield-editor-for-jira?hosti
 https://marketplace.atlassian.com/apps/1211159/advanced-codeblocks-for-confluence?hosting=datacenter&tab=overview
 https://marketplace.atlassian.com/apps/1211159/advanced-codeblocks-for-confluence/version-history
 https://marketplace.atlassian.com/apps/1211159/advanced-codeblocks-for-confluence?hosting=cloud
-https://marketplace.atlassian.com/apps/1212096/customfield-editor-for-jira?hosting=datacenter&tab=overview
 https://marketplace.atlassian.com/apps/1218652/deep-clone-for-jira?hosting=cloud
 https://marketplace.atlassian.com/apps/1219514/merge-agent-for-jira?hosting=cloud
 https://marketplace.atlassian.com/apps/1220136/quick-filters-for-jira-dashboards?hosting=cloud
@@ -1564,8 +1563,6 @@ https://octopus.com/downloads
 https://octopus.com/downloads
 https://github.com/OctopusDeploy
 https://octopus.com
-https://github.com/OctopusDeploy
-https://octopus.com
 bugcrowd-pam-###.oktapreview.com
 bugcrowd-pam-###.pam.oktapreview.com
 https://bugcrowd-pam-###.workflows.oktapreview.com
@@ -2414,6 +2411,11 @@ https://docs.tempus-ex.com
 https://github.com/tempus-ex
 https://infiniteathlete.ai
 https://platform.infiniteathlete.ai
+https://apps.apple.com/us/app/tesla/id582007913
+Any host verified to be owned by Tesla Motors Inc. (domains/IP space/etc.)
+https://play.google.com/store/apps/details?id=com.teslamotors.tesla&hl=en_US&gl=US
+Tesla Energy hardware you own
+Tesla vehicle hardware that you own
 https://manager.thefork.com
 https://apps.apple.com/app/thefork-manager-neo/id1295795281
 https://play.google.com/store/apps/details?id=com.lafourchette.tfm3
