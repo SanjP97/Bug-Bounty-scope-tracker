@@ -792,8 +792,6 @@ K9
 K9Pro
 K9s
 Kindle E-Reader
-Klarna Android App (com.myklarnamobile)
-Klarna iOS App (com.klarna.app)
 Klaviyo AWS/S3 Assets
 Klaviyo Infrascucture - 50.150.76.0/30
 Klaviyo Infrastructure - 12.109.179.242/32
@@ -870,7 +868,6 @@ Main corporate site
 Managed OpenClaw
 Managed Property Assets
 Megaphone
-Merchant Portal
 Mi Band
 Mi Electric Scooter 
 Mi Home Webcam 
@@ -1454,7 +1451,6 @@ app.geneva-staging.chat
 app.geneva-staging.com
 app.greenhouse.io
 app.interseller.io
-app.klarna.com
 app.koho.ca
 app.krisp.ai
 app.larksuite.com
