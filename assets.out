@@ -540,6 +540,8 @@ Bot Management
 Box Drive
 Box Tools
 Braintree SDK
+Brave Browser Desktop
+Brave websites
 Broken Link
 Browser Isolation
 BuddyPress Core
@@ -1830,6 +1832,8 @@ com.boozt
 com.boozt.app
 com.boozt.booztlet
 com.booztlet
+com.brave.browser
+com.brave.ios.browser
 com.bumble.app
 com.bumblebff.app
 com.bykea.pk
@@ -2661,7 +2665,6 @@ http://www.underarmour.com.sg
 https://10bis.co.il
 https://1win.com/betting
 https://1win.com/casino
-https://28degreescard.com.au
 https://8x8.vc/xmpp-websocket
 https://Mlife.mo
 https://access-sit.uat.proptrack.com
@@ -2741,7 +2744,6 @@ https://api.rx.originenergy.com.au/v1/lpg/graphql
 https://api.shop.ua.com/graphql
 https://api.simnext.bullish-test.com
 https://api.t-mobile.com
-https://api.test.latitudefinancial.com
 https://api.thefork.com
 https://api.thefork.io
 https://api.thetradedesk.com
@@ -2770,7 +2772,6 @@ https://app.glean.com/login?qe=https://bug-bounty-be.glean.com&skip_to_sso=1
 https://app.ibotta.com/sign-in 
 https://app.intercom.com
 https://app.intercom.io/
-https://app.latitudepayapps.com/
 https://app.magicestimations.com
 https://app.navan.com
 https://app.opsgenie.com
@@ -2984,13 +2985,11 @@ https://bullish.com/
 https://business-staging.getmoneytree.com/
 https://businessportal.origin.com.au
 https://butlerfortrello.com/
-https://buyersedge.co.nz
 https://c.realme.com/eg/
 https://c.realme.com/global/
 https://c.realme.com/id/
 https://c.realme.com/in/
 https://c.realme.com/ru/
-https://carecredit.com.au
 https://careers.etsy.com
 https://careers.thetradedesk.com
 https://careers.vinted.com
@@ -3085,7 +3084,6 @@ https://dbc-9a3f8ed1-7608.cloud.databricks.com
 https://ddosportal.optus.com.au
 https://dealflow.prosus.com
 https://dealflowapi.prosus.com
-https://delta.app
 https://demo.adstruc.com
 https://demo.priceless.com/
 https://desk.thetradedesk.com
@@ -3195,8 +3193,6 @@ https://etherscan.io/address/0xD168CFbBE260D48cd119497a9a2eE8482080C5E7
 https://etherscan.io/address/0xD76f5Faf6888e24D9F04Bf92a0c8B921FE4390e0
 https://etherscan.io/address/0xdcC340132740AD57E9Fc90C9BD08B00dBbc87986
 https://etherscan.io/token/0xfe18ae03741a5b84e39c295ac9c856ed7991c38e
-https://etoropartners.com
-https://etorox.com
 https://etsypayments.com
 https://evigilation.monash.edu
 https://example-jssdk-integ.uidapi.com
@@ -3227,11 +3223,8 @@ https://gateway.optus.com.au/api/ai-search/search/v1
 https://gatewaydsapprd.marriott.com/v1/
 https://gatewaydsapprd.marriott.com/v2/
 https://gcsm.oppoit.com/
-https://gemcreditline.co.nz
-https://gemfinance.co.nz
 https://geminiadvisory.io
 https://gemstash-integrations.vintedgo.com
-https://gemvisa.com.au
 https://geocode-beta.bykea.net
 https://gestordepedidos.ifood.com.br
 https://get.geo.opera.com
@@ -3452,7 +3445,6 @@ https://gitlab.com/gitlab-org/gitlab-runner
 https://gitlab.com/gitlab-org/gitlab-shell
 https://gitlab.com/gitlab-org/gitlab-vscode-extension
 https://go.elementor.com/
-https://gomastercard.com.au
 https://gov.bugcrowd.net
 https://gpt.lime.bike
 https://graphql.acorns.com
@@ -3485,7 +3477,6 @@ https://identity.bugcrowd.com/
 https://identity.majidalfuttaim.com
 https://identity.monash.edu
 https://identity.monash.edu/
-https://images.latitudepayapps.com/
 https://imply-pivot.blis.com
 https://imply-pivot.test.blis.com
 https://imply.blis.com
@@ -3498,12 +3489,9 @@ https://imply.wmaudience.com
 https://ims.monash.edu
 https://indeed.com
 https://infiniteathlete.ai
-https://interestfree.com.au
 https://internal.platform.blis.com
 https://interviews.monash.edu/
 https://investor.bullish.com/
-https://io.getdelta.android
-https://io.getdelta.ios
 https://iphone-xml.booking.com/json/
 https://itunes.apple.com/app/carrefour-uae/id626805470
 https://itunes.apple.com/us/app/quizlet-flashcards/id546473125
@@ -3535,7 +3523,6 @@ https://lab.epam.com
 https://lapi.yellowblocks.me
 https://lastpass.com
 https://lastpass.com/misc_download2.php
-https://latitudeinfinity.com.au
 https://launchdarkly.com/docs
 https://lazzx4o5mh.execute-api.eu-west-1.amazonaws.com/production/landing/client/0dfwUn870OFm3aebVTKv0xz1viKKyXlL
 https://lazzx4o5mh.execute-api.eu-west-1.amazonaws.com/production/landing/client/8VdAQsuIqDPQhsNC1sNQtS2Jf7anninl
@@ -4266,8 +4253,6 @@ https://marketplace.atlassian.com/apps/9475/switch-user-su-for-confluence?hostin
 https://marketplace.atlassian.com/apps/974024200/radar-assets-inventory-for-jsm?hosting=cloud&tab=overview
 https://marketplace.auth0.com
 https://marketplace.ifood.com.br
-https://master.servicecentre-nz.digitalservicing-np.lfscnp.com/	
-https://master.servicecentre.digitalservicing-np.lfscnp.com/
 https://matlab.mathworks.com/
 https://mattermost.com/apps/
 https://mcp-server.zomato.com/mcp
@@ -4733,7 +4718,6 @@ https://ui.com/distributors/
 https://ui.com/training/partners/
 https://uiscoop.payzippy.com
 https://ultramobile.com
-https://umiloans.com.au
 https://underarmour.co.kr
 https://underarmournext.com/
 https://unified.neogov.com
@@ -5226,6 +5210,7 @@ kubernetes-csi.github.io
 kubernetes.io
 kyc-onboarding.booking.com
 kyc.a.exodus.io
+lac-visa-payments-day.visa.com
 lakeland-dev.gleague.nba.com
 lakeland-qa.gleague.nba.com
 lakeland.gleague.nba.com
@@ -6730,6 +6715,7 @@ zooplus.net
 █████████████████████████████████████████████████████████
 ██████████████████████████████████████████████████████████
 ███████████████████████████████████████████████████████████
+████████████████████████████████████████████████████████████
 ███████████████████████████████████████████████████████████████
 ███████████████████████████████████████████████████████████████████
 ████████████████████████████████████████████████████████████████████
