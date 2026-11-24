@@ -2471,7 +2471,6 @@ github.com/binary-com
 github.com/deriv-com
 github.com/kubernetes-csi
 github.com/kubernetes-retired
-github.com/oasisprotocol/explorer
 github.com/segmentio
 github.com/sendgrid
 github.com/stytchauth/is-agent
@@ -2608,12 +2607,10 @@ http://datapod-1-druid-query.production.forescoutcloud.net/v2/services
 http://datapod-1-druid-query.production.forescoutcloud.net/v3/matrixoverview
 http://datapod-1-druid-query.production.forescoutcloud.net/v3/query/overlappingzones
 http://datapod-1-druid-query.production.forescoutcloud.net/v3/query/zonetozone
-http://emerald.oasis.dev
 http://falcon-bug-bounty-flag-pgsql-dev-sandbox.e.aivencloud.com/
 http://github.com/circlefin/noble-cctp
 http://github.com/cloudflare
 http://greenchannel.payoneer.com.cn/gcportal
-http://grpc.oasis.dev
 http://ibotta.com
 http://ibt-test.six-group.com
 http://itunes.apple.com/us/app/ibotta/id559887125
@@ -2637,8 +2634,6 @@ http://open.oppomobile.com
 http://ourhouse.underarmour.com/
 http://pay.monashcollege.edu.au/
 http://poe.com
-http://rosetta.oasis.dev/api/mainnet
-http://sapphire.oasis.io
 http://secure-iphone-xml.booking.com/json/
 http://sso-demo.gocardless-staging.io
 http://t.me/wallet
@@ -3389,12 +3384,6 @@ https://github.com/nextcloud/tables
 https://github.com/nitrojs/nitro
 https://github.com/nodejs/node
 https://github.com/nuxt/nuxt
-https://github.com/oasisprotocol/curve25519-voi
-https://github.com/oasisprotocol/deoxysii
-https://github.com/oasisprotocol/deoxysii-rust
-https://github.com/oasisprotocol/oasis-core
-https://github.com/oasisprotocol/oasis-sdk
-https://github.com/oasisprotocol/oasis-wallet-web
 https://github.com/okx/go-wallet-sdk
 https://github.com/omacom/omarchy
 https://github.com/pinterest/
@@ -5644,6 +5633,7 @@ passport.larksuite.com
 passwordchallenge.marriott.com
 pastela.app
 pata.wnba.com
+patientgpt.pennmedicine.k-test.connect-visit.com
 pay-admin.exodus.io
 pay-sandbox.gocardless.com
 pay.8x8.com
@@ -5673,6 +5663,7 @@ pc-gw-scf.sa.apse1.aws.indriverapp.com
 pdfroster-dev.nba.com
 pdfroster-qa.nba.com
 pdfroster.nba.com
+pennmedicine.k-test.connect-visit.com
 people.plata.team
 peopleanalyticsportal.nba.com
 pf-gw-cf.euce1.indriverapp.com
@@ -6062,7 +6053,6 @@ stats.nba.com
 stats.nextcloud.com
 stats.wnba.com
 status.larksuite.com
-status.oasis.io
 steamcommunity.com
 stockton-dev.gleague.nba.com
 stockton-qa.gleague.nba.com
@@ -6293,7 +6283,6 @@ vroid.com
 vth.nba.com
 vttp.nba.com
 vwcm.visa.com
-wallet.oasis.io
 wallet.tg
 walletbot.me
 wallets.api.playstation.com

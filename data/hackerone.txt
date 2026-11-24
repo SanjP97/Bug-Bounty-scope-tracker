@@ -1893,6 +1893,8 @@ www.whatnot.com
 6741442288
 https://apps.apple.com/us/app/hhc-24-7/id6741442288
 org.hartfordhealthcare.hhc247
+patientgpt.pennmedicine.k-test.connect-visit.com
+pennmedicine.k-test.connect-visit.com
 api.smtp2go.com
 app.smtp2go.com
 smtp2go.com
@@ -2346,19 +2348,6 @@ iOS Box Mobile App
 m.box.com
 notes.services.box.com
 upload.box.com
-github.com/oasisprotocol/explorer
-http://emerald.oasis.dev
-http://grpc.oasis.dev
-http://rosetta.oasis.dev/api/mainnet
-http://sapphire.oasis.io
-https://github.com/oasisprotocol/curve25519-voi
-https://github.com/oasisprotocol/deoxysii
-https://github.com/oasisprotocol/deoxysii-rust
-https://github.com/oasisprotocol/oasis-core
-https://github.com/oasisprotocol/oasis-sdk
-https://github.com/oasisprotocol/oasis-wallet-web
-status.oasis.io
-wallet.oasis.io
 Exodus Desktop Wallet
 Smart Contract: Solana - EQYRmLmkE7G7a2WQyojwrXg4SeguypCdnbm3ecncizsd
 Smart Contract: Solana mainnet - xoUSDq85Rjsb6SbUwJyreFgeWQvxdkT7R3c3g7s6p5Y
