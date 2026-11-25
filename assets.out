@@ -1252,7 +1252,6 @@ accounts.snapchat.com
 accounts.stage.evernote.com
 accounts.twilio.com
 accounts.x.ai
-accountshomolog.acesso.io
 aces-dev.wnba.com
 aces-qa.wnba.com
 aces-qa2.wnba.com
@@ -5084,7 +5083,6 @@ id=com.oceanwing.soundcore
 id=com.zhixin.controller
 idc-cf.cis.euce1.aws.indriverapp.com
 idc-gw-cf.cis.euce1.aws.indriverapp.com
-idcash-uat.unico.io
 identi.robinhood.com
 identity-dev.nba.com
 identity-ng.nba.com
@@ -5103,11 +5101,9 @@ identity.clearme.com
 identity.nba.com
 identity.wnba.com
 identity.yoti.com
-identityhomolog.acesso.io
 idp-cf.euce1.indriverapp.com
 idp-gw-cf.latam-mx.usea1.aws.indriverapp.com
 idp-scf.euce1.indriverapp.com
-idpay-uat.unico.io
 iframe.arkoselabs.com
 iframe.moonx-dev.com
 ignite-dev.gleague.nba.com
@@ -5160,7 +5156,6 @@ isa-cf.euce1.indriverapp.com
 isa-gw-cf.euce1.indriverapp.com
 isagent.dev
 ispdesign.ui.com
-issuer.idpay-uat.unico.io
 it.niedermann.owncloud.notes
 it.twsweb.Nextcloud
 itv7.itv.com
@@ -5925,7 +5920,6 @@ secure.netflix.com
 secure.newegg.ca
 secure.plaid.com
 secure.tumblr.com
-secure.unico.io
 secureui.starbucks.com
 select.logitech.com
 sell.moonpay.com
@@ -6209,7 +6203,6 @@ uc.8x8pilot.com
 ui-assets.cloud.databricks.com
 uisp.com
 uk.forescout.cloud
-unico.io
 unifi.ui.com
 university.marriott.com
 unreal-agents.8x8pilot.com
